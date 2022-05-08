@@ -25,7 +25,7 @@ model = AutoModelForSequenceClassification.from_pretrained("ProsusAI/finbert")
 
 
 # Newsfilter API endpoint
-API_KEY = "6276a200705764.72205745"
+API_KEY = "<Add your EOD Historical Data API Key>"
 
 
 def load_daily_data(symbol, past_days):
