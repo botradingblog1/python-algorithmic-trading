@@ -56,35 +56,39 @@ def calculate_technical_indicators(df):
     df['200_MA'] = df['adjclose'].rolling(window=200).mean()
     df['150_MA'] = df['adjclose'].rolling(window=150).mean()
     df['50_MA'] = df['adjclose'].rolling(window=50).mean()
+    df['RSI'] = ta.rsi(df["adjclose"], length=14)
 
     return df
 
 
 def calculate_metrics(df):
     #  Get 1 month ago values -> 20 business days
-    today = datetime.datetime.today()
-    today_str = today.strftime("%Y-%m-%d")
-    one_month_ago_str = get_past_business_days_delta_str(today_str, -20)
+    today = datetime.date.today()
+    end_date = today
+    end_date_str = datetime.datetime.strftime(end_date, "%Y-%m-%d")
+    one_month_ago_str = get_past_business_days_delta_str(end_date_str, -20)
+
     mask = (df['date'] >= one_month_ago_str)
-    df['200_MA_1m_ago'] = df[mask]['200_MA']
-    df['150_MA_1m_ago'] = df[mask]['150_MA']
+    df['200_MA_1m_ago'] = df[mask].iloc[0]['200_MA']
+    df['150_MA_1m_ago'] = df[mask].iloc[0]['150_MA']
+    df['RSI_1m_ago'] = df[mask].iloc[0]['RSI']
 
     #  Get 2 month ago values
-    two_months_ago_str = get_past_business_days_delta_str(today_str, -40)
+    two_months_ago_str = get_past_business_days_delta_str(end_date_str, -40)
     mask = (df['date'] >= two_months_ago_str)
     df['200_MA_2m_ago'] = df[mask]['200_MA']
     df['150_MA_2m_ago'] = df[mask]['150_MA']
 
     #  Get 52w values
-    one_year_ago_str = get_past_business_days_delta_str(today_str, -261)
-    mask = (df['date'] >= one_year_ago_str) & (df['date'] <= today_str)
+    one_year_ago_str = get_past_business_days_delta_str(end_date_str, -261)
+    mask = (df['date'] >= one_year_ago_str) & (df['date'] <= end_date_str)
     df['52w_low'] = df[mask]['adjclose'].min()
     df['52w_high'] = df[mask]['adjclose'].max()
 
     # Condition 6: Current Price is at least 30% above 52-week low
     df['above_52w_low'] = df['52w_low'] * 1.30
-    # Condition 7: Current Price is within 25% of 52-week high
-    df['within_52w_high'] = df['52w_high'] * 0.75
+    # Condition 7: Current Price is within 90% of 52-week high
+    df['within_52w_high'] = df['52w_high'] * 0.90
 
     return df
 
@@ -97,10 +101,11 @@ def evaluate_conditions(df):
     df['condition5'] = df['adjclose'] > df['50_MA']
     df['condition6'] = df['adjclose'] > df['above_52w_low']
     df['condition7'] = df['adjclose'] > df['within_52w_high']
+    df['condition8'] = df['RSI_1m_ago'] >= 80
 
     #  Select stocks where all conditions are met
     query = "condition1 == True & condition2 == True & condition3 == True & condition4 == True & \
-              condition5 == True & condition6 == True & condition7 == True"
+            condition5 == True & condition6 == True & condition7 == True & condition8 == True"
 
     selection_df = df.query(query)
 
@@ -124,7 +129,7 @@ def main():
         if price_df is None:
             continue
 
-        #  Only need last two year
+        #  Only need the last two years of data
         price_df = price_df.tail(522)
         if len(price_df) < 522:
             continue
