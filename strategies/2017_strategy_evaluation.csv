@@ -1,0 +1,2211 @@
+,entry_strategies,exit_strategies,profit_mean,profit_min,profit_max
+47,Buy Hold Entry,Buy Hold Exit,322.15384615384613,-240.0,1291.0
+654,Keltner Entry,"RSI Exit, Bollinger Exit",210.12087912087912,-341.0,772.0
+635,Keltner Entry,"MFI Exit, RSI Exit",205.13186813186815,-154.0,772.0
+632,Keltner Entry,"MFI Exit, MACD Exit",192.93406593406593,-289.0,623.0
+653,Keltner Entry,RSI Exit,190.27472527472528,-228.0,501.0
+629,Keltner Entry,MFI Exit,188.04395604395606,-282.0,801.0
+613,Keltner Entry,Force Exit,174.32967032967034,-341.0,1389.0
+626,Keltner Entry,MACD Exit,170.72527472527472,-131.0,955.0
+630,Keltner Entry,"MFI Exit, Bollinger Exit",168.84615384615384,-262.0,856.0
+615,Keltner Entry,"Force Exit, Keltner Exit",163.75824175824175,-341.0,1389.0
+625,Keltner Entry,Keltner Exit,158.86813186813185,-187.0,1389.0
+612,Keltner Entry,Bollinger Exit,157.75824175824175,-341.0,461.0
+616,Keltner Entry,"Force Exit, MACD Exit",148.1978021978022,-341.0,815.0
+656,Keltner Entry,TSI Exit,144.4945054945055,-202.0,1455.0
+701,MACD Entry,"RSI Exit, Bollinger Exit",138.8021978021978,-542.0,711.0
+676,MACD Entry,MFI Exit,136.27472527472528,-276.0,892.0
+628,Keltner Entry,"MACD Exit, Keltner Exit",130.13186813186815,-180.0,815.0
+622,Keltner Entry,"Force Exit, TSI Exit",130.0,-341.0,833.0
+682,MACD Entry,"MFI Exit, RSI Exit",128.74725274725276,-488.0,670.0
+700,MACD Entry,RSI Exit,127.9010989010989,-414.0,494.0
+636,Keltner Entry,"MFI Exit, RSI Exit, Bollinger Exit",127.35164835164835,-341.0,856.0
+659,MACD Entry,Bollinger Exit,119.92307692307692,-298.0,428.0
+618,Keltner Entry,"Force Exit, MACD Exit, Keltner Exit",119.42857142857143,-341.0,815.0
+1405,PVO Entry,RSI Exit,116.05494505494505,-275.0,515.0
+1406,PVO Entry,"RSI Exit, Bollinger Exit",112.91208791208791,-450.0,441.0
+679,MACD Entry,"MFI Exit, MACD Exit",111.83516483516483,-522.0,621.0
+1387,PVO Entry,"MFI Exit, RSI Exit",109.94505494505495,-248.0,508.0
+677,MACD Entry,"MFI Exit, Bollinger Exit",107.14285714285714,-488.0,766.0
+1381,PVO Entry,MFI Exit,96.51648351648352,-187.0,519.0
+776,"MACD Entry, Keltner Entry","MFI Exit, RSI Exit",95.12087912087912,-565.0,544.0
+17,Bollinger Entry,MFI Exit,94.42857142857143,-218.0,692.0
+660,MACD Entry,Force Exit,91.36263736263736,-542.0,914.0
+673,MACD Entry,MACD Exit,91.26373626373626,-632.0,587.0
+23,Bollinger Entry,"MFI Exit, RSI Exit",90.95604395604396,-331.0,597.0
+41,Bollinger Entry,RSI Exit,90.79120879120879,-331.0,517.0
+42,Bollinger Entry,"RSI Exit, Bollinger Exit",88.75824175824175,-364.0,731.0
+90,Force Entry,"RSI Exit, Bollinger Exit",88.56043956043956,-428.0,428.0
+1382,PVO Entry,"MFI Exit, Bollinger Exit",88.45054945054945,-310.0,814.0
+770,"MACD Entry, Keltner Entry",MFI Exit,86.98901098901099,-228.0,424.0
+672,MACD Entry,Keltner Exit,86.63736263736264,-294.0,914.0
+795,"MACD Entry, Keltner Entry","RSI Exit, Bollinger Exit",83.42857142857143,-565.0,684.0
+71,Force Entry,"MFI Exit, RSI Exit",83.4065934065934,-392.0,494.0
+1364,PVO Entry,Bollinger Exit,82.94505494505495,-247.0,322.0
+662,MACD Entry,"Force Exit, Keltner Exit",81.9010989010989,-542.0,914.0
+0,Bollinger Entry,Bollinger Exit,80.61538461538461,-344.0,556.0
+1384,PVO Entry,"MFI Exit, MACD Exit",79.01098901098901,-453.0,462.0
+773,"MACD Entry, Keltner Entry","MFI Exit, MACD Exit",78.49450549450549,-565.0,460.0
+771,"MACD Entry, Keltner Entry","MFI Exit, Bollinger Exit",75.67032967032966,-205.0,618.0
+619,Keltner Entry,"Force Exit, RSI Exit",74.32967032967034,-341.0,1389.0
+89,Force Entry,RSI Exit,74.1978021978022,-471.0,380.0
+754,"MACD Entry, Keltner Entry",Force Exit,74.07692307692308,-565.0,760.0
+18,Bollinger Entry,"MFI Exit, Bollinger Exit",72.84615384615384,-331.0,695.0
+683,MACD Entry,"MFI Exit, RSI Exit, Bollinger Exit",72.54945054945055,-542.0,766.0
+48,Force Entry,Bollinger Exit,72.53846153846153,-178.0,296.0
+20,Bollinger Entry,"MFI Exit, MACD Exit",72.32967032967034,-350.0,589.0
+2092,TSI Entry,"MFI Exit, RSI Exit",71.06593406593407,-414.0,536.0
+823,MFI Entry,"MFI Exit, RSI Exit",71.05494505494505,-231.0,585.0
+817,MFI Entry,MFI Exit,70.98901098901099,-231.0,585.0
+794,"MACD Entry, Keltner Entry",RSI Exit,70.5934065934066,-565.0,367.0
+663,MACD Entry,"Force Exit, MACD Exit",69.50549450549451,-542.0,760.0
+1378,PVO Entry,MACD Exit,67.67032967032966,-166.0,469.0
+2111,TSI Entry,"RSI Exit, Bollinger Exit",67.5934065934066,-503.0,578.0
+842,MFI Entry,"RSI Exit, Bollinger Exit",66.98901098901099,-539.0,830.0
+14,Bollinger Entry,MACD Exit,66.6043956043956,-312.0,648.0
+841,MFI Entry,RSI Exit,66.49450549450549,-296.0,559.0
+1388,PVO Entry,"MFI Exit, RSI Exit, Bollinger Exit",65.93406593406593,-450.0,814.0
+703,MACD Entry,TSI Exit,65.93406593406593,-452.0,966.0
+658,Keltner Entry,"TSI Exit, Keltner Exit",65.72527472527473,-341.0,797.0
+766,"MACD Entry, Keltner Entry",Keltner Exit,65.64835164835165,-164.0,760.0
+756,"MACD Entry, Keltner Entry","Force Exit, Keltner Exit",65.16483516483517,-565.0,760.0
+66,Force Entry,"MFI Exit, Bollinger Exit",63.989010989010985,-441.0,492.0
+2086,TSI Entry,MFI Exit,61.24175824175824,-216.0,356.0
+675,MACD Entry,"MACD Exit, Keltner Exit",59.73626373626374,-247.0,760.0
+2110,TSI Entry,RSI Exit,59.010989010989015,-475.0,323.0
+49,Force Entry,Force Exit,58.73626373626374,-469.0,700.0
+818,MFI Entry,"MFI Exit, Bollinger Exit",57.31868131868132,-231.0,780.0
+767,"MACD Entry, Keltner Entry",MACD Exit,57.05494505494506,-135.0,416.0
+51,Force Entry,"Force Exit, Keltner Exit",56.7032967032967,-469.0,700.0
+68,Force Entry,"MFI Exit, MACD Exit",55.84615384615385,-469.0,354.0
+777,"MACD Entry, Keltner Entry","MFI Exit, RSI Exit, Bollinger Exit",55.8021978021978,-565.0,631.0
+1365,PVO Entry,Force Exit,55.40659340659341,-421.0,705.0
+757,"MACD Entry, Keltner Entry","Force Exit, MACD Exit",54.62637362637363,-565.0,760.0
+2087,TSI Entry,"MFI Exit, Bollinger Exit",53.2967032967033,-237.0,717.0
+61,Force Entry,Keltner Exit,53.032967032967036,-228.0,700.0
+800,MFI Entry,Bollinger Exit,52.97802197802198,-245.0,508.0
+1951,RSI Entry,"MFI Exit, RSI Exit",52.07692307692308,-112.0,595.0
+669,MACD Entry,"Force Exit, TSI Exit",51.79120879120879,-542.0,790.0
+1523,"PVO Entry, MACD Entry","MFI Exit, Bollinger Exit",51.637362637362635,-123.0,808.0
+72,Force Entry,"MFI Exit, RSI Exit, Bollinger Exit",51.51648351648352,-441.0,516.0
+24,Bollinger Entry,"MFI Exit, RSI Exit, Bollinger Exit",51.45054945054945,-364.0,731.0
+820,MFI Entry,"MFI Exit, MACD Exit",51.18681318681319,-481.0,537.0
+631,Keltner Entry,"MFI Exit, Keltner Exit",51.142857142857146,-341.0,691.0
+2186,"TSI Entry, Keltner Entry","MFI Exit, RSI Exit",50.38461538461539,-128.0,536.0
+64,Force Entry,"MACD Exit, Keltner Exit",50.23076923076923,-233.0,586.0
+52,Force Entry,"Force Exit, MACD Exit",49.417582417582416,-469.0,586.0
+1367,PVO Entry,"Force Exit, Keltner Exit",49.31868131868132,-450.0,700.0
+1969,RSI Entry,RSI Exit,48.967032967032964,-112.0,569.0
+1380,PVO Entry,"MACD Exit, Keltner Exit",47.934065934065934,-174.0,532.0
+1434,"PVO Entry, Bollinger Entry","MFI Exit, RSI Exit",47.494505494505496,-229.0,604.0
+634,Keltner Entry,"MFI Exit, MACD Exit, Keltner Exit",47.2967032967033,-341.0,799.0
+165,"Force Entry, Keltner Entry","MFI Exit, RSI Exit",46.91208791208791,-140.0,424.0
+1452,"PVO Entry, Bollinger Entry",RSI Exit,46.86813186813187,-229.0,578.0
+2069,TSI Entry,Bollinger Exit,46.81318681318681,-141.0,235.0
+212,"Force Entry, MACD Entry","MFI Exit, RSI Exit",46.37362637362637,-231.0,461.0
+753,"MACD Entry, Keltner Entry",Bollinger Exit,46.2967032967033,-292.0,386.0
+665,MACD Entry,"Force Exit, MACD Exit, Keltner Exit",46.252747252747255,-542.0,760.0
+1428,"PVO Entry, Bollinger Entry",MFI Exit,46.23076923076923,-134.0,604.0
+92,Force Entry,TSI Exit,45.747252747252745,-366.0,747.0
+231,"Force Entry, MACD Entry","RSI Exit, Bollinger Exit",45.73626373626374,-231.0,375.0
+13,Bollinger Entry,Keltner Exit,45.7032967032967,-347.0,914.0
+1368,PVO Entry,"Force Exit, MACD Exit",45.53846153846154,-450.0,733.0
+65,Force Entry,MFI Exit,44.69230769230769,-194.0,382.0
+964,"MFI Entry, MACD Entry","MFI Exit, RSI Exit",44.604395604395606,-228.0,558.0
+627,Keltner Entry,"MACD Exit, Bollinger Exit",44.527472527472526,-341.0,781.0
+769,"MACD Entry, Keltner Entry","MACD Exit, Keltner Exit",44.417582417582416,-226.0,760.0
+983,"MFI Entry, MACD Entry","RSI Exit, Bollinger Exit",44.252747252747255,-435.0,755.0
+1453,"PVO Entry, Bollinger Entry","RSI Exit, Bollinger Exit",44.032967032967036,-229.0,527.0
+16,Bollinger Entry,"MACD Exit, Keltner Exit",43.83516483516483,-311.0,912.0
+1945,RSI Entry,MFI Exit,43.7032967032967,-144.0,595.0
+2089,TSI Entry,"MFI Exit, MACD Exit",43.69230769230769,-416.0,455.0
+824,MFI Entry,"MFI Exit, RSI Exit, Bollinger Exit",43.21978021978022,-539.0,830.0
+184,"Force Entry, Keltner Entry","RSI Exit, Bollinger Exit",43.15384615384615,-137.0,466.0
+1946,RSI Entry,"MFI Exit, Bollinger Exit",43.07692307692308,-112.0,557.0
+959,"MFI Entry, MACD Entry","MFI Exit, Bollinger Exit",42.53846153846154,-228.0,769.0
+207,"Force Entry, MACD Entry","MFI Exit, Bollinger Exit",42.32967032967033,-231.0,523.0
+982,"MFI Entry, MACD Entry",RSI Exit,42.26373626373626,-228.0,533.0
+1377,PVO Entry,Keltner Exit,42.175824175824175,-237.0,700.0
+1970,RSI Entry,"RSI Exit, Bollinger Exit",42.15384615384615,-112.0,321.0
+2181,"TSI Entry, Keltner Entry","MFI Exit, Bollinger Exit",42.0989010989011,-128.0,717.0
+797,"MACD Entry, Keltner Entry",TSI Exit,41.72527472527472,-231.0,721.0
+1528,"PVO Entry, MACD Entry","MFI Exit, RSI Exit",40.59340659340659,-450.0,356.0
+2205,"TSI Entry, Keltner Entry","RSI Exit, Bollinger Exit",40.494505494505496,-128.0,334.0
+1374,PVO Entry,"Force Exit, TSI Exit",39.9010989010989,-450.0,502.0
+958,"MFI Entry, MACD Entry",MFI Exit,39.8021978021978,-228.0,558.0
+1429,"PVO Entry, Bollinger Entry","MFI Exit, Bollinger Exit",39.362637362637365,-229.0,798.0
+4,Bollinger Entry,"Force Exit, MACD Exit",39.34065934065934,-364.0,912.0
+814,MFI Entry,MACD Exit,39.08791208791209,-293.0,537.0
+655,Keltner Entry,"RSI Exit, Keltner Exit",39.07692307692308,-341.0,1389.0
+1408,PVO Entry,TSI Exit,38.86813186813187,-270.0,747.0
+763,"MACD Entry, Keltner Entry","Force Exit, TSI Exit",38.8021978021978,-565.0,721.0
+1547,"PVO Entry, MACD Entry","RSI Exit, Bollinger Exit",38.68131868131868,-450.0,375.0
+58,Force Entry,"Force Exit, TSI Exit",38.46153846153846,-555.0,616.0
+1522,"PVO Entry, MACD Entry",MFI Exit,38.2967032967033,-123.0,339.0
+1411,"PVO Entry, Bollinger Entry",Bollinger Exit,37.37362637362637,-229.0,527.0
+230,"Force Entry, MACD Entry",RSI Exit,37.16483516483517,-231.0,344.0
+62,Force Entry,MACD Exit,36.94505494505494,-276.0,234.0
+2183,"TSI Entry, Keltner Entry","MFI Exit, MACD Exit",36.05494505494506,-128.0,460.0
+2016,"RSI Entry, Bollinger Entry",RSI Exit,35.86813186813187,-120.0,578.0
+1998,"RSI Entry, Bollinger Entry","MFI Exit, RSI Exit",35.83516483516483,-120.0,604.0
+2083,TSI Entry,MACD Exit,35.32967032967033,-222.0,345.0
+54,Force Entry,"Force Exit, MACD Exit, Keltner Exit",35.2967032967033,-469.0,586.0
+3,Bollinger Entry,"Force Exit, Keltner Exit",34.84615384615385,-364.0,914.0
+2204,"TSI Entry, Keltner Entry",RSI Exit,34.75824175824176,-128.0,213.0
+1669,"PVO Entry, RSI Entry","MFI Exit, RSI Exit",34.67032967032967,-112.0,595.0
+2180,"TSI Entry, Keltner Entry",MFI Exit,34.21978021978022,-128.0,361.0
+2070,TSI Entry,Force Exit,34.07692307692308,-503.0,579.0
+965,"MFI Entry, MACD Entry","MFI Exit, RSI Exit, Bollinger Exit",34.032967032967036,-435.0,769.0
+183,"Force Entry, Keltner Entry",RSI Exit,33.9010989010989,-114.0,326.0
+759,"MACD Entry, Keltner Entry","Force Exit, MACD Exit, Keltner Exit",33.83516483516483,-565.0,760.0
+160,"Force Entry, Keltner Entry","MFI Exit, Bollinger Exit",33.81318681318681,-287.0,523.0
+1992,"RSI Entry, Bollinger Entry",MFI Exit,33.57142857142857,-147.0,604.0
+1500,"PVO Entry, Keltner Entry","RSI Exit, Bollinger Exit",33.505494505494504,-375.0,436.0
+1952,RSI Entry,"MFI Exit, RSI Exit, Bollinger Exit",33.02197802197802,-112.0,470.0
+1993,"RSI Entry, Bollinger Entry","MFI Exit, Bollinger Exit",32.89010989010989,-120.0,496.0
+306,"Force Entry, MACD Entry, Keltner Entry","MFI Exit, RSI Exit",32.67032967032967,-127.0,461.0
+44,Bollinger Entry,TSI Exit,32.637362637362635,-220.0,525.0
+1476,"PVO Entry, Keltner Entry","MFI Exit, Bollinger Exit",32.51648351648352,-257.0,556.0
+166,"Force Entry, Keltner Entry","MFI Exit, RSI Exit, Bollinger Exit",32.24175824175824,-287.0,523.0
+2093,TSI Entry,"MFI Exit, RSI Exit, Bollinger Exit",32.043956043956044,-503.0,717.0
+213,"Force Entry, MACD Entry","MFI Exit, RSI Exit, Bollinger Exit",31.835164835164836,-231.0,523.0
+1529,"PVO Entry, MACD Entry","MFI Exit, RSI Exit, Bollinger Exit",31.406593406593405,-450.0,808.0
+159,"Force Entry, Keltner Entry",MFI Exit,31.395604395604394,-135.0,350.0
+1481,"PVO Entry, Keltner Entry","MFI Exit, RSI Exit",31.186813186813186,-375.0,428.0
+189,"Force Entry, MACD Entry",Bollinger Exit,31.164835164835164,-110.0,288.0
+961,"MFI Entry, MACD Entry","MFI Exit, MACD Exit",30.813186813186814,-228.0,470.0
+301,"Force Entry, MACD Entry, Keltner Entry","MFI Exit, Bollinger Exit",30.64835164835165,-151.0,523.0
+2082,TSI Entry,Keltner Exit,30.571428571428573,-210.0,482.0
+1518,"PVO Entry, MACD Entry",Keltner Exit,30.54945054945055,-133.0,700.0
+206,"Force Entry, MACD Entry",MFI Exit,30.516483516483518,-122.0,350.0
+1546,"PVO Entry, MACD Entry",RSI Exit,30.516483516483518,-450.0,392.0
+1805,"PVO Entry, TSI Entry","MFI Exit, Bollinger Exit",30.373626373626372,-116.0,596.0
+816,MFI Entry,"MACD Exit, Keltner Exit",30.274725274725274,-201.0,709.0
+621,Keltner Entry,"Force Exit, RSI Exit, Keltner Exit",30.0989010989011,-341.0,1389.0
+1810,"PVO Entry, TSI Entry","MFI Exit, RSI Exit",29.967032967032967,-116.0,363.0
+1475,"PVO Entry, Keltner Entry",MFI Exit,29.87912087912088,-146.0,343.0
+1506,"PVO Entry, MACD Entry",Force Exit,29.802197802197803,-450.0,700.0
+494,"Force Entry, TSI Entry","MFI Exit, RSI Exit",29.032967032967033,-124.0,363.0
+190,"Force Entry, MACD Entry",Force Exit,28.67032967032967,-231.0,700.0
+1617,"PVO Entry, MACD Entry, Keltner Entry","MFI Exit, Bollinger Exit",28.67032967032967,-122.0,409.0
+1928,RSI Entry,Bollinger Exit,28.34065934065934,-140.0,518.0
+2017,"RSI Entry, Bollinger Entry","RSI Exit, Bollinger Exit",28.032967032967033,-120.0,334.0
+1525,"PVO Entry, MACD Entry","MFI Exit, MACD Exit",27.736263736263737,-414.0,437.0
+941,"MFI Entry, MACD Entry",Bollinger Exit,27.63736263736264,-176.0,483.0
+307,"Force Entry, MACD Entry, Keltner Entry","MFI Exit, RSI Exit, Bollinger Exit",27.516483516483518,-127.0,523.0
+1622,"PVO Entry, MACD Entry, Keltner Entry","MFI Exit, RSI Exit",27.406593406593405,-122.0,356.0
+1829,"PVO Entry, TSI Entry","RSI Exit, Bollinger Exit",27.307692307692307,-116.0,356.0
+1508,"PVO Entry, MACD Entry","Force Exit, Keltner Exit",27.13186813186813,-450.0,700.0
+1549,"PVO Entry, MACD Entry",TSI Exit,27.12087912087912,-180.0,747.0
+2164,"TSI Entry, Keltner Entry",Force Exit,27.10989010989011,-128.0,326.0
+325,"Force Entry, MACD Entry, Keltner Entry","RSI Exit, Bollinger Exit",27.032967032967033,-127.0,476.0
+2166,"TSI Entry, Keltner Entry","Force Exit, Keltner Exit",26.967032967032967,-128.0,323.0
+1687,"PVO Entry, RSI Entry",RSI Exit,26.846153846153847,-112.0,569.0
+2072,TSI Entry,"Force Exit, Keltner Exit",26.813186813186814,-503.0,579.0
+1435,"PVO Entry, Bollinger Entry","MFI Exit, RSI Exit, Bollinger Exit",26.615384615384617,-229.0,798.0
+844,MFI Entry,TSI Exit,26.615384615384617,-342.0,907.0
+145,"Force Entry, Keltner Entry","Force Exit, Keltner Exit",26.36263736263736,-287.0,359.0
+1623,"PVO Entry, MACD Entry, Keltner Entry","MFI Exit, RSI Exit, Bollinger Exit",26.35164835164835,-122.0,409.0
+1482,"PVO Entry, Keltner Entry","MFI Exit, RSI Exit, Bollinger Exit",26.153846153846153,-375.0,556.0
+1663,"PVO Entry, RSI Entry",MFI Exit,26.076923076923077,-106.0,595.0
+2187,"TSI Entry, Keltner Entry","MFI Exit, RSI Exit, Bollinger Exit",26.021978021978022,-128.0,717.0
+192,"Force Entry, MACD Entry","Force Exit, Keltner Exit",25.604395604395606,-231.0,700.0
+1716,"PVO Entry, RSI Entry, Bollinger Entry","MFI Exit, RSI Exit",25.505494505494507,-120.0,604.0
+1664,"PVO Entry, RSI Entry","MFI Exit, Bollinger Exit",25.45054945054945,-112.0,311.0
+1505,"PVO Entry, MACD Entry",Bollinger Exit,25.34065934065934,-105.0,187.0
+1804,"PVO Entry, TSI Entry",MFI Exit,25.186813186813186,-116.0,356.0
+1811,"PVO Entry, TSI Entry","MFI Exit, RSI Exit, Bollinger Exit",25.164835164835164,-116.0,596.0
+1459,"PVO Entry, Keltner Entry",Force Exit,24.34065934065934,-375.0,546.0
+209,"Force Entry, MACD Entry","MFI Exit, MACD Exit",24.0989010989011,-231.0,302.0
+1616,"PVO Entry, MACD Entry, Keltner Entry",MFI Exit,24.087912087912088,-122.0,338.0
+1948,RSI Entry,"MFI Exit, MACD Exit",24.065934065934066,-305.0,228.0
+202,"Force Entry, MACD Entry",Keltner Exit,24.01098901098901,-220.0,700.0
+1478,"PVO Entry, Keltner Entry","MFI Exit, MACD Exit",23.791208791208792,-193.0,435.0
+143,"Force Entry, Keltner Entry",Force Exit,23.516483516483518,-287.0,383.0
+1734,"PVO Entry, RSI Entry, Bollinger Entry",RSI Exit,23.36263736263736,-120.0,578.0
+810,MFI Entry,"Force Exit, TSI Exit",23.318681318681318,-539.0,907.0
+324,"Force Entry, MACD Entry, Keltner Entry",RSI Exit,23.142857142857142,-127.0,319.0
+1828,"PVO Entry, TSI Entry",RSI Exit,23.10989010989011,-116.0,199.0
+804,MFI Entry,"Force Exit, MACD Exit",22.98901098901099,-539.0,697.0
+1521,"PVO Entry, MACD Entry","MACD Exit, Keltner Exit",22.967032967032967,-127.0,339.0
+488,"Force Entry, TSI Entry",MFI Exit,22.934065934065934,-135.0,220.0
+1431,"PVO Entry, Bollinger Entry","MFI Exit, MACD Exit",22.835164835164836,-185.0,294.0
+813,MFI Entry,Keltner Exit,22.747252747252748,-374.0,416.0
+666,MACD Entry,"Force Exit, RSI Exit",22.64835164835165,-542.0,914.0
+2173,"TSI Entry, Keltner Entry","Force Exit, TSI Exit",22.285714285714285,-155.0,748.0
+2167,"TSI Entry, Keltner Entry","Force Exit, MACD Exit",22.164835164835164,-128.0,637.0
+186,"Force Entry, Keltner Entry",TSI Exit,22.153846153846153,-229.0,484.0
+1670,"PVO Entry, RSI Entry","MFI Exit, RSI Exit, Bollinger Exit",22.065934065934066,-112.0,460.0
+1371,PVO Entry,"Force Exit, RSI Exit",22.065934065934066,-450.0,736.0
+1509,"PVO Entry, MACD Entry","Force Exit, MACD Exit",21.967032967032967,-450.0,728.0
+1710,"PVO Entry, RSI Entry, Bollinger Entry",MFI Exit,21.846153846153847,-105.0,604.0
+1370,PVO Entry,"Force Exit, MACD Exit, Keltner Exit",21.835164835164836,-450.0,532.0
+162,"Force Entry, Keltner Entry","MFI Exit, MACD Exit",21.516483516483518,-287.0,273.0
+2073,TSI Entry,"Force Exit, MACD Exit",21.417582417582416,-503.0,637.0
+513,"Force Entry, TSI Entry","RSI Exit, Bollinger Exit",21.175824175824175,-134.0,335.0
+1975,"RSI Entry, Bollinger Entry",Bollinger Exit,21.175824175824175,-144.0,527.0
+1942,RSI Entry,MACD Exit,21.153846153846153,-118.0,340.0
+1688,"PVO Entry, RSI Entry","RSI Exit, Bollinger Exit",21.142857142857142,-112.0,302.0
+155,"Force Entry, Keltner Entry",Keltner Exit,21.054945054945055,-152.0,384.0
+641,Keltner Entry,PVO Exit,21.01098901098901,-341.0,600.0
+6,Bollinger Entry,"Force Exit, MACD Exit, Keltner Exit",20.9010989010989,-364.0,912.0
+142,"Force Entry, Keltner Entry",Bollinger Exit,20.824175824175825,-110.0,194.0
+1499,"PVO Entry, Keltner Entry",RSI Exit,20.67032967032967,-375.0,373.0
+300,"Force Entry, MACD Entry, Keltner Entry",MFI Exit,20.505494505494507,-127.0,251.0
+286,"Force Entry, MACD Entry, Keltner Entry","Force Exit, Keltner Exit",20.395604395604394,-127.0,359.0
+1123,"MFI Entry, RSI Entry",RSI Exit,20.208791208791208,-105.0,360.0
+152,"Force Entry, Keltner Entry","Force Exit, TSI Exit",19.967032967032967,-287.0,484.0
+1105,"MFI Entry, RSI Entry","MFI Exit, RSI Exit",19.923076923076923,-105.0,390.0
+471,"Force Entry, TSI Entry",Bollinger Exit,19.747252747252748,-60.0,227.0
+1641,"PVO Entry, MACD Entry, Keltner Entry","RSI Exit, Bollinger Exit",19.725274725274726,-110.0,350.0
+489,"Force Entry, TSI Entry","MFI Exit, Bollinger Exit",19.615384615384617,-237.0,363.0
+935,"MFI Entry, Keltner Entry",RSI Exit,18.967032967032967,-125.0,349.0
+1999,"RSI Entry, Bollinger Entry","MFI Exit, RSI Exit, Bollinger Exit",18.846153846153847,-120.0,334.0
+1600,"PVO Entry, MACD Entry, Keltner Entry",Force Exit,18.76923076923077,-110.0,383.0
+1425,"PVO Entry, Bollinger Entry",MACD Exit,18.75824175824176,-185.0,291.0
+624,Keltner Entry,"Force Exit, TSI Exit, Keltner Exit",18.714285714285715,-341.0,733.0
+760,"MACD Entry, Keltner Entry","Force Exit, RSI Exit",18.65934065934066,-565.0,760.0
+1807,"PVO Entry, TSI Entry","MFI Exit, MACD Exit",18.604395604395606,-116.0,455.0
+512,"Force Entry, TSI Entry",RSI Exit,18.560439560439562,-120.0,261.0
+1619,"PVO Entry, MACD Entry, Keltner Entry","MFI Exit, MACD Exit",18.45054945054945,-122.0,435.0
+1502,"PVO Entry, Keltner Entry",TSI Exit,18.175824175824175,-207.0,588.0
+296,"Force Entry, MACD Entry, Keltner Entry",Keltner Exit,17.9010989010989,-81.0,384.0
+1602,"PVO Entry, MACD Entry, Keltner Entry","Force Exit, Keltner Exit",17.791208791208792,-110.0,359.0
+146,"Force Entry, Keltner Entry","Force Exit, MACD Exit",17.615384615384617,-287.0,339.0
+1711,"PVO Entry, RSI Entry, Bollinger Entry","MFI Exit, Bollinger Exit",17.516483516483518,-120.0,334.0
+801,MFI Entry,Force Exit,17.494505494505493,-488.0,496.0
+955,"MFI Entry, MACD Entry",MACD Exit,17.46153846153846,-294.0,470.0
+1099,"MFI Entry, RSI Entry",MFI Exit,17.439560439560438,-105.0,390.0
+917,"MFI Entry, Keltner Entry","MFI Exit, RSI Exit",17.395604395604394,-125.0,364.0
+803,MFI Entry,"Force Exit, Keltner Exit",17.252747252747252,-539.0,416.0
+1472,"PVO Entry, Keltner Entry",MACD Exit,17.054945054945055,-129.0,272.0
+1515,"PVO Entry, MACD Entry","Force Exit, TSI Exit",16.9010989010989,-450.0,502.0
+914,"MFI Entry, Keltner Entry","MFI Exit, MACD Exit",16.802197802197803,-125.0,406.0
+156,"Force Entry, Keltner Entry",MACD Exit,16.791208791208792,-224.0,227.0
+284,"Force Entry, MACD Entry, Keltner Entry",Force Exit,16.67032967032967,-127.0,383.0
+2176,"TSI Entry, Keltner Entry",Keltner Exit,16.65934065934066,-137.0,309.0
+1995,"RSI Entry, Bollinger Entry","MFI Exit, MACD Exit",16.615384615384617,-305.0,210.0
+936,"MFI Entry, Keltner Entry","RSI Exit, Bollinger Exit",16.505494505494507,-125.0,332.0
+1735,"PVO Entry, RSI Entry, Bollinger Entry","RSI Exit, Bollinger Exit",16.406593406593405,-120.0,334.0
+1124,"MFI Entry, RSI Entry","RSI Exit, Bollinger Exit",16.406593406593405,-105.0,248.0
+1646,"PVO Entry, RSI Entry",Bollinger Exit,16.065934065934066,-106.0,518.0
+1,Bollinger Entry,Force Exit,15.824175824175825,-370.0,920.0
+193,"Force Entry, MACD Entry","Force Exit, MACD Exit",15.758241758241759,-231.0,339.0
+327,"Force Entry, MACD Entry, Keltner Entry",TSI Exit,15.362637362637363,-139.0,396.0
+1787,"PVO Entry, TSI Entry",Bollinger Exit,15.263736263736265,-49.0,182.0
+911,"MFI Entry, Keltner Entry",MFI Exit,15.164835164835164,-125.0,364.0
+1461,"PVO Entry, Keltner Entry","Force Exit, Keltner Exit",15.131868131868131,-375.0,546.0
+94,Force Entry,"TSI Exit, Keltner Exit",15.054945054945055,-555.0,478.0
+1519,"PVO Entry, MACD Entry",MACD Exit,14.967032967032967,-154.0,255.0
+2163,"TSI Entry, Keltner Entry",Bollinger Exit,14.923076923076923,-128.0,152.0
+1100,"MFI Entry, RSI Entry","MFI Exit, Bollinger Exit",14.846153846153847,-114.0,342.0
+158,"Force Entry, Keltner Entry","MACD Exit, Keltner Exit",14.758241758241759,-152.0,365.0
+1788,"PVO Entry, TSI Entry",Force Exit,14.494505494505495,-60.0,522.0
+303,"Force Entry, MACD Entry, Keltner Entry","MFI Exit, MACD Exit",14.406593406593407,-151.0,252.0
+55,Force Entry,"Force Exit, RSI Exit",14.219780219780219,-555.0,700.0
+957,"MFI Entry, MACD Entry","MACD Exit, Keltner Exit",14.197802197802197,-177.0,635.0
+1471,"PVO Entry, Keltner Entry",Keltner Exit,14.197802197802197,-159.0,546.0
+10,Bollinger Entry,"Force Exit, TSI Exit",14.142857142857142,-364.0,435.0
+1458,"PVO Entry, Keltner Entry",Bollinger Exit,13.989010989010989,-257.0,222.0
+1640,"PVO Entry, MACD Entry, Keltner Entry",RSI Exit,13.989010989010989,-110.0,367.0
+2079,TSI Entry,"Force Exit, TSI Exit",13.780219780219781,-503.0,748.0
+7,Bollinger Entry,"Force Exit, RSI Exit",13.637362637362637,-364.0,912.0
+1076,"MFI Entry, MACD Entry, Keltner Entry",RSI Exit,13.582417582417582,-124.0,349.0
+1972,RSI Entry,TSI Exit,13.472527472527473,-185.0,289.0
+894,"MFI Entry, Keltner Entry",Bollinger Exit,13.461538461538462,-101.0,294.0
+2177,"TSI Entry, Keltner Entry",MACD Exit,13.417582417582418,-144.0,186.0
+1082,"MFI Entry, RSI Entry",Bollinger Exit,13.384615384615385,-105.0,342.0
+233,"Force Entry, MACD Entry",TSI Exit,13.307692307692308,-231.0,747.0
+1058,"MFI Entry, MACD Entry, Keltner Entry","MFI Exit, RSI Exit",13.219780219780219,-124.0,364.0
+1693,"PVO Entry, RSI Entry, Bollinger Entry",Bollinger Exit,13.010989010989011,-120.0,527.0
+1468,"PVO Entry, Keltner Entry","Force Exit, TSI Exit",12.934065934065934,-375.0,484.0
+1427,"PVO Entry, Bollinger Entry","MACD Exit, Keltner Exit",12.89010989010989,-229.0,349.0
+1989,"RSI Entry, Bollinger Entry",MACD Exit,12.89010989010989,-98.0,291.0
+1609,"PVO Entry, MACD Entry, Keltner Entry","Force Exit, TSI Exit",12.824175824175825,-124.0,383.0
+1643,"PVO Entry, MACD Entry, Keltner Entry",TSI Exit,12.802197802197803,-122.0,396.0
+1474,"PVO Entry, Keltner Entry","MACD Exit, Keltner Exit",12.802197802197803,-179.0,365.0
+614,Keltner Entry,"Force Exit, Bollinger Exit",12.736263736263735,-341.0,495.0
+1717,"PVO Entry, RSI Entry, Bollinger Entry","MFI Exit, RSI Exit, Bollinger Exit",12.659340659340659,-120.0,334.0
+1106,"MFI Entry, RSI Entry","MFI Exit, RSI Exit, Bollinger Exit",12.626373626373626,-114.0,335.0
+203,"Force Entry, MACD Entry",MACD Exit,12.428571428571429,-229.0,229.0
+1462,"PVO Entry, Keltner Entry","Force Exit, MACD Exit",12.340659340659341,-375.0,484.0
+491,"Force Entry, TSI Entry","MFI Exit, MACD Exit",12.31868131868132,-237.0,178.0
+1791,"PVO Entry, TSI Entry","Force Exit, MACD Exit",12.307692307692308,-52.0,522.0
+1612,"PVO Entry, MACD Entry, Keltner Entry",Keltner Exit,12.23076923076923,-77.0,359.0
+847,"MFI Entry, Bollinger Entry",Bollinger Exit,12.131868131868131,-158.0,144.0
+1055,"MFI Entry, MACD Entry, Keltner Entry","MFI Exit, MACD Exit",11.967032967032967,-124.0,406.0
+1511,"PVO Entry, MACD Entry","Force Exit, MACD Exit, Keltner Exit",11.659340659340659,-450.0,339.0
+1077,"MFI Entry, MACD Entry, Keltner Entry","RSI Exit, Bollinger Exit",11.538461538461538,-124.0,332.0
+297,"Force Entry, MACD Entry, Keltner Entry",MACD Exit,11.505494505494505,-65.0,188.0
+1052,"MFI Entry, MACD Entry, Keltner Entry",MFI Exit,11.483516483516484,-124.0,364.0
+67,Force Entry,"MFI Exit, Keltner Exit",11.373626373626374,-469.0,473.0
+283,"Force Entry, MACD Entry, Keltner Entry",Bollinger Exit,11.241758241758241,-127.0,186.0
+985,"MFI Entry, MACD Entry",TSI Exit,11.23076923076923,-228.0,823.0
+1899,"PVO Entry, TSI Entry, Keltner Entry","MFI Exit, Bollinger Exit",10.857142857142858,-108.0,357.0
+495,"Force Entry, TSI Entry","MFI Exit, RSI Exit, Bollinger Exit",10.824175824175825,-237.0,363.0
+1660,"PVO Entry, RSI Entry",MACD Exit,10.714285714285714,-57.0,282.0
+1790,"PVO Entry, TSI Entry","Force Exit, Keltner Exit",10.615384615384615,-85.0,276.0
+888,"MFI Entry, Bollinger Entry",RSI Exit,10.527472527472527,-158.0,216.0
+474,"Force Entry, TSI Entry","Force Exit, Keltner Exit",10.307692307692308,-109.0,186.0
+895,"MFI Entry, Keltner Entry",Force Exit,10.197802197802197,-120.0,313.0
+1944,RSI Entry,"MACD Exit, Keltner Exit",10.186813186813186,-133.0,277.0
+2085,TSI Entry,"MACD Exit, Keltner Exit",10.175824175824175,-195.0,504.0
+806,MFI Entry,"Force Exit, MACD Exit, Keltner Exit",10.142857142857142,-539.0,709.0
+1603,"PVO Entry, MACD Entry, Keltner Entry","Force Exit, MACD Exit",10.043956043956044,-122.0,339.0
+2113,TSI Entry,TSI Exit,9.978021978021978,-210.0,688.0
+864,"MFI Entry, Bollinger Entry",MFI Exit,9.901098901098901,-158.0,208.0
+945,"MFI Entry, MACD Entry","Force Exit, MACD Exit",9.901098901098901,-435.0,687.0
+63,Force Entry,"MACD Exit, Bollinger Exit",9.76923076923077,-555.0,512.0
+1923,"PVO Entry, TSI Entry, Keltner Entry","RSI Exit, Bollinger Exit",9.747252747252746,-40.0,245.0
+870,"MFI Entry, Bollinger Entry","MFI Exit, RSI Exit",9.637362637362637,-158.0,225.0
+293,"Force Entry, MACD Entry, Keltner Entry","Force Exit, TSI Exit",9.582417582417582,-127.0,383.0
+1035,"MFI Entry, MACD Entry, Keltner Entry",Bollinger Exit,9.571428571428571,-102.0,294.0
+205,"Force Entry, MACD Entry","MACD Exit, Keltner Exit",9.31868131868132,-231.0,339.0
+148,"Force Entry, Keltner Entry","Force Exit, MACD Exit, Keltner Exit",9.296703296703297,-287.0,365.0
+889,"MFI Entry, Bollinger Entry","RSI Exit, Bollinger Exit",8.901098901098901,-158.0,194.0
+1265,"MFI Entry, TSI Entry","RSI Exit, Bollinger Exit",8.857142857142858,-116.0,201.0
+1904,"PVO Entry, TSI Entry, Keltner Entry","MFI Exit, RSI Exit",8.846153846153847,-108.0,256.0
+910,"MFI Entry, Keltner Entry","MACD Exit, Keltner Exit",8.758241758241759,-162.0,313.0
+908,"MFI Entry, Keltner Entry",MACD Exit,8.626373626373626,-110.0,323.0
+942,"MFI Entry, MACD Entry",Force Exit,8.494505494505495,-435.0,456.0
+861,"MFI Entry, Bollinger Entry",MACD Exit,8.32967032967033,-76.0,213.0
+1941,RSI Entry,Keltner Exit,8.307692307692308,-111.0,187.0
+70,Force Entry,"MFI Exit, MACD Exit, Keltner Exit",8.285714285714286,-469.0,473.0
+1991,"RSI Entry, Bollinger Entry","MACD Exit, Keltner Exit",8.219780219780219,-136.0,259.0
+1264,"MFI Entry, TSI Entry",RSI Exit,8.10989010989011,-116.0,185.0
+904,"MFI Entry, Keltner Entry","Force Exit, TSI Exit",8.0,-125.0,525.0
+1102,"MFI Entry, RSI Entry","MFI Exit, MACD Exit",7.956043956043956,-114.0,297.0
+2019,"RSI Entry, Bollinger Entry",TSI Exit,7.758241758241758,-181.0,270.0
+1615,"PVO Entry, MACD Entry, Keltner Entry","MACD Exit, Keltner Exit",7.681318681318682,-122.0,339.0
+772,"MACD Entry, Keltner Entry","MFI Exit, Keltner Exit",7.626373626373627,-565.0,532.0
+287,"Force Entry, MACD Entry, Keltner Entry","Force Exit, MACD Exit",7.527472527472527,-151.0,339.0
+1938,RSI Entry,"Force Exit, TSI Exit",7.461538461538462,-305.0,367.0
+157,"Force Entry, Keltner Entry","MACD Exit, Bollinger Exit",7.395604395604396,-287.0,512.0
+867,"MFI Entry, Bollinger Entry","MFI Exit, MACD Exit",7.318681318681318,-158.0,208.0
+1988,"RSI Entry, Bollinger Entry",Keltner Exit,7.252747252747253,-118.0,170.0
+1379,PVO Entry,"MACD Exit, Bollinger Exit",7.142857142857143,-450.0,491.0
+1036,"MFI Entry, MACD Entry, Keltner Entry",Force Exit,6.956043956043956,-102.0,264.0
+912,"MFI Entry, Keltner Entry","MFI Exit, Bollinger Exit",6.956043956043956,-125.0,191.0
+1898,"PVO Entry, TSI Entry, Keltner Entry",MFI Exit,6.945054945054945,-62.0,171.0
+1111,"MFI Entry, RSI Entry",PVO Exit,6.934065934065934,-114.0,436.0
+863,"MFI Entry, Bollinger Entry","MACD Exit, Keltner Exit",6.912087912087912,-75.0,349.0
+2170,"TSI Entry, Keltner Entry","Force Exit, RSI Exit",6.8901098901098905,-128.0,394.0
+951,"MFI Entry, MACD Entry","Force Exit, TSI Exit",6.857142857142857,-435.0,823.0
+1599,"PVO Entry, MACD Entry, Keltner Entry",Bollinger Exit,6.846153846153846,-110.0,172.0
+674,MACD Entry,"MACD Exit, Bollinger Exit",6.835164835164835,-542.0,663.0
+954,"MFI Entry, MACD Entry",Keltner Exit,6.758241758241758,-317.0,353.0
+299,"Force Entry, MACD Entry, Keltner Entry","MACD Exit, Keltner Exit",6.758241758241758,-127.0,339.0
+1455,"PVO Entry, Bollinger Entry",TSI Exit,6.736263736263736,-229.0,278.0
+1170,"MFI Entry, RSI Entry, Bollinger Entry",RSI Exit,6.736263736263736,-108.0,216.0
+472,"Force Entry, TSI Entry",Force Exit,6.725274725274725,-109.0,186.0
+1152,"MFI Entry, RSI Entry, Bollinger Entry","MFI Exit, RSI Exit",6.571428571428571,-108.0,225.0
+1240,"MFI Entry, TSI Entry",MFI Exit,6.527472527472527,-117.0,310.0
+891,"MFI Entry, Bollinger Entry",TSI Exit,6.417582417582418,-108.0,289.0
+1613,"PVO Entry, MACD Entry, Keltner Entry",MACD Exit,6.406593406593407,-82.0,134.0
+1098,"MFI Entry, RSI Entry","MACD Exit, Keltner Exit",6.373626373626373,-102.0,285.0
+1905,"PVO Entry, TSI Entry, Keltner Entry","MFI Exit, RSI Exit, Bollinger Exit",6.274725274725275,-108.0,290.0
+1707,"PVO Entry, RSI Entry, Bollinger Entry",MACD Exit,6.230769230769231,-76.0,291.0
+897,"MFI Entry, Keltner Entry","Force Exit, Keltner Exit",6.1098901098901095,-120.0,313.0
+907,"MFI Entry, Keltner Entry",Keltner Exit,6.065934065934066,-162.0,313.0
+1243,"MFI Entry, TSI Entry","MFI Exit, MACD Exit",6.021978021978022,-117.0,406.0
+1922,"PVO Entry, TSI Entry, Keltner Entry",RSI Exit,6.010989010989011,-32.0,191.0
+865,"MFI Entry, Bollinger Entry","MFI Exit, Bollinger Exit",5.978021978021978,-158.0,208.0
+1096,"MFI Entry, RSI Entry",MACD Exit,5.9010989010989015,-102.0,172.0
+1512,"PVO Entry, MACD Entry","Force Exit, RSI Exit",5.9010989010989015,-450.0,700.0
+1662,"PVO Entry, RSI Entry","MACD Exit, Keltner Exit",5.857142857142857,-100.0,155.0
+1605,"PVO Entry, MACD Entry, Keltner Entry","Force Exit, MACD Exit, Keltner Exit",5.78021978021978,-122.0,339.0
+607,"Force Entry, TSI Entry, Keltner Entry","RSI Exit, Bollinger Exit",5.516483516483516,-126.0,295.0
+938,"MFI Entry, Keltner Entry",TSI Exit,5.450549450549451,-162.0,338.0
+678,MACD Entry,"MFI Exit, Keltner Exit",5.417582417582418,-542.0,648.0
+582,"Force Entry, TSI Entry, Keltner Entry",MFI Exit,5.329670329670329,-114.0,208.0
+1797,"PVO Entry, TSI Entry","Force Exit, TSI Exit",5.2967032967032965,-116.0,245.0
+1935,RSI Entry,"Force Exit, RSI Exit",5.274725274725275,-305.0,416.0
+1147,"MFI Entry, RSI Entry, Bollinger Entry","MFI Exit, Bollinger Exit",5.208791208791209,-108.0,208.0
+1666,"PVO Entry, RSI Entry","MFI Exit, MACD Exit",5.197802197802198,-115.0,182.0
+898,"MFI Entry, Keltner Entry","Force Exit, MACD Exit",5.1208791208791204,-120.0,313.0
+1126,"MFI Entry, RSI Entry",TSI Exit,5.010989010989011,-110.0,297.0
+1146,"MFI Entry, RSI Entry, Bollinger Entry",MFI Exit,4.923076923076923,-105.0,208.0
+1910,"PVO Entry, TSI Entry, Keltner Entry",PVO Exit,4.923076923076923,-108.0,357.0
+775,"MACD Entry, Keltner Entry","MFI Exit, MACD Exit, Keltner Exit",4.8901098901098905,-565.0,532.0
+188,"Force Entry, Keltner Entry","TSI Exit, Keltner Exit",4.736263736263736,-287.0,478.0
+1709,"PVO Entry, RSI Entry, Bollinger Entry","MACD Exit, Keltner Exit",4.736263736263736,-120.0,196.0
+1690,"PVO Entry, RSI Entry",TSI Exit,4.7032967032967035,-100.0,174.0
+15,Bollinger Entry,"MACD Exit, Bollinger Exit",4.65934065934066,-364.0,776.0
+568,"Force Entry, TSI Entry, Keltner Entry","Force Exit, Keltner Exit",4.626373626373627,-76.0,213.0
+348,"Force Entry, RSI Entry","MFI Exit, Bollinger Exit",4.582417582417582,0.0,206.0
+1246,"MFI Entry, TSI Entry","MFI Exit, RSI Exit",4.582417582417582,-117.0,207.0
+1911,"PVO Entry, TSI Entry, Keltner Entry","PVO Exit, Bollinger Exit",4.549450549450549,-108.0,357.0
+1803,"PVO Entry, TSI Entry","MACD Exit, Keltner Exit",4.516483516483516,-76.0,201.0
+583,"Force Entry, TSI Entry, Keltner Entry","MFI Exit, Bollinger Exit",4.472527472527473,-126.0,290.0
+768,"MACD Entry, Keltner Entry","MACD Exit, Bollinger Exit",4.428571428571429,-565.0,683.0
+2207,"TSI Entry, Keltner Entry",TSI Exit,4.417582417582418,-155.0,278.0
+1957,RSI Entry,PVO Exit,4.406593406593407,-305.0,569.0
+1901,"PVO Entry, TSI Entry, Keltner Entry","MFI Exit, MACD Exit",4.384615384615385,-108.0,93.0
+1053,"MFI Entry, MACD Entry, Keltner Entry","MFI Exit, Bollinger Exit",4.351648351648351,-124.0,191.0
+1424,"PVO Entry, Bollinger Entry",Keltner Exit,4.252747252747253,-147.0,332.0
+1049,"MFI Entry, MACD Entry, Keltner Entry",MACD Exit,4.230769230769231,-102.0,219.0
+1171,"MFI Entry, RSI Entry, Bollinger Entry","RSI Exit, Bollinger Exit",4.142857142857143,-108.0,194.0
+1153,"MFI Entry, RSI Entry, Bollinger Entry","MFI Exit, RSI Exit, Bollinger Exit",4.142857142857143,-108.0,194.0
+1149,"MFI Entry, RSI Entry, Bollinger Entry","MFI Exit, MACD Exit",4.131868131868132,-108.0,208.0
+484,"Force Entry, TSI Entry",Keltner Exit,4.076923076923077,-139.0,186.0
+588,"Force Entry, TSI Entry, Keltner Entry","MFI Exit, RSI Exit",4.032967032967033,-126.0,301.0
+1800,"PVO Entry, TSI Entry",Keltner Exit,3.89010989010989,-76.0,186.0
+1143,"MFI Entry, RSI Entry, Bollinger Entry",MACD Exit,3.879120879120879,-55.0,213.0
+606,"Force Entry, TSI Entry, Keltner Entry",RSI Exit,3.879120879120879,-126.0,213.0
+199,"Force Entry, MACD Entry","Force Exit, TSI Exit",3.791208791208791,-231.0,502.0
+1793,"PVO Entry, TSI Entry","Force Exit, MACD Exit, Keltner Exit",3.769230769230769,-116.0,201.0
+1048,"MFI Entry, MACD Entry, Keltner Entry",Keltner Exit,3.769230769230769,-102.0,258.0
+565,"Force Entry, TSI Entry, Keltner Entry",Bollinger Exit,3.6923076923076925,-32.0,152.0
+195,"Force Entry, MACD Entry","Force Exit, MACD Exit, Keltner Exit",3.659340659340659,-231.0,339.0
+2169,"TSI Entry, Keltner Entry","Force Exit, MACD Exit, Keltner Exit",3.6373626373626373,-128.0,390.0
+333,"Force Entry, RSI Entry","Force Exit, Keltner Exit",3.6043956043956045,0.0,239.0
+1223,"MFI Entry, TSI Entry",Bollinger Exit,3.5604395604395602,-49.0,108.0
+2179,"TSI Entry, Keltner Entry","MACD Exit, Keltner Exit",3.5604395604395602,-137.0,323.0
+589,"Force Entry, TSI Entry, Keltner Entry","MFI Exit, RSI Exit, Bollinger Exit",3.5384615384615383,-126.0,290.0
+353,"Force Entry, RSI Entry","MFI Exit, RSI Exit",3.5054945054945055,0.0,206.0
+372,"Force Entry, RSI Entry","RSI Exit, Bollinger Exit",3.4175824175824174,0.0,148.0
+1129,"MFI Entry, RSI Entry, Bollinger Entry",Bollinger Exit,3.3846153846153846,-108.0,134.0
+916,"MFI Entry, Keltner Entry","MFI Exit, MACD Exit, Keltner Exit",3.3516483516483517,-125.0,377.0
+913,"MFI Entry, Keltner Entry","MFI Exit, Keltner Exit",3.3516483516483517,-125.0,377.0
+1465,"PVO Entry, Keltner Entry","Force Exit, RSI Exit",3.3076923076923075,-375.0,546.0
+289,"Force Entry, MACD Entry, Keltner Entry","Force Exit, MACD Exit, Keltner Exit",3.3076923076923075,-127.0,339.0
+729,"MACD Entry, Bollinger Entry","MFI Exit, RSI Exit",3.2967032967032965,-212.0,366.0
+334,"Force Entry, RSI Entry","Force Exit, MACD Exit",3.241758241758242,-3.0,282.0
+1038,"MFI Entry, MACD Entry, Keltner Entry","Force Exit, Keltner Exit",3.208791208791209,-117.0,264.0
+331,"Force Entry, RSI Entry",Force Exit,3.1868131868131866,-16.0,282.0
+345,"Force Entry, RSI Entry","MACD Exit, Bollinger Exit",3.1868131868131866,0.0,242.0
+1985,"RSI Entry, Bollinger Entry","Force Exit, TSI Exit",3.1868131868131866,-305.0,360.0
+1334,"MFI Entry, TSI Entry, Keltner Entry",MFI Exit,3.142857142857143,-117.0,310.0
+1095,"MFI Entry, RSI Entry",Keltner Exit,3.120879120879121,-102.0,239.0
+371,"Force Entry, RSI Entry",RSI Exit,3.10989010989011,0.0,113.0
+1567,"PVO Entry, MACD Entry, Bollinger Entry","MACD Exit, Bollinger Exit",3.098901098901099,0.0,282.0
+1414,"PVO Entry, Bollinger Entry","Force Exit, Keltner Exit",3.098901098901099,-229.0,316.0
+337,"Force Entry, RSI Entry","Force Exit, RSI Exit",3.098901098901099,0.0,282.0
+944,"MFI Entry, MACD Entry","Force Exit, Keltner Exit",3.076923076923077,-435.0,353.0
+822,MFI Entry,"MFI Exit, MACD Exit, Keltner Exit",3.065934065934066,-539.0,709.0
+819,MFI Entry,"MFI Exit, Keltner Exit",3.065934065934066,-539.0,709.0
+1145,"MFI Entry, RSI Entry, Bollinger Entry","MACD Exit, Keltner Exit",2.978021978021978,-66.0,153.0
+940,"MFI Entry, Keltner Entry","TSI Exit, Keltner Exit",2.978021978021978,-162.0,345.0
+1337,"MFI Entry, TSI Entry, Keltner Entry","MFI Exit, MACD Exit",2.967032967032967,-117.0,406.0
+2075,TSI Entry,"Force Exit, MACD Exit, Keltner Exit",2.956043956043956,-503.0,579.0
+340,"Force Entry, RSI Entry","Force Exit, TSI Exit",2.9450549450549453,0.0,237.0
+137,"Force Entry, Bollinger Entry","RSI Exit, Bollinger Exit",2.912087912087912,-20.0,151.0
+702,MACD Entry,"RSI Exit, Keltner Exit",2.868131868131868,-542.0,914.0
+1606,"PVO Entry, MACD Entry, Keltner Entry","Force Exit, RSI Exit",2.868131868131868,-122.0,359.0
+566,"Force Entry, TSI Entry, Keltner Entry",Force Exit,2.8241758241758244,-76.0,213.0
+1117,"MFI Entry, RSI Entry","PVO Exit, RSI Exit",2.802197802197802,-114.0,436.0
+1713,"PVO Entry, RSI Entry, Bollinger Entry","MFI Exit, MACD Exit",2.78021978021978,-117.0,210.0
+1464,"PVO Entry, Keltner Entry","Force Exit, MACD Exit, Keltner Exit",2.7472527472527473,-375.0,365.0
+330,"Force Entry, RSI Entry",Bollinger Exit,2.7472527472527473,0.0,65.0
+1931,RSI Entry,"Force Exit, Keltner Exit",2.7362637362637363,-305.0,369.0
+681,MACD Entry,"MFI Exit, MACD Exit, Keltner Exit",2.6923076923076925,-542.0,648.0
+485,"Force Entry, TSI Entry",MACD Exit,2.6483516483516483,-146.0,169.0
+347,"Force Entry, RSI Entry",MFI Exit,2.6043956043956045,0.0,73.0
+1224,"MFI Entry, TSI Entry",Force Exit,2.5934065934065935,-57.0,264.0
+350,"Force Entry, RSI Entry","MFI Exit, MACD Exit",2.5934065934065935,-5.0,198.0
+1881,"PVO Entry, TSI Entry, Keltner Entry",Bollinger Exit,2.5604395604395602,-40.0,171.0
+112,"Force Entry, Bollinger Entry",MFI Exit,2.5164835164835164,-22.0,151.0
+918,"MFI Entry, Keltner Entry","MFI Exit, RSI Exit, Bollinger Exit",2.4945054945054945,-125.0,191.0
+1737,"PVO Entry, RSI Entry, Bollinger Entry",TSI Exit,2.4945054945054945,-120.0,232.0
+1045,"MFI Entry, MACD Entry, Keltner Entry","Force Exit, TSI Exit",2.4505494505494507,-124.0,249.0
+585,"Force Entry, TSI Entry, Keltner Entry","MFI Exit, MACD Exit",2.4175824175824174,-126.0,93.0
+1647,"PVO Entry, RSI Entry",Force Exit,2.3846153846153846,-88.0,282.0
+1932,RSI Entry,"Force Exit, MACD Exit",2.3736263736263736,-305.0,416.0
+947,"MFI Entry, MACD Entry","Force Exit, MACD Exit, Keltner Exit",2.3626373626373627,-435.0,635.0
+1318,"MFI Entry, TSI Entry, Keltner Entry",Force Exit,2.3516483516483517,-62.0,264.0
+1656,"PVO Entry, RSI Entry","Force Exit, TSI Exit",2.32967032967033,-115.0,237.0
+1659,"PVO Entry, RSI Entry",Keltner Exit,2.3076923076923075,-91.0,152.0
+900,"MFI Entry, Keltner Entry","Force Exit, MACD Exit, Keltner Exit",2.2967032967032965,-125.0,313.0
+196,"Force Entry, MACD Entry","Force Exit, RSI Exit",2.2747252747252746,-231.0,700.0
+354,"Force Entry, RSI Entry","MFI Exit, RSI Exit, Bollinger Exit",2.2637362637362637,0.0,206.0
+724,"MACD Entry, Bollinger Entry","MFI Exit, Bollinger Exit",2.2527472527472527,-212.0,366.0
+1593,"PVO Entry, MACD Entry, Bollinger Entry",RSI Exit,2.197802197802198,0.0,121.0
+113,"Force Entry, Bollinger Entry","MFI Exit, Bollinger Exit",2.10989010989011,-109.0,151.0
+149,"Force Entry, Keltner Entry","Force Exit, RSI Exit",2.098901098901099,-287.0,359.0
+1552,"PVO Entry, MACD Entry, Bollinger Entry",Bollinger Exit,2.076923076923077,0.0,82.0
+1801,"PVO Entry, TSI Entry",MACD Exit,2.065934065934066,-101.0,135.0
+95,"Force Entry, Bollinger Entry",Bollinger Exit,2.0549450549450547,-20.0,105.0
+1929,RSI Entry,Force Exit,2.043956043956044,-278.0,336.0
+1555,"PVO Entry, MACD Entry, Bollinger Entry","Force Exit, Keltner Exit",2.0,-20.0,202.0
+2004,"RSI Entry, Bollinger Entry",PVO Exit,1.989010989010989,-305.0,496.0
+2182,"TSI Entry, Keltner Entry","MFI Exit, Keltner Exit",1.967032967032967,-128.0,716.0
+1575,"PVO Entry, MACD Entry, Bollinger Entry","MFI Exit, RSI Exit",1.956043956043956,0.0,112.0
+1358,"MFI Entry, TSI Entry, Keltner Entry",RSI Exit,1.901098901098901,0.0,77.0
+475,"Force Entry, TSI Entry","Force Exit, MACD Exit",1.8461538461538463,-109.0,186.0
+1320,"MFI Entry, TSI Entry, Keltner Entry","Force Exit, Keltner Exit",1.7692307692307692,-117.0,264.0
+1359,"MFI Entry, TSI Entry, Keltner Entry","RSI Exit, Bollinger Exit",1.7692307692307692,0.0,73.0
+115,"Force Entry, Bollinger Entry","MFI Exit, MACD Exit",1.7472527472527473,-38.0,153.0
+1884,"PVO Entry, TSI Entry, Keltner Entry","Force Exit, Keltner Exit",1.7032967032967032,-52.0,150.0
+1978,"RSI Entry, Bollinger Entry","Force Exit, Keltner Exit",1.7032967032967032,-305.0,362.0
+1882,"PVO Entry, TSI Entry, Keltner Entry",Force Exit,1.6813186813186813,-52.0,122.0
+1551,"PVO Entry, MACD Entry","TSI Exit, Keltner Exit",1.6703296703296704,-450.0,389.0
+1594,"PVO Entry, MACD Entry, Bollinger Entry","RSI Exit, Bollinger Exit",1.6263736263736264,0.0,82.0
+1570,"PVO Entry, MACD Entry, Bollinger Entry","MFI Exit, Bollinger Exit",1.6263736263736264,0.0,82.0
+1576,"PVO Entry, MACD Entry, Bollinger Entry","MFI Exit, RSI Exit, Bollinger Exit",1.6263736263736264,0.0,82.0
+750,"MACD Entry, Bollinger Entry",TSI Exit,1.6043956043956045,-25.0,124.0
+1645,"PVO Entry, MACD Entry, Keltner Entry","TSI Exit, Keltner Exit",1.5494505494505495,-122.0,389.0
+1974,RSI Entry,"TSI Exit, Keltner Exit",1.5384615384615385,-305.0,204.0
+1237,"MFI Entry, TSI Entry",MACD Exit,1.4615384615384615,-64.0,193.0
+1794,"PVO Entry, TSI Entry","Force Exit, RSI Exit",1.4505494505494505,-116.0,269.0
+747,"MACD Entry, Bollinger Entry",RSI Exit,1.3626373626373627,-212.0,122.0
+1079,"MFI Entry, MACD Entry, Keltner Entry",TSI Exit,1.3406593406593406,-124.0,249.0
+1158,"MFI Entry, RSI Entry, Bollinger Entry",PVO Exit,1.3076923076923077,-108.0,339.0
+1136,"MFI Entry, RSI Entry, Bollinger Entry","Force Exit, RSI Exit",1.2857142857142858,-108.0,330.0
+1982,"RSI Entry, Bollinger Entry","Force Exit, RSI Exit",1.2747252747252746,-305.0,409.0
+871,"MFI Entry, Bollinger Entry","MFI Exit, RSI Exit, Bollinger Exit",1.2527472527472527,-158.0,194.0
+118,"Force Entry, Bollinger Entry","MFI Exit, RSI Exit",1.2527472527472527,-109.0,151.0
+1317,"MFI Entry, TSI Entry, Keltner Entry",Bollinger Exit,1.2307692307692308,-21.0,73.0
+1596,"PVO Entry, MACD Entry, Bollinger Entry",TSI Exit,1.1758241758241759,-11.0,124.0
+1562,"PVO Entry, MACD Entry, Bollinger Entry","Force Exit, TSI Exit",1.1758241758241759,-11.0,124.0
+1421,"PVO Entry, Bollinger Entry","Force Exit, TSI Exit",1.120879120879121,-229.0,300.0
+487,"Force Entry, TSI Entry","MACD Exit, Keltner Exit",1.0879120879120878,-139.0,186.0
+730,"MACD Entry, Bollinger Entry","MFI Exit, RSI Exit, Bollinger Exit",1.054945054945055,-212.0,366.0
+1706,"PVO Entry, RSI Entry, Bollinger Entry",Keltner Exit,0.9120879120879121,-71.0,170.0
+1614,"PVO Entry, MACD Entry, Keltner Entry","MACD Exit, Bollinger Exit",0.9120879120879121,-110.0,165.0
+1875,"PVO Entry, TSI Entry, Bollinger Entry",RSI Exit,0.8681318681318682,0.0,79.0
+2157,"TSI Entry, Bollinger Entry",RSI Exit,0.8681318681318682,0.0,79.0
+1083,"MFI Entry, RSI Entry",Force Exit,0.8571428571428571,-85.0,254.0
+748,"MACD Entry, Bollinger Entry","RSI Exit, Bollinger Exit",0.8241758241758241,-212.0,114.0
+344,"Force Entry, RSI Entry",MACD Exit,0.8241758241758241,-5.0,62.0
+2136,"TSI Entry, Bollinger Entry","MFI Exit, MACD Exit",0.8131868131868132,0.0,74.0
+1854,"PVO Entry, TSI Entry, Bollinger Entry","MFI Exit, MACD Exit",0.8131868131868132,0.0,74.0
+136,"Force Entry, Bollinger Entry",RSI Exit,0.7472527472527473,-22.0,71.0
+1524,"PVO Entry, MACD Entry","MFI Exit, Keltner Exit",0.7362637362637363,-450.0,473.0
+1527,"PVO Entry, MACD Entry","MFI Exit, MACD Exit, Keltner Exit",0.7362637362637363,-450.0,473.0
+1851,"PVO Entry, TSI Entry, Bollinger Entry",MFI Exit,0.7252747252747253,0.0,66.0
+1858,"PVO Entry, TSI Entry, Bollinger Entry","MFI Exit, RSI Exit, Bollinger Exit",0.7252747252747253,0.0,66.0
+1857,"PVO Entry, TSI Entry, Bollinger Entry","MFI Exit, RSI Exit",0.7252747252747253,0.0,66.0
+2116,"TSI Entry, Bollinger Entry",Bollinger Exit,0.7252747252747253,0.0,66.0
+2139,"TSI Entry, Bollinger Entry","MFI Exit, RSI Exit",0.7252747252747253,0.0,66.0
+1852,"PVO Entry, TSI Entry, Bollinger Entry","MFI Exit, Bollinger Exit",0.7252747252747253,0.0,66.0
+1834,"PVO Entry, TSI Entry, Bollinger Entry",Bollinger Exit,0.7252747252747253,0.0,66.0
+2133,"TSI Entry, Bollinger Entry",MFI Exit,0.7252747252747253,0.0,66.0
+2134,"TSI Entry, Bollinger Entry","MFI Exit, Bollinger Exit",0.7252747252747253,0.0,66.0
+2158,"TSI Entry, Bollinger Entry","RSI Exit, Bollinger Exit",0.7252747252747253,0.0,66.0
+1876,"PVO Entry, TSI Entry, Bollinger Entry","RSI Exit, Bollinger Exit",0.7252747252747253,0.0,66.0
+2140,"TSI Entry, Bollinger Entry","MFI Exit, RSI Exit, Bollinger Exit",0.7252747252747253,0.0,66.0
+1572,"PVO Entry, MACD Entry, Bollinger Entry","MFI Exit, MACD Exit",0.7032967032967034,-10.0,74.0
+1958,RSI Entry,"PVO Exit, Bollinger Exit",0.6483516483516484,-305.0,569.0
+1916,"PVO Entry, TSI Entry, Keltner Entry","PVO Exit, RSI Exit",0.6263736263736264,-108.0,273.0
+1917,"PVO Entry, TSI Entry, Keltner Entry","PVO Exit, RSI Exit, Bollinger Exit",0.6263736263736264,-108.0,273.0
+346,"Force Entry, RSI Entry","MACD Exit, Keltner Exit",0.6263736263736264,-1.0,58.0
+1569,"PVO Entry, MACD Entry, Bollinger Entry",MFI Exit,0.6153846153846154,-10.0,66.0
+1226,"MFI Entry, TSI Entry","Force Exit, Keltner Exit",0.5934065934065934,-117.0,264.0
+1331,"MFI Entry, TSI Entry, Keltner Entry",MACD Exit,0.5714285714285714,-45.0,83.0
+1650,"PVO Entry, RSI Entry","Force Exit, MACD Exit",0.5604395604395604,-115.0,282.0
+377,"Force Entry, RSI Entry, Bollinger Entry",Bollinger Exit,0.5604395604395604,0.0,29.0
+1327,"MFI Entry, TSI Entry, Keltner Entry","Force Exit, TSI Exit",0.4945054945054945,-117.0,223.0
+726,"MACD Entry, Bollinger Entry","MFI Exit, MACD Exit",0.46153846153846156,-212.0,160.0
+1618,"PVO Entry, MACD Entry, Keltner Entry","MFI Exit, Keltner Exit",0.46153846153846156,-122.0,116.0
+1621,"PVO Entry, MACD Entry, Keltner Entry","MFI Exit, MACD Exit, Keltner Exit",0.46153846153846156,-122.0,116.0
+119,"Force Entry, Bollinger Entry","MFI Exit, RSI Exit, Bollinger Exit",0.46153846153846156,-109.0,151.0
+1086,"MFI Entry, RSI Entry","Force Exit, MACD Exit",0.42857142857142855,-102.0,285.0
+1142,"MFI Entry, RSI Entry, Bollinger Entry",Keltner Exit,0.42857142857142855,-71.0,76.0
+1831,"PVO Entry, TSI Entry",TSI Exit,0.3956043956043956,-122.0,165.0
+418,"Force Entry, RSI Entry, Bollinger Entry",RSI Exit,0.37362637362637363,0.0,34.0
+98,"Force Entry, Bollinger Entry","Force Exit, Keltner Exit",0.37362637362637363,-52.0,49.0
+343,"Force Entry, RSI Entry",Keltner Exit,0.3516483516483517,-3.0,38.0
+393,"Force Entry, RSI Entry, Bollinger Entry","MACD Exit, Keltner Exit",0.31868131868131866,-1.0,30.0
+901,"MFI Entry, Keltner Entry","Force Exit, RSI Exit",0.31868131868131866,-125.0,311.0
+419,"Force Entry, RSI Entry, Bollinger Entry","RSI Exit, Bollinger Exit",0.31868131868131866,0.0,29.0
+394,"Force Entry, RSI Entry, Bollinger Entry",MFI Exit,0.3076923076923077,-16.0,44.0
+1642,"PVO Entry, MACD Entry, Keltner Entry","RSI Exit, Keltner Exit",0.2857142857142857,-122.0,359.0
+1608,"PVO Entry, MACD Entry, Keltner Entry","Force Exit, RSI Exit, Keltner Exit",0.2857142857142857,-122.0,359.0
+860,"MFI Entry, Bollinger Entry",Keltner Exit,0.2857142857142857,-71.0,115.0
+374,"Force Entry, RSI Entry",TSI Exit,0.27472527472527475,-3.0,31.0
+2130,"TSI Entry, Bollinger Entry",MACD Exit,0.25274725274725274,-11.0,34.0
+2160,"TSI Entry, Bollinger Entry",TSI Exit,0.25274725274725274,-11.0,34.0
+1888,"PVO Entry, TSI Entry, Keltner Entry","Force Exit, RSI Exit",0.24175824175824176,-108.0,194.0
+397,"Force Entry, RSI Entry, Bollinger Entry","MFI Exit, MACD Exit",0.1978021978021978,-20.0,38.0
+109,"Force Entry, Bollinger Entry",MACD Exit,0.1978021978021978,-36.0,53.0
+1407,PVO Entry,"RSI Exit, Keltner Exit",0.18681318681318682,-450.0,700.0
+356,"Force Entry, RSI Entry","MFI Exit, TSI Exit",0.18681318681318682,0.0,17.0
+442,"Force Entry, RSI Entry, Keltner Entry","MFI Exit, Bollinger Exit",0.17582417582417584,0.0,16.0
+2022,"RSI Entry, Keltner Entry",Bollinger Exit,0.17582417582417584,0.0,16.0
+441,"Force Entry, RSI Entry, Keltner Entry",MFI Exit,0.17582417582417584,0.0,16.0
+2040,"RSI Entry, Keltner Entry","MFI Exit, Bollinger Exit",0.17582417582417584,0.0,16.0
+1740,"PVO Entry, RSI Entry, Keltner Entry",Bollinger Exit,0.17582417582417584,0.0,16.0
+2039,"RSI Entry, Keltner Entry",MFI Exit,0.17582417582417584,0.0,16.0
+424,"Force Entry, RSI Entry, Keltner Entry",Bollinger Exit,0.17582417582417584,0.0,16.0
+1757,"PVO Entry, RSI Entry, Keltner Entry",MFI Exit,0.17582417582417584,0.0,16.0
+1758,"PVO Entry, RSI Entry, Keltner Entry","MFI Exit, Bollinger Exit",0.17582417582417584,0.0,16.0
+1118,"MFI Entry, RSI Entry","PVO Exit, RSI Exit, Bollinger Exit",0.16483516483516483,-114.0,436.0
+1112,"MFI Entry, RSI Entry","PVO Exit, Bollinger Exit",0.16483516483516483,-114.0,436.0
+99,"Force Entry, Bollinger Entry","Force Exit, MACD Exit",0.15384615384615385,-109.0,121.0
+1943,RSI Entry,"MACD Exit, Bollinger Exit",0.14285714285714285,-305.0,372.0
+1173,"MFI Entry, RSI Entry, Bollinger Entry",TSI Exit,0.12087912087912088,-108.0,134.0
+111,"Force Entry, Bollinger Entry","MACD Exit, Keltner Exit",0.12087912087912088,-56.0,38.0
+105,"Force Entry, Bollinger Entry","Force Exit, TSI Exit",0.08791208791208792,-58.0,73.0
+1128,"MFI Entry, RSI Entry","TSI Exit, Keltner Exit",0.08791208791208792,-114.0,250.0
+1649,"PVO Entry, RSI Entry","Force Exit, Keltner Exit",0.08791208791208792,-115.0,239.0
+1225,"MFI Entry, TSI Entry","Force Exit, Bollinger Exit",0.06593406593406594,-117.0,179.0
+1885,"PVO Entry, TSI Entry, Keltner Entry","Force Exit, MACD Exit",0.054945054945054944,-52.0,125.0
+578,"Force Entry, TSI Entry, Keltner Entry",Keltner Exit,0.054945054945054944,-80.0,213.0
+381,"Force Entry, RSI Entry, Bollinger Entry","Force Exit, MACD Exit",0.02197802197802198,-2.0,4.0
+378,"Force Entry, RSI Entry, Bollinger Entry",Force Exit,0.02197802197802198,-2.0,4.0
+391,"Force Entry, RSI Entry, Bollinger Entry",MACD Exit,0.02197802197802198,-2.0,4.0
+1591,"PVO Entry, MACD Entry, Bollinger Entry","PVO Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1587,"PVO Entry, MACD Entry, Bollinger Entry","PVO Exit, RSI Exit",0.0,0.0,0.0
+1589,"PVO Entry, MACD Entry, Bollinger Entry","PVO Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+1592,"PVO Entry, MACD Entry, Bollinger Entry","PVO Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+1597,"PVO Entry, MACD Entry, Bollinger Entry","TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1588,"PVO Entry, MACD Entry, Bollinger Entry","PVO Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+1590,"PVO Entry, MACD Entry, Bollinger Entry","PVO Exit, TSI Exit",0.0,0.0,0.0
+1585,"PVO Entry, MACD Entry, Bollinger Entry","PVO Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+1586,"PVO Entry, MACD Entry, Bollinger Entry","PVO Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+1573,"PVO Entry, MACD Entry, Bollinger Entry","MFI Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+1584,"PVO Entry, MACD Entry, Bollinger Entry","PVO Exit, MACD Exit",0.0,0.0,0.0
+1583,"PVO Entry, MACD Entry, Bollinger Entry","PVO Exit, Keltner Exit",0.0,0.0,0.0
+1582,"PVO Entry, MACD Entry, Bollinger Entry","PVO Exit, Bollinger Exit",0.0,0.0,0.0
+1598,"PVO Entry, MACD Entry, Bollinger Entry","TSI Exit, Keltner Exit",0.0,0.0,0.0
+1580,"PVO Entry, MACD Entry, Bollinger Entry","MFI Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+1579,"PVO Entry, MACD Entry, Bollinger Entry","MFI Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1578,"PVO Entry, MACD Entry, Bollinger Entry","MFI Exit, TSI Exit",0.0,0.0,0.0
+1571,"PVO Entry, MACD Entry, Bollinger Entry","MFI Exit, Keltner Exit",0.0,0.0,0.0
+1577,"PVO Entry, MACD Entry, Bollinger Entry","MFI Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+1574,"PVO Entry, MACD Entry, Bollinger Entry","MFI Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+1595,"PVO Entry, MACD Entry, Bollinger Entry","RSI Exit, Keltner Exit",0.0,0.0,0.0
+1581,"PVO Entry, MACD Entry, Bollinger Entry",PVO Exit,0.0,0.0,0.0
+257,"Force Entry, MACD Entry, Bollinger Entry","MFI Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+1564,"PVO Entry, MACD Entry, Bollinger Entry","Force Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+1213,"MFI Entry, RSI Entry, Keltner Entry","PVO Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+1275,"MFI Entry, TSI Entry, Bollinger Entry","Force Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+1274,"MFI Entry, TSI Entry, Bollinger Entry","Force Exit, MACD Exit",0.0,0.0,0.0
+1273,"MFI Entry, TSI Entry, Bollinger Entry","Force Exit, Keltner Exit",0.0,0.0,0.0
+1272,"MFI Entry, TSI Entry, Bollinger Entry","Force Exit, Bollinger Exit",0.0,0.0,0.0
+1271,"MFI Entry, TSI Entry, Bollinger Entry",Force Exit,0.0,0.0,0.0
+1270,"MFI Entry, TSI Entry, Bollinger Entry",Bollinger Exit,0.0,0.0,0.0
+258,"Force Entry, MACD Entry, Bollinger Entry","MFI Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+1222,"MFI Entry, RSI Entry, Keltner Entry","TSI Exit, Keltner Exit",0.0,0.0,0.0
+1221,"MFI Entry, RSI Entry, Keltner Entry","TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1220,"MFI Entry, RSI Entry, Keltner Entry",TSI Exit,0.0,0.0,0.0
+1219,"MFI Entry, RSI Entry, Keltner Entry","RSI Exit, Keltner Exit",0.0,0.0,0.0
+1218,"MFI Entry, RSI Entry, Keltner Entry","RSI Exit, Bollinger Exit",0.0,0.0,0.0
+1217,"MFI Entry, RSI Entry, Keltner Entry",RSI Exit,0.0,0.0,0.0
+1216,"MFI Entry, RSI Entry, Keltner Entry","PVO Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+1215,"MFI Entry, RSI Entry, Keltner Entry","PVO Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1276,"MFI Entry, TSI Entry, Bollinger Entry","Force Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+1277,"MFI Entry, TSI Entry, Bollinger Entry","Force Exit, RSI Exit",0.0,0.0,0.0
+1278,"MFI Entry, TSI Entry, Bollinger Entry","Force Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+1287,"MFI Entry, TSI Entry, Bollinger Entry",MFI Exit,0.0,0.0,0.0
+1293,"MFI Entry, TSI Entry, Bollinger Entry","MFI Exit, RSI Exit",0.0,0.0,0.0
+1292,"MFI Entry, TSI Entry, Bollinger Entry","MFI Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+1291,"MFI Entry, TSI Entry, Bollinger Entry","MFI Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+1290,"MFI Entry, TSI Entry, Bollinger Entry","MFI Exit, MACD Exit",0.0,0.0,0.0
+1289,"MFI Entry, TSI Entry, Bollinger Entry","MFI Exit, Keltner Exit",0.0,0.0,0.0
+1288,"MFI Entry, TSI Entry, Bollinger Entry","MFI Exit, Bollinger Exit",0.0,0.0,0.0
+1286,"MFI Entry, TSI Entry, Bollinger Entry","MACD Exit, Keltner Exit",0.0,0.0,0.0
+1279,"MFI Entry, TSI Entry, Bollinger Entry","Force Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+1285,"MFI Entry, TSI Entry, Bollinger Entry","MACD Exit, Bollinger Exit",0.0,0.0,0.0
+1284,"MFI Entry, TSI Entry, Bollinger Entry",MACD Exit,0.0,0.0,0.0
+1283,"MFI Entry, TSI Entry, Bollinger Entry",Keltner Exit,0.0,0.0,0.0
+1282,"MFI Entry, TSI Entry, Bollinger Entry","Force Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+1281,"MFI Entry, TSI Entry, Bollinger Entry","Force Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1280,"MFI Entry, TSI Entry, Bollinger Entry","Force Exit, TSI Exit",0.0,0.0,0.0
+1214,"MFI Entry, RSI Entry, Keltner Entry","PVO Exit, TSI Exit",0.0,0.0,0.0
+1212,"MFI Entry, RSI Entry, Keltner Entry","PVO Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+1295,"MFI Entry, TSI Entry, Bollinger Entry","MFI Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+1211,"MFI Entry, RSI Entry, Keltner Entry","PVO Exit, RSI Exit",0.0,0.0,0.0
+1183,"MFI Entry, RSI Entry, Keltner Entry","Force Exit, RSI Exit",0.0,0.0,0.0
+1184,"MFI Entry, RSI Entry, Keltner Entry","Force Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+1185,"MFI Entry, RSI Entry, Keltner Entry","Force Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+1186,"MFI Entry, RSI Entry, Keltner Entry","Force Exit, TSI Exit",0.0,0.0,0.0
+1187,"MFI Entry, RSI Entry, Keltner Entry","Force Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1188,"MFI Entry, RSI Entry, Keltner Entry","Force Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+1189,"MFI Entry, RSI Entry, Keltner Entry",Keltner Exit,0.0,0.0,0.0
+1190,"MFI Entry, RSI Entry, Keltner Entry",MACD Exit,0.0,0.0,0.0
+1191,"MFI Entry, RSI Entry, Keltner Entry","MACD Exit, Bollinger Exit",0.0,0.0,0.0
+1192,"MFI Entry, RSI Entry, Keltner Entry","MACD Exit, Keltner Exit",0.0,0.0,0.0
+1193,"MFI Entry, RSI Entry, Keltner Entry",MFI Exit,0.0,0.0,0.0
+1194,"MFI Entry, RSI Entry, Keltner Entry","MFI Exit, Bollinger Exit",0.0,0.0,0.0
+1195,"MFI Entry, RSI Entry, Keltner Entry","MFI Exit, Keltner Exit",0.0,0.0,0.0
+1196,"MFI Entry, RSI Entry, Keltner Entry","MFI Exit, MACD Exit",0.0,0.0,0.0
+1197,"MFI Entry, RSI Entry, Keltner Entry","MFI Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+1182,"MFI Entry, RSI Entry, Keltner Entry","Force Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+1181,"MFI Entry, RSI Entry, Keltner Entry","Force Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+1180,"MFI Entry, RSI Entry, Keltner Entry","Force Exit, MACD Exit",0.0,0.0,0.0
+1204,"MFI Entry, RSI Entry, Keltner Entry","MFI Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+1210,"MFI Entry, RSI Entry, Keltner Entry","PVO Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+1209,"MFI Entry, RSI Entry, Keltner Entry","PVO Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+1208,"MFI Entry, RSI Entry, Keltner Entry","PVO Exit, MACD Exit",0.0,0.0,0.0
+1207,"MFI Entry, RSI Entry, Keltner Entry","PVO Exit, Keltner Exit",0.0,0.0,0.0
+1206,"MFI Entry, RSI Entry, Keltner Entry","PVO Exit, Bollinger Exit",0.0,0.0,0.0
+1205,"MFI Entry, RSI Entry, Keltner Entry",PVO Exit,0.0,0.0,0.0
+1203,"MFI Entry, RSI Entry, Keltner Entry","MFI Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1179,"MFI Entry, RSI Entry, Keltner Entry","Force Exit, Keltner Exit",0.0,0.0,0.0
+1202,"MFI Entry, RSI Entry, Keltner Entry","MFI Exit, TSI Exit",0.0,0.0,0.0
+1201,"MFI Entry, RSI Entry, Keltner Entry","MFI Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+1200,"MFI Entry, RSI Entry, Keltner Entry","MFI Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+1176,"MFI Entry, RSI Entry, Keltner Entry",Bollinger Exit,0.0,0.0,0.0
+1177,"MFI Entry, RSI Entry, Keltner Entry",Force Exit,0.0,0.0,0.0
+1178,"MFI Entry, RSI Entry, Keltner Entry","Force Exit, Bollinger Exit",0.0,0.0,0.0
+1294,"MFI Entry, TSI Entry, Bollinger Entry","MFI Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+1296,"MFI Entry, TSI Entry, Bollinger Entry","MFI Exit, TSI Exit",0.0,0.0,0.0
+1563,"PVO Entry, MACD Entry, Bollinger Entry","Force Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1018,"MFI Entry, MACD Entry, Bollinger Entry","PVO Exit, Bollinger Exit",0.0,0.0,0.0
+1002,"MFI Entry, MACD Entry, Bollinger Entry",MACD Exit,0.0,0.0,0.0
+1003,"MFI Entry, MACD Entry, Bollinger Entry","MACD Exit, Bollinger Exit",0.0,0.0,0.0
+1004,"MFI Entry, MACD Entry, Bollinger Entry","MACD Exit, Keltner Exit",0.0,0.0,0.0
+1005,"MFI Entry, MACD Entry, Bollinger Entry",MFI Exit,0.0,0.0,0.0
+1006,"MFI Entry, MACD Entry, Bollinger Entry","MFI Exit, Bollinger Exit",0.0,0.0,0.0
+1007,"MFI Entry, MACD Entry, Bollinger Entry","MFI Exit, Keltner Exit",0.0,0.0,0.0
+1008,"MFI Entry, MACD Entry, Bollinger Entry","MFI Exit, MACD Exit",0.0,0.0,0.0
+1009,"MFI Entry, MACD Entry, Bollinger Entry","MFI Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+1010,"MFI Entry, MACD Entry, Bollinger Entry","MFI Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+1011,"MFI Entry, MACD Entry, Bollinger Entry","MFI Exit, RSI Exit",0.0,0.0,0.0
+1012,"MFI Entry, MACD Entry, Bollinger Entry","MFI Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+1013,"MFI Entry, MACD Entry, Bollinger Entry","MFI Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+1014,"MFI Entry, MACD Entry, Bollinger Entry","MFI Exit, TSI Exit",0.0,0.0,0.0
+1015,"MFI Entry, MACD Entry, Bollinger Entry","MFI Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1016,"MFI Entry, MACD Entry, Bollinger Entry","MFI Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+1001,"MFI Entry, MACD Entry, Bollinger Entry",Keltner Exit,0.0,0.0,0.0
+1000,"MFI Entry, MACD Entry, Bollinger Entry","Force Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+999,"MFI Entry, MACD Entry, Bollinger Entry","Force Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+989,"MFI Entry, MACD Entry, Bollinger Entry",Force Exit,0.0,0.0,0.0
+1561,"PVO Entry, MACD Entry, Bollinger Entry","Force Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+1560,"PVO Entry, MACD Entry, Bollinger Entry","Force Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+1559,"PVO Entry, MACD Entry, Bollinger Entry","Force Exit, RSI Exit",0.0,0.0,0.0
+1557,"PVO Entry, MACD Entry, Bollinger Entry","Force Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+1554,"PVO Entry, MACD Entry, Bollinger Entry","Force Exit, Bollinger Exit",0.0,0.0,0.0
+988,"MFI Entry, MACD Entry, Bollinger Entry",Bollinger Exit,0.0,0.0,0.0
+991,"MFI Entry, MACD Entry, Bollinger Entry","Force Exit, Keltner Exit",0.0,0.0,0.0
+998,"MFI Entry, MACD Entry, Bollinger Entry","Force Exit, TSI Exit",0.0,0.0,0.0
+992,"MFI Entry, MACD Entry, Bollinger Entry","Force Exit, MACD Exit",0.0,0.0,0.0
+993,"MFI Entry, MACD Entry, Bollinger Entry","Force Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+994,"MFI Entry, MACD Entry, Bollinger Entry","Force Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+995,"MFI Entry, MACD Entry, Bollinger Entry","Force Exit, RSI Exit",0.0,0.0,0.0
+996,"MFI Entry, MACD Entry, Bollinger Entry","Force Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+997,"MFI Entry, MACD Entry, Bollinger Entry","Force Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+1017,"MFI Entry, MACD Entry, Bollinger Entry",PVO Exit,0.0,0.0,0.0
+1019,"MFI Entry, MACD Entry, Bollinger Entry","PVO Exit, Keltner Exit",0.0,0.0,0.0
+1297,"MFI Entry, TSI Entry, Bollinger Entry","MFI Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1020,"MFI Entry, MACD Entry, Bollinger Entry","PVO Exit, MACD Exit",0.0,0.0,0.0
+1312,"MFI Entry, TSI Entry, Bollinger Entry","RSI Exit, Bollinger Exit",0.0,0.0,0.0
+1311,"MFI Entry, TSI Entry, Bollinger Entry",RSI Exit,0.0,0.0,0.0
+1310,"MFI Entry, TSI Entry, Bollinger Entry","PVO Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+1309,"MFI Entry, TSI Entry, Bollinger Entry","PVO Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1308,"MFI Entry, TSI Entry, Bollinger Entry","PVO Exit, TSI Exit",0.0,0.0,0.0
+1307,"MFI Entry, TSI Entry, Bollinger Entry","PVO Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+1306,"MFI Entry, TSI Entry, Bollinger Entry","PVO Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+1305,"MFI Entry, TSI Entry, Bollinger Entry","PVO Exit, RSI Exit",0.0,0.0,0.0
+1304,"MFI Entry, TSI Entry, Bollinger Entry","PVO Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+1303,"MFI Entry, TSI Entry, Bollinger Entry","PVO Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+1302,"MFI Entry, TSI Entry, Bollinger Entry","PVO Exit, MACD Exit",0.0,0.0,0.0
+1301,"MFI Entry, TSI Entry, Bollinger Entry","PVO Exit, Keltner Exit",0.0,0.0,0.0
+1300,"MFI Entry, TSI Entry, Bollinger Entry","PVO Exit, Bollinger Exit",0.0,0.0,0.0
+1299,"MFI Entry, TSI Entry, Bollinger Entry",PVO Exit,0.0,0.0,0.0
+1298,"MFI Entry, TSI Entry, Bollinger Entry","MFI Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+1313,"MFI Entry, TSI Entry, Bollinger Entry","RSI Exit, Keltner Exit",0.0,0.0,0.0
+1314,"MFI Entry, TSI Entry, Bollinger Entry",TSI Exit,0.0,0.0,0.0
+1315,"MFI Entry, TSI Entry, Bollinger Entry","TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1027,"MFI Entry, MACD Entry, Bollinger Entry","PVO Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1021,"MFI Entry, MACD Entry, Bollinger Entry","PVO Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+1022,"MFI Entry, MACD Entry, Bollinger Entry","PVO Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+1023,"MFI Entry, MACD Entry, Bollinger Entry","PVO Exit, RSI Exit",0.0,0.0,0.0
+1024,"MFI Entry, MACD Entry, Bollinger Entry","PVO Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+1025,"MFI Entry, MACD Entry, Bollinger Entry","PVO Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+1026,"MFI Entry, MACD Entry, Bollinger Entry","PVO Exit, TSI Exit",0.0,0.0,0.0
+1028,"MFI Entry, MACD Entry, Bollinger Entry","PVO Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+1316,"MFI Entry, TSI Entry, Bollinger Entry","TSI Exit, Keltner Exit",0.0,0.0,0.0
+1029,"MFI Entry, MACD Entry, Bollinger Entry",RSI Exit,0.0,0.0,0.0
+1030,"MFI Entry, MACD Entry, Bollinger Entry","RSI Exit, Bollinger Exit",0.0,0.0,0.0
+1031,"MFI Entry, MACD Entry, Bollinger Entry","RSI Exit, Keltner Exit",0.0,0.0,0.0
+1032,"MFI Entry, MACD Entry, Bollinger Entry",TSI Exit,0.0,0.0,0.0
+1033,"MFI Entry, MACD Entry, Bollinger Entry","TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1034,"MFI Entry, MACD Entry, Bollinger Entry","TSI Exit, Keltner Exit",0.0,0.0,0.0
+990,"MFI Entry, MACD Entry, Bollinger Entry","Force Exit, Bollinger Exit",0.0,0.0,0.0
+1839,"PVO Entry, TSI Entry, Bollinger Entry","Force Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+1741,"PVO Entry, RSI Entry, Keltner Entry",Force Exit,0.0,0.0,0.0
+439,"Force Entry, RSI Entry, Keltner Entry","MACD Exit, Bollinger Exit",0.0,0.0,0.0
+430,"Force Entry, RSI Entry, Keltner Entry","Force Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+431,"Force Entry, RSI Entry, Keltner Entry","Force Exit, RSI Exit",0.0,0.0,0.0
+432,"Force Entry, RSI Entry, Keltner Entry","Force Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+433,"Force Entry, RSI Entry, Keltner Entry","Force Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+434,"Force Entry, RSI Entry, Keltner Entry","Force Exit, TSI Exit",0.0,0.0,0.0
+435,"Force Entry, RSI Entry, Keltner Entry","Force Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+436,"Force Entry, RSI Entry, Keltner Entry","Force Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+437,"Force Entry, RSI Entry, Keltner Entry",Keltner Exit,0.0,0.0,0.0
+438,"Force Entry, RSI Entry, Keltner Entry",MACD Exit,0.0,0.0,0.0
+440,"Force Entry, RSI Entry, Keltner Entry","MACD Exit, Keltner Exit",0.0,0.0,0.0
+401,"Force Entry, RSI Entry, Bollinger Entry","MFI Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+443,"Force Entry, RSI Entry, Keltner Entry","MFI Exit, Keltner Exit",0.0,0.0,0.0
+444,"Force Entry, RSI Entry, Keltner Entry","MFI Exit, MACD Exit",0.0,0.0,0.0
+445,"Force Entry, RSI Entry, Keltner Entry","MFI Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+446,"Force Entry, RSI Entry, Keltner Entry","MFI Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+447,"Force Entry, RSI Entry, Keltner Entry","MFI Exit, RSI Exit",0.0,0.0,0.0
+448,"Force Entry, RSI Entry, Keltner Entry","MFI Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+449,"Force Entry, RSI Entry, Keltner Entry","MFI Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+450,"Force Entry, RSI Entry, Keltner Entry","MFI Exit, TSI Exit",0.0,0.0,0.0
+451,"Force Entry, RSI Entry, Keltner Entry","MFI Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+429,"Force Entry, RSI Entry, Keltner Entry","Force Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+428,"Force Entry, RSI Entry, Keltner Entry","Force Exit, MACD Exit",0.0,0.0,0.0
+427,"Force Entry, RSI Entry, Keltner Entry","Force Exit, Keltner Exit",0.0,0.0,0.0
+426,"Force Entry, RSI Entry, Keltner Entry","Force Exit, Bollinger Exit",0.0,0.0,0.0
+404,"Force Entry, RSI Entry, Bollinger Entry","MFI Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+405,"Force Entry, RSI Entry, Bollinger Entry","MFI Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+406,"Force Entry, RSI Entry, Bollinger Entry",PVO Exit,0.0,0.0,0.0
+407,"Force Entry, RSI Entry, Bollinger Entry","PVO Exit, Bollinger Exit",0.0,0.0,0.0
+408,"Force Entry, RSI Entry, Bollinger Entry","PVO Exit, Keltner Exit",0.0,0.0,0.0
+409,"Force Entry, RSI Entry, Bollinger Entry","PVO Exit, MACD Exit",0.0,0.0,0.0
+410,"Force Entry, RSI Entry, Bollinger Entry","PVO Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+411,"Force Entry, RSI Entry, Bollinger Entry","PVO Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+412,"Force Entry, RSI Entry, Bollinger Entry","PVO Exit, RSI Exit",0.0,0.0,0.0
+413,"Force Entry, RSI Entry, Bollinger Entry","PVO Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+414,"Force Entry, RSI Entry, Bollinger Entry","PVO Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+415,"Force Entry, RSI Entry, Bollinger Entry","PVO Exit, TSI Exit",0.0,0.0,0.0
+416,"Force Entry, RSI Entry, Bollinger Entry","PVO Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+417,"Force Entry, RSI Entry, Bollinger Entry","PVO Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+420,"Force Entry, RSI Entry, Bollinger Entry","RSI Exit, Keltner Exit",0.0,0.0,0.0
+2142,"TSI Entry, Bollinger Entry","MFI Exit, TSI Exit",0.0,0.0,0.0
+422,"Force Entry, RSI Entry, Bollinger Entry","TSI Exit, Bollinger Exit",0.0,0.0,0.0
+2141,"TSI Entry, Bollinger Entry","MFI Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+425,"Force Entry, RSI Entry, Keltner Entry",Force Exit,0.0,0.0,0.0
+452,"Force Entry, RSI Entry, Keltner Entry","MFI Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+453,"Force Entry, RSI Entry, Keltner Entry",PVO Exit,0.0,0.0,0.0
+454,"Force Entry, RSI Entry, Keltner Entry","PVO Exit, Bollinger Exit",0.0,0.0,0.0
+2128,"TSI Entry, Bollinger Entry","Force Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+2127,"TSI Entry, Bollinger Entry","Force Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+2125,"TSI Entry, Bollinger Entry","Force Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+2124,"TSI Entry, Bollinger Entry","Force Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+2123,"TSI Entry, Bollinger Entry","Force Exit, RSI Exit",0.0,0.0,0.0
+2122,"TSI Entry, Bollinger Entry","Force Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+2121,"TSI Entry, Bollinger Entry","Force Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+2119,"TSI Entry, Bollinger Entry","Force Exit, Keltner Exit",0.0,0.0,0.0
+2118,"TSI Entry, Bollinger Entry","Force Exit, Bollinger Exit",0.0,0.0,0.0
+247,"Force Entry, MACD Entry, Bollinger Entry","Force Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+2068,"RSI Entry, Keltner Entry","TSI Exit, Keltner Exit",0.0,0.0,0.0
+2067,"RSI Entry, Keltner Entry","TSI Exit, Bollinger Exit",0.0,0.0,0.0
+2066,"RSI Entry, Keltner Entry",TSI Exit,0.0,0.0,0.0
+2065,"RSI Entry, Keltner Entry","RSI Exit, Keltner Exit",0.0,0.0,0.0
+518,"Force Entry, TSI Entry, Bollinger Entry",Bollinger Exit,0.0,0.0,0.0
+1742,"PVO Entry, RSI Entry, Keltner Entry","Force Exit, Bollinger Exit",0.0,0.0,0.0
+520,"Force Entry, TSI Entry, Bollinger Entry","Force Exit, Bollinger Exit",0.0,0.0,0.0
+521,"Force Entry, TSI Entry, Bollinger Entry","Force Exit, Keltner Exit",0.0,0.0,0.0
+522,"Force Entry, TSI Entry, Bollinger Entry","Force Exit, MACD Exit",0.0,0.0,0.0
+523,"Force Entry, TSI Entry, Bollinger Entry","Force Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+248,"Force Entry, MACD Entry, Bollinger Entry","Force Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+2131,"TSI Entry, Bollinger Entry","MACD Exit, Bollinger Exit",0.0,0.0,0.0
+455,"Force Entry, RSI Entry, Keltner Entry","PVO Exit, Keltner Exit",0.0,0.0,0.0
+249,"Force Entry, MACD Entry, Bollinger Entry",Keltner Exit,0.0,0.0,0.0
+456,"Force Entry, RSI Entry, Keltner Entry","PVO Exit, MACD Exit",0.0,0.0,0.0
+457,"Force Entry, RSI Entry, Keltner Entry","PVO Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+458,"Force Entry, RSI Entry, Keltner Entry","PVO Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+459,"Force Entry, RSI Entry, Keltner Entry","PVO Exit, RSI Exit",0.0,0.0,0.0
+460,"Force Entry, RSI Entry, Keltner Entry","PVO Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+461,"Force Entry, RSI Entry, Keltner Entry","PVO Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+462,"Force Entry, RSI Entry, Keltner Entry","PVO Exit, TSI Exit",0.0,0.0,0.0
+463,"Force Entry, RSI Entry, Keltner Entry","PVO Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+464,"Force Entry, RSI Entry, Keltner Entry","PVO Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+465,"Force Entry, RSI Entry, Keltner Entry",RSI Exit,0.0,0.0,0.0
+466,"Force Entry, RSI Entry, Keltner Entry","RSI Exit, Bollinger Exit",0.0,0.0,0.0
+467,"Force Entry, RSI Entry, Keltner Entry","RSI Exit, Keltner Exit",0.0,0.0,0.0
+468,"Force Entry, RSI Entry, Keltner Entry",TSI Exit,0.0,0.0,0.0
+469,"Force Entry, RSI Entry, Keltner Entry","TSI Exit, Bollinger Exit",0.0,0.0,0.0
+470,"Force Entry, RSI Entry, Keltner Entry","TSI Exit, Keltner Exit",0.0,0.0,0.0
+2138,"TSI Entry, Bollinger Entry","MFI Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+2137,"TSI Entry, Bollinger Entry","MFI Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+2135,"TSI Entry, Bollinger Entry","MFI Exit, Keltner Exit",0.0,0.0,0.0
+2132,"TSI Entry, Bollinger Entry","MACD Exit, Keltner Exit",0.0,0.0,0.0
+402,"Force Entry, RSI Entry, Bollinger Entry","MFI Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+400,"Force Entry, RSI Entry, Bollinger Entry","MFI Exit, RSI Exit",0.0,0.0,0.0
+525,"Force Entry, TSI Entry, Bollinger Entry","Force Exit, RSI Exit",0.0,0.0,0.0
+2156,"TSI Entry, Bollinger Entry","PVO Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+282,"Force Entry, MACD Entry, Bollinger Entry","TSI Exit, Keltner Exit",0.0,0.0,0.0
+256,"Force Entry, MACD Entry, Bollinger Entry","MFI Exit, MACD Exit",0.0,0.0,0.0
+255,"Force Entry, MACD Entry, Bollinger Entry","MFI Exit, Keltner Exit",0.0,0.0,0.0
+254,"Force Entry, MACD Entry, Bollinger Entry","MFI Exit, Bollinger Exit",0.0,0.0,0.0
+253,"Force Entry, MACD Entry, Bollinger Entry",MFI Exit,0.0,0.0,0.0
+252,"Force Entry, MACD Entry, Bollinger Entry","MACD Exit, Keltner Exit",0.0,0.0,0.0
+2162,"TSI Entry, Bollinger Entry","TSI Exit, Keltner Exit",0.0,0.0,0.0
+2161,"TSI Entry, Bollinger Entry","TSI Exit, Bollinger Exit",0.0,0.0,0.0
+2159,"TSI Entry, Bollinger Entry","RSI Exit, Keltner Exit",0.0,0.0,0.0
+2155,"TSI Entry, Bollinger Entry","PVO Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+399,"Force Entry, RSI Entry, Bollinger Entry","MFI Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+2154,"TSI Entry, Bollinger Entry","PVO Exit, TSI Exit",0.0,0.0,0.0
+2153,"TSI Entry, Bollinger Entry","PVO Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+2152,"TSI Entry, Bollinger Entry","PVO Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+2151,"TSI Entry, Bollinger Entry","PVO Exit, RSI Exit",0.0,0.0,0.0
+2150,"TSI Entry, Bollinger Entry","PVO Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+2149,"TSI Entry, Bollinger Entry","PVO Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+2148,"TSI Entry, Bollinger Entry","PVO Exit, MACD Exit",0.0,0.0,0.0
+2147,"TSI Entry, Bollinger Entry","PVO Exit, Keltner Exit",0.0,0.0,0.0
+251,"Force Entry, MACD Entry, Bollinger Entry","MACD Exit, Bollinger Exit",0.0,0.0,0.0
+281,"Force Entry, MACD Entry, Bollinger Entry","TSI Exit, Bollinger Exit",0.0,0.0,0.0
+280,"Force Entry, MACD Entry, Bollinger Entry",TSI Exit,0.0,0.0,0.0
+279,"Force Entry, MACD Entry, Bollinger Entry","RSI Exit, Keltner Exit",0.0,0.0,0.0
+278,"Force Entry, MACD Entry, Bollinger Entry","RSI Exit, Bollinger Exit",0.0,0.0,0.0
+259,"Force Entry, MACD Entry, Bollinger Entry","MFI Exit, RSI Exit",0.0,0.0,0.0
+260,"Force Entry, MACD Entry, Bollinger Entry","MFI Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+261,"Force Entry, MACD Entry, Bollinger Entry","MFI Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+262,"Force Entry, MACD Entry, Bollinger Entry","MFI Exit, TSI Exit",0.0,0.0,0.0
+263,"Force Entry, MACD Entry, Bollinger Entry","MFI Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+264,"Force Entry, MACD Entry, Bollinger Entry","MFI Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+265,"Force Entry, MACD Entry, Bollinger Entry",PVO Exit,0.0,0.0,0.0
+266,"Force Entry, MACD Entry, Bollinger Entry","PVO Exit, Bollinger Exit",0.0,0.0,0.0
+267,"Force Entry, MACD Entry, Bollinger Entry","PVO Exit, Keltner Exit",0.0,0.0,0.0
+268,"Force Entry, MACD Entry, Bollinger Entry","PVO Exit, MACD Exit",0.0,0.0,0.0
+269,"Force Entry, MACD Entry, Bollinger Entry","PVO Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+270,"Force Entry, MACD Entry, Bollinger Entry","PVO Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+271,"Force Entry, MACD Entry, Bollinger Entry","PVO Exit, RSI Exit",0.0,0.0,0.0
+272,"Force Entry, MACD Entry, Bollinger Entry","PVO Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+273,"Force Entry, MACD Entry, Bollinger Entry","PVO Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+274,"Force Entry, MACD Entry, Bollinger Entry","PVO Exit, TSI Exit",0.0,0.0,0.0
+275,"Force Entry, MACD Entry, Bollinger Entry","PVO Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+276,"Force Entry, MACD Entry, Bollinger Entry","PVO Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+277,"Force Entry, MACD Entry, Bollinger Entry",RSI Exit,0.0,0.0,0.0
+250,"Force Entry, MACD Entry, Bollinger Entry",MACD Exit,0.0,0.0,0.0
+2146,"TSI Entry, Bollinger Entry","PVO Exit, Bollinger Exit",0.0,0.0,0.0
+2145,"TSI Entry, Bollinger Entry",PVO Exit,0.0,0.0,0.0
+367,"Force Entry, RSI Entry","PVO Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+369,"Force Entry, RSI Entry","PVO Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+370,"Force Entry, RSI Entry","PVO Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+373,"Force Entry, RSI Entry","RSI Exit, Keltner Exit",0.0,0.0,0.0
+375,"Force Entry, RSI Entry","TSI Exit, Bollinger Exit",0.0,0.0,0.0
+379,"Force Entry, RSI Entry, Bollinger Entry","Force Exit, Bollinger Exit",0.0,0.0,0.0
+380,"Force Entry, RSI Entry, Bollinger Entry","Force Exit, Keltner Exit",0.0,0.0,0.0
+382,"Force Entry, RSI Entry, Bollinger Entry","Force Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+383,"Force Entry, RSI Entry, Bollinger Entry","Force Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+384,"Force Entry, RSI Entry, Bollinger Entry","Force Exit, RSI Exit",0.0,0.0,0.0
+385,"Force Entry, RSI Entry, Bollinger Entry","Force Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+386,"Force Entry, RSI Entry, Bollinger Entry","Force Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+387,"Force Entry, RSI Entry, Bollinger Entry","Force Exit, TSI Exit",0.0,0.0,0.0
+388,"Force Entry, RSI Entry, Bollinger Entry","Force Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+389,"Force Entry, RSI Entry, Bollinger Entry","Force Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+2143,"TSI Entry, Bollinger Entry","MFI Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+392,"Force Entry, RSI Entry, Bollinger Entry","MACD Exit, Bollinger Exit",0.0,0.0,0.0
+395,"Force Entry, RSI Entry, Bollinger Entry","MFI Exit, Bollinger Exit",0.0,0.0,0.0
+396,"Force Entry, RSI Entry, Bollinger Entry","MFI Exit, Keltner Exit",0.0,0.0,0.0
+398,"Force Entry, RSI Entry, Bollinger Entry","MFI Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+368,"Force Entry, RSI Entry","PVO Exit, TSI Exit",0.0,0.0,0.0
+366,"Force Entry, RSI Entry","PVO Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+2144,"TSI Entry, Bollinger Entry","MFI Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+365,"Force Entry, RSI Entry","PVO Exit, RSI Exit",0.0,0.0,0.0
+332,"Force Entry, RSI Entry","Force Exit, Bollinger Exit",0.0,0.0,0.0
+335,"Force Entry, RSI Entry","Force Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+336,"Force Entry, RSI Entry","Force Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+338,"Force Entry, RSI Entry","Force Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+339,"Force Entry, RSI Entry","Force Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+341,"Force Entry, RSI Entry","Force Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+342,"Force Entry, RSI Entry","Force Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+349,"Force Entry, RSI Entry","MFI Exit, Keltner Exit",0.0,0.0,0.0
+351,"Force Entry, RSI Entry","MFI Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+352,"Force Entry, RSI Entry","MFI Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+355,"Force Entry, RSI Entry","MFI Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+357,"Force Entry, RSI Entry","MFI Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+358,"Force Entry, RSI Entry","MFI Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+359,"Force Entry, RSI Entry",PVO Exit,0.0,0.0,0.0
+360,"Force Entry, RSI Entry","PVO Exit, Bollinger Exit",0.0,0.0,0.0
+361,"Force Entry, RSI Entry","PVO Exit, Keltner Exit",0.0,0.0,0.0
+362,"Force Entry, RSI Entry","PVO Exit, MACD Exit",0.0,0.0,0.0
+363,"Force Entry, RSI Entry","PVO Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+364,"Force Entry, RSI Entry","PVO Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+524,"Force Entry, TSI Entry, Bollinger Entry","Force Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+519,"Force Entry, TSI Entry, Bollinger Entry",Force Exit,0.0,0.0,0.0
+526,"Force Entry, TSI Entry, Bollinger Entry","Force Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+1856,"PVO Entry, TSI Entry, Bollinger Entry","MFI Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+1867,"PVO Entry, TSI Entry, Bollinger Entry","PVO Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+1866,"PVO Entry, TSI Entry, Bollinger Entry","PVO Exit, MACD Exit",0.0,0.0,0.0
+1865,"PVO Entry, TSI Entry, Bollinger Entry","PVO Exit, Keltner Exit",0.0,0.0,0.0
+1864,"PVO Entry, TSI Entry, Bollinger Entry","PVO Exit, Bollinger Exit",0.0,0.0,0.0
+1863,"PVO Entry, TSI Entry, Bollinger Entry",PVO Exit,0.0,0.0,0.0
+1862,"PVO Entry, TSI Entry, Bollinger Entry","MFI Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+1861,"PVO Entry, TSI Entry, Bollinger Entry","MFI Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1860,"PVO Entry, TSI Entry, Bollinger Entry","MFI Exit, TSI Exit",0.0,0.0,0.0
+1859,"PVO Entry, TSI Entry, Bollinger Entry","MFI Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+1855,"PVO Entry, TSI Entry, Bollinger Entry","MFI Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+243,"Force Entry, MACD Entry, Bollinger Entry","Force Exit, RSI Exit",0.0,0.0,0.0
+1853,"PVO Entry, TSI Entry, Bollinger Entry","MFI Exit, Keltner Exit",0.0,0.0,0.0
+1850,"PVO Entry, TSI Entry, Bollinger Entry","MACD Exit, Keltner Exit",0.0,0.0,0.0
+1849,"PVO Entry, TSI Entry, Bollinger Entry","MACD Exit, Bollinger Exit",0.0,0.0,0.0
+1847,"PVO Entry, TSI Entry, Bollinger Entry",Keltner Exit,0.0,0.0,0.0
+1846,"PVO Entry, TSI Entry, Bollinger Entry","Force Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+1845,"PVO Entry, TSI Entry, Bollinger Entry","Force Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1843,"PVO Entry, TSI Entry, Bollinger Entry","Force Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+1842,"PVO Entry, TSI Entry, Bollinger Entry","Force Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+1841,"PVO Entry, TSI Entry, Bollinger Entry","Force Exit, RSI Exit",0.0,0.0,0.0
+1868,"PVO Entry, TSI Entry, Bollinger Entry","PVO Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+1869,"PVO Entry, TSI Entry, Bollinger Entry","PVO Exit, RSI Exit",0.0,0.0,0.0
+1870,"PVO Entry, TSI Entry, Bollinger Entry","PVO Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+1871,"PVO Entry, TSI Entry, Bollinger Entry","PVO Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+242,"Force Entry, MACD Entry, Bollinger Entry","Force Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+241,"Force Entry, MACD Entry, Bollinger Entry","Force Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+2028,"RSI Entry, Keltner Entry","Force Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+527,"Force Entry, TSI Entry, Bollinger Entry","Force Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+239,"Force Entry, MACD Entry, Bollinger Entry","Force Exit, Keltner Exit",0.0,0.0,0.0
+2027,"RSI Entry, Keltner Entry","Force Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+238,"Force Entry, MACD Entry, Bollinger Entry","Force Exit, Bollinger Exit",0.0,0.0,0.0
+237,"Force Entry, MACD Entry, Bollinger Entry",Force Exit,0.0,0.0,0.0
+236,"Force Entry, MACD Entry, Bollinger Entry",Bollinger Exit,0.0,0.0,0.0
+2026,"RSI Entry, Keltner Entry","Force Exit, MACD Exit",0.0,0.0,0.0
+2025,"RSI Entry, Keltner Entry","Force Exit, Keltner Exit",0.0,0.0,0.0
+2024,"RSI Entry, Keltner Entry","Force Exit, Bollinger Exit",0.0,0.0,0.0
+2023,"RSI Entry, Keltner Entry",Force Exit,0.0,0.0,0.0
+1880,"PVO Entry, TSI Entry, Bollinger Entry","TSI Exit, Keltner Exit",0.0,0.0,0.0
+1879,"PVO Entry, TSI Entry, Bollinger Entry","TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1877,"PVO Entry, TSI Entry, Bollinger Entry","RSI Exit, Keltner Exit",0.0,0.0,0.0
+1874,"PVO Entry, TSI Entry, Bollinger Entry","PVO Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+1873,"PVO Entry, TSI Entry, Bollinger Entry","PVO Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1872,"PVO Entry, TSI Entry, Bollinger Entry","PVO Exit, TSI Exit",0.0,0.0,0.0
+1840,"PVO Entry, TSI Entry, Bollinger Entry","Force Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+1199,"MFI Entry, RSI Entry, Keltner Entry","MFI Exit, RSI Exit",0.0,0.0,0.0
+1837,"PVO Entry, TSI Entry, Bollinger Entry","Force Exit, Keltner Exit",0.0,0.0,0.0
+1765,"PVO Entry, RSI Entry, Keltner Entry","MFI Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+1763,"PVO Entry, RSI Entry, Keltner Entry","MFI Exit, RSI Exit",0.0,0.0,0.0
+1762,"PVO Entry, RSI Entry, Keltner Entry","MFI Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+1761,"PVO Entry, RSI Entry, Keltner Entry","MFI Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+1760,"PVO Entry, RSI Entry, Keltner Entry","MFI Exit, MACD Exit",0.0,0.0,0.0
+1759,"PVO Entry, RSI Entry, Keltner Entry","MFI Exit, Keltner Exit",0.0,0.0,0.0
+1756,"PVO Entry, RSI Entry, Keltner Entry","MACD Exit, Keltner Exit",0.0,0.0,0.0
+1755,"PVO Entry, RSI Entry, Keltner Entry","MACD Exit, Bollinger Exit",0.0,0.0,0.0
+1754,"PVO Entry, RSI Entry, Keltner Entry",MACD Exit,0.0,0.0,0.0
+1753,"PVO Entry, RSI Entry, Keltner Entry",Keltner Exit,0.0,0.0,0.0
+1752,"PVO Entry, RSI Entry, Keltner Entry","Force Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+1751,"PVO Entry, RSI Entry, Keltner Entry","Force Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1750,"PVO Entry, RSI Entry, Keltner Entry","Force Exit, TSI Exit",0.0,0.0,0.0
+1749,"PVO Entry, RSI Entry, Keltner Entry","Force Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+1748,"PVO Entry, RSI Entry, Keltner Entry","Force Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+1747,"PVO Entry, RSI Entry, Keltner Entry","Force Exit, RSI Exit",0.0,0.0,0.0
+1746,"PVO Entry, RSI Entry, Keltner Entry","Force Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+1745,"PVO Entry, RSI Entry, Keltner Entry","Force Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+1744,"PVO Entry, RSI Entry, Keltner Entry","Force Exit, MACD Exit",0.0,0.0,0.0
+1743,"PVO Entry, RSI Entry, Keltner Entry","Force Exit, Keltner Exit",0.0,0.0,0.0
+1764,"PVO Entry, RSI Entry, Keltner Entry","MFI Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+1766,"PVO Entry, RSI Entry, Keltner Entry","MFI Exit, TSI Exit",0.0,0.0,0.0
+1836,"PVO Entry, TSI Entry, Bollinger Entry","Force Exit, Bollinger Exit",0.0,0.0,0.0
+1767,"PVO Entry, RSI Entry, Keltner Entry","MFI Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1786,"PVO Entry, RSI Entry, Keltner Entry","TSI Exit, Keltner Exit",0.0,0.0,0.0
+1785,"PVO Entry, RSI Entry, Keltner Entry","TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1784,"PVO Entry, RSI Entry, Keltner Entry",TSI Exit,0.0,0.0,0.0
+1783,"PVO Entry, RSI Entry, Keltner Entry","RSI Exit, Keltner Exit",0.0,0.0,0.0
+1782,"PVO Entry, RSI Entry, Keltner Entry","RSI Exit, Bollinger Exit",0.0,0.0,0.0
+1781,"PVO Entry, RSI Entry, Keltner Entry",RSI Exit,0.0,0.0,0.0
+1780,"PVO Entry, RSI Entry, Keltner Entry","PVO Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+1779,"PVO Entry, RSI Entry, Keltner Entry","PVO Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1778,"PVO Entry, RSI Entry, Keltner Entry","PVO Exit, TSI Exit",0.0,0.0,0.0
+1777,"PVO Entry, RSI Entry, Keltner Entry","PVO Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+1776,"PVO Entry, RSI Entry, Keltner Entry","PVO Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+1775,"PVO Entry, RSI Entry, Keltner Entry","PVO Exit, RSI Exit",0.0,0.0,0.0
+1774,"PVO Entry, RSI Entry, Keltner Entry","PVO Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+1773,"PVO Entry, RSI Entry, Keltner Entry","PVO Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+1772,"PVO Entry, RSI Entry, Keltner Entry","PVO Exit, MACD Exit",0.0,0.0,0.0
+1771,"PVO Entry, RSI Entry, Keltner Entry","PVO Exit, Keltner Exit",0.0,0.0,0.0
+1770,"PVO Entry, RSI Entry, Keltner Entry","PVO Exit, Bollinger Exit",0.0,0.0,0.0
+1769,"PVO Entry, RSI Entry, Keltner Entry",PVO Exit,0.0,0.0,0.0
+1768,"PVO Entry, RSI Entry, Keltner Entry","MFI Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+2029,"RSI Entry, Keltner Entry","Force Exit, RSI Exit",0.0,0.0,0.0
+240,"Force Entry, MACD Entry, Bollinger Entry","Force Exit, MACD Exit",0.0,0.0,0.0
+244,"Force Entry, MACD Entry, Bollinger Entry","Force Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+2059,"RSI Entry, Keltner Entry","PVO Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+550,"Force Entry, TSI Entry, Bollinger Entry","PVO Exit, MACD Exit",0.0,0.0,0.0
+551,"Force Entry, TSI Entry, Bollinger Entry","PVO Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+552,"Force Entry, TSI Entry, Bollinger Entry","PVO Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+553,"Force Entry, TSI Entry, Bollinger Entry","PVO Exit, RSI Exit",0.0,0.0,0.0
+554,"Force Entry, TSI Entry, Bollinger Entry","PVO Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+555,"Force Entry, TSI Entry, Bollinger Entry","PVO Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+556,"Force Entry, TSI Entry, Bollinger Entry","PVO Exit, TSI Exit",0.0,0.0,0.0
+557,"Force Entry, TSI Entry, Bollinger Entry","PVO Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+558,"Force Entry, TSI Entry, Bollinger Entry","PVO Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+559,"Force Entry, TSI Entry, Bollinger Entry",RSI Exit,0.0,0.0,0.0
+560,"Force Entry, TSI Entry, Bollinger Entry","RSI Exit, Bollinger Exit",0.0,0.0,0.0
+561,"Force Entry, TSI Entry, Bollinger Entry","RSI Exit, Keltner Exit",0.0,0.0,0.0
+562,"Force Entry, TSI Entry, Bollinger Entry",TSI Exit,0.0,0.0,0.0
+563,"Force Entry, TSI Entry, Bollinger Entry","TSI Exit, Bollinger Exit",0.0,0.0,0.0
+564,"Force Entry, TSI Entry, Bollinger Entry","TSI Exit, Keltner Exit",0.0,0.0,0.0
+2064,"RSI Entry, Keltner Entry","RSI Exit, Bollinger Exit",0.0,0.0,0.0
+2063,"RSI Entry, Keltner Entry",RSI Exit,0.0,0.0,0.0
+245,"Force Entry, MACD Entry, Bollinger Entry","Force Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+2061,"RSI Entry, Keltner Entry","PVO Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+549,"Force Entry, TSI Entry, Bollinger Entry","PVO Exit, Keltner Exit",0.0,0.0,0.0
+548,"Force Entry, TSI Entry, Bollinger Entry","PVO Exit, Bollinger Exit",0.0,0.0,0.0
+547,"Force Entry, TSI Entry, Bollinger Entry",PVO Exit,0.0,0.0,0.0
+536,"Force Entry, TSI Entry, Bollinger Entry","MFI Exit, Bollinger Exit",0.0,0.0,0.0
+528,"Force Entry, TSI Entry, Bollinger Entry","Force Exit, TSI Exit",0.0,0.0,0.0
+529,"Force Entry, TSI Entry, Bollinger Entry","Force Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+530,"Force Entry, TSI Entry, Bollinger Entry","Force Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+531,"Force Entry, TSI Entry, Bollinger Entry",Keltner Exit,0.0,0.0,0.0
+532,"Force Entry, TSI Entry, Bollinger Entry",MACD Exit,0.0,0.0,0.0
+533,"Force Entry, TSI Entry, Bollinger Entry","MACD Exit, Bollinger Exit",0.0,0.0,0.0
+534,"Force Entry, TSI Entry, Bollinger Entry","MACD Exit, Keltner Exit",0.0,0.0,0.0
+535,"Force Entry, TSI Entry, Bollinger Entry",MFI Exit,0.0,0.0,0.0
+537,"Force Entry, TSI Entry, Bollinger Entry","MFI Exit, Keltner Exit",0.0,0.0,0.0
+546,"Force Entry, TSI Entry, Bollinger Entry","MFI Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+538,"Force Entry, TSI Entry, Bollinger Entry","MFI Exit, MACD Exit",0.0,0.0,0.0
+539,"Force Entry, TSI Entry, Bollinger Entry","MFI Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+540,"Force Entry, TSI Entry, Bollinger Entry","MFI Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+541,"Force Entry, TSI Entry, Bollinger Entry","MFI Exit, RSI Exit",0.0,0.0,0.0
+542,"Force Entry, TSI Entry, Bollinger Entry","MFI Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+543,"Force Entry, TSI Entry, Bollinger Entry","MFI Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+544,"Force Entry, TSI Entry, Bollinger Entry","MFI Exit, TSI Exit",0.0,0.0,0.0
+545,"Force Entry, TSI Entry, Bollinger Entry","MFI Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+2060,"RSI Entry, Keltner Entry","PVO Exit, TSI Exit",0.0,0.0,0.0
+2062,"RSI Entry, Keltner Entry","PVO Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+2044,"RSI Entry, Keltner Entry","MFI Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+2050,"RSI Entry, Keltner Entry","MFI Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+2048,"RSI Entry, Keltner Entry","MFI Exit, TSI Exit",0.0,0.0,0.0
+2047,"RSI Entry, Keltner Entry","MFI Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+2046,"RSI Entry, Keltner Entry","MFI Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+2045,"RSI Entry, Keltner Entry","MFI Exit, RSI Exit",0.0,0.0,0.0
+2043,"RSI Entry, Keltner Entry","MFI Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+2042,"RSI Entry, Keltner Entry","MFI Exit, MACD Exit",0.0,0.0,0.0
+2041,"RSI Entry, Keltner Entry","MFI Exit, Keltner Exit",0.0,0.0,0.0
+2038,"RSI Entry, Keltner Entry","MACD Exit, Keltner Exit",0.0,0.0,0.0
+2037,"RSI Entry, Keltner Entry","MACD Exit, Bollinger Exit",0.0,0.0,0.0
+2036,"RSI Entry, Keltner Entry",MACD Exit,0.0,0.0,0.0
+2035,"RSI Entry, Keltner Entry",Keltner Exit,0.0,0.0,0.0
+2034,"RSI Entry, Keltner Entry","Force Exit, TSI Exit, Keltner Exit",0.0,0.0,0.0
+2033,"RSI Entry, Keltner Entry","Force Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+2032,"RSI Entry, Keltner Entry","Force Exit, TSI Exit",0.0,0.0,0.0
+2031,"RSI Entry, Keltner Entry","Force Exit, RSI Exit, Keltner Exit",0.0,0.0,0.0
+2030,"RSI Entry, Keltner Entry","Force Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+246,"Force Entry, MACD Entry, Bollinger Entry","Force Exit, TSI Exit",0.0,0.0,0.0
+2049,"RSI Entry, Keltner Entry","MFI Exit, TSI Exit, Bollinger Exit",0.0,0.0,0.0
+1198,"MFI Entry, RSI Entry, Keltner Entry","MFI Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+2051,"RSI Entry, Keltner Entry",PVO Exit,0.0,0.0,0.0
+2054,"RSI Entry, Keltner Entry","PVO Exit, MACD Exit",0.0,0.0,0.0
+2058,"RSI Entry, Keltner Entry","PVO Exit, RSI Exit, Bollinger Exit",0.0,0.0,0.0
+2052,"RSI Entry, Keltner Entry","PVO Exit, Bollinger Exit",0.0,0.0,0.0
+2057,"RSI Entry, Keltner Entry","PVO Exit, RSI Exit",0.0,0.0,0.0
+2056,"RSI Entry, Keltner Entry","PVO Exit, MACD Exit, Keltner Exit",0.0,0.0,0.0
+2055,"RSI Entry, Keltner Entry","PVO Exit, MACD Exit, Bollinger Exit",0.0,0.0,0.0
+2053,"RSI Entry, Keltner Entry","PVO Exit, Keltner Exit",0.0,0.0,0.0
+1895,"PVO Entry, TSI Entry, Keltner Entry",MACD Exit,-0.01098901098901099,-47.0,69.0
+1054,"MFI Entry, MACD Entry, Keltner Entry","MFI Exit, Keltner Exit",-0.054945054945054944,-124.0,377.0
+1057,"MFI Entry, MACD Entry, Keltner Entry","MFI Exit, MACD Exit, Keltner Exit",-0.054945054945054944,-124.0,377.0
+376,"Force Entry, RSI Entry","TSI Exit, Keltner Exit",-0.054945054945054944,-3.0,0.0
+477,"Force Entry, TSI Entry","Force Exit, MACD Exit, Keltner Exit",-0.07692307692307693,-116.0,186.0
+403,"Force Entry, RSI Entry, Bollinger Entry","MFI Exit, TSI Exit",-0.0989010989010989,-9.0,0.0
+1059,"MFI Entry, MACD Entry, Keltner Entry","MFI Exit, RSI Exit, Bollinger Exit",-0.10989010989010989,-124.0,191.0
+1848,"PVO Entry, TSI Entry, Bollinger Entry",MACD Exit,-0.12087912087912088,-11.0,0.0
+2126,"TSI Entry, Bollinger Entry","Force Exit, TSI Exit",-0.12087912087912088,-11.0,0.0
+1835,"PVO Entry, TSI Entry, Bollinger Entry",Force Exit,-0.12087912087912088,-11.0,0.0
+2120,"TSI Entry, Bollinger Entry","Force Exit, MACD Exit",-0.12087912087912088,-11.0,0.0
+1838,"PVO Entry, TSI Entry, Bollinger Entry","Force Exit, MACD Exit",-0.12087912087912088,-11.0,0.0
+1089,"MFI Entry, RSI Entry","Force Exit, RSI Exit",-0.12087912087912088,-114.0,330.0
+2117,"TSI Entry, Bollinger Entry",Force Exit,-0.12087912087912088,-11.0,0.0
+1844,"PVO Entry, TSI Entry, Bollinger Entry","Force Exit, TSI Exit",-0.12087912087912088,-11.0,0.0
+1878,"PVO Entry, TSI Entry, Bollinger Entry",TSI Exit,-0.12087912087912088,-11.0,0.0
+584,"Force Entry, TSI Entry, Keltner Entry","MFI Exit, Keltner Exit",-0.14285714285714285,-126.0,213.0
+124,"Force Entry, Bollinger Entry",PVO Exit,-0.1978021978021978,-18.0,0.0
+130,"Force Entry, Bollinger Entry","PVO Exit, RSI Exit",-0.1978021978021978,-18.0,0.0
+139,"Force Entry, Bollinger Entry",TSI Exit,-0.1978021978021978,-36.0,73.0
+1558,"PVO Entry, MACD Entry, Bollinger Entry","Force Exit, MACD Exit, Keltner Exit",-0.21978021978021978,-20.0,0.0
+1088,"MFI Entry, RSI Entry","Force Exit, MACD Exit, Keltner Exit",-0.21978021978021978,-105.0,285.0
+1568,"PVO Entry, MACD Entry, Bollinger Entry","MACD Exit, Keltner Exit",-0.21978021978021978,-20.0,0.0
+97,"Force Entry, Bollinger Entry","Force Exit, Bollinger Exit",-0.21978021978021978,-20.0,0.0
+103,"Force Entry, Bollinger Entry","Force Exit, RSI Exit, Bollinger Exit",-0.21978021978021978,-20.0,0.0
+1130,"MFI Entry, RSI Entry, Bollinger Entry",Force Exit,-0.25274725274725274,-44.0,12.0
+1051,"MFI Entry, MACD Entry, Keltner Entry","MACD Exit, Keltner Exit",-0.26373626373626374,-102.0,230.0
+1373,PVO Entry,"Force Exit, RSI Exit, Keltner Exit",-0.26373626373626374,-450.0,700.0
+705,MACD Entry,"TSI Exit, Keltner Exit",-0.27472527472527475,-542.0,541.0
+720,"MACD Entry, Bollinger Entry",MACD Exit,-0.2857142857142857,-20.0,34.0
+1233,"MFI Entry, TSI Entry","Force Exit, TSI Exit",-0.2967032967032967,-117.0,223.0
+1415,"PVO Entry, Bollinger Entry","Force Exit, MACD Exit",-0.31868131868131866,-229.0,715.0
+423,"Force Entry, RSI Entry, Bollinger Entry","TSI Exit, Keltner Exit",-0.31868131868131866,-29.0,0.0
+421,"Force Entry, RSI Entry, Bollinger Entry",TSI Exit,-0.31868131868131866,-29.0,0.0
+594,"Force Entry, TSI Entry, Keltner Entry",PVO Exit,-0.32967032967032966,-126.0,273.0
+390,"Force Entry, RSI Entry, Bollinger Entry",Keltner Exit,-0.32967032967032966,-29.0,0.0
+1661,"PVO Entry, RSI Entry","MACD Exit, Bollinger Exit",-0.37362637362637363,-115.0,242.0
+1241,"MFI Entry, TSI Entry","MFI Exit, Bollinger Exit",-0.38461538461538464,-117.0,108.0
+127,"Force Entry, Bollinger Entry","PVO Exit, MACD Exit",-0.3956043956043956,-36.0,0.0
+102,"Force Entry, Bollinger Entry","Force Exit, RSI Exit",-0.4065934065934066,-22.0,0.0
+1947,RSI Entry,"MFI Exit, Keltner Exit",-0.43956043956043955,-305.0,188.0
+1565,"PVO Entry, MACD Entry, Bollinger Entry",Keltner Exit,-0.45054945054945056,-26.0,5.0
+1039,"MFI Entry, MACD Entry, Keltner Entry","Force Exit, MACD Exit",-0.46153846153846156,-117.0,255.0
+723,"MACD Entry, Bollinger Entry",MFI Exit,-0.4725274725274725,-212.0,160.0
+108,"Force Entry, Bollinger Entry",Keltner Exit,-0.4725274725274725,-56.0,38.0
+579,"Force Entry, TSI Entry, Keltner Entry",MACD Exit,-0.5054945054945055,-47.0,83.0
+2129,"TSI Entry, Bollinger Entry",Keltner Exit,-0.5054945054945055,-46.0,0.0
+1236,"MFI Entry, TSI Entry",Keltner Exit,-0.5164835164835165,-60.0,148.0
+575,"Force Entry, TSI Entry, Keltner Entry","Force Exit, TSI Exit",-0.5494505494505495,-84.0,140.0
+1092,"MFI Entry, RSI Entry","Force Exit, TSI Exit",-0.5714285714285714,-105.0,297.0
+1227,"MFI Entry, TSI Entry","Force Exit, MACD Exit",-0.5824175824175825,-117.0,156.0
+1556,"PVO Entry, MACD Entry, Bollinger Entry","Force Exit, MACD Exit",-0.5824175824175825,-20.0,5.0
+1553,"PVO Entry, MACD Entry, Bollinger Entry",Force Exit,-0.5824175824175825,-20.0,5.0
+1566,"PVO Entry, MACD Entry, Bollinger Entry",MACD Exit,-0.5824175824175825,-20.0,5.0
+1081,"MFI Entry, MACD Entry, Keltner Entry","TSI Exit, Keltner Exit",-0.6043956043956044,-124.0,345.0
+19,Bollinger Entry,"MFI Exit, Keltner Exit",-0.6153846153846154,-364.0,688.0
+1611,"PVO Entry, MACD Entry, Keltner Entry","Force Exit, TSI Exit, Keltner Exit",-0.6813186813186813,-124.0,339.0
+2185,"TSI Entry, Keltner Entry","MFI Exit, MACD Exit, Keltner Exit",-0.6813186813186813,-128.0,716.0
+96,"Force Entry, Bollinger Entry",Force Exit,-0.6813186813186813,-22.0,4.0
+1330,"MFI Entry, TSI Entry, Keltner Entry",Keltner Exit,-0.6923076923076923,-62.0,76.0
+601,"Force Entry, TSI Entry, Keltner Entry","PVO Exit, RSI Exit, Bollinger Exit",-0.7032967032967034,-126.0,273.0
+600,"Force Entry, TSI Entry, Keltner Entry","PVO Exit, RSI Exit",-0.7032967032967034,-126.0,273.0
+595,"Force Entry, TSI Entry, Keltner Entry","PVO Exit, Bollinger Exit",-0.7032967032967034,-126.0,273.0
+1148,"MFI Entry, RSI Entry, Bollinger Entry","MFI Exit, Keltner Exit",-0.7692307692307693,-108.0,187.0
+1151,"MFI Entry, RSI Entry, Bollinger Entry","MFI Exit, MACD Exit, Keltner Exit",-0.7692307692307693,-108.0,187.0
+101,"Force Entry, Bollinger Entry","Force Exit, MACD Exit, Keltner Exit",-0.7802197802197802,-109.0,38.0
+1601,"PVO Entry, MACD Entry, Keltner Entry","Force Exit, Bollinger Exit",-0.8241758241758241,-122.0,165.0
+117,"Force Entry, Bollinger Entry","MFI Exit, MACD Exit, Keltner Exit",-0.9120879120879121,-109.0,26.0
+721,"MACD Entry, Bollinger Entry","MACD Exit, Bollinger Exit",-0.9120879120879121,-212.0,282.0
+114,"Force Entry, Bollinger Entry","MFI Exit, Keltner Exit",-0.9120879120879121,-109.0,26.0
+1891,"PVO Entry, TSI Entry, Keltner Entry","Force Exit, TSI Exit",-0.967032967032967,-62.0,23.0
+1816,"PVO Entry, TSI Entry",PVO Exit,-0.978021978021978,-116.0,357.0
+1692,"PVO Entry, RSI Entry","TSI Exit, Keltner Exit",-0.989010989010989,-115.0,204.0
+569,"Force Entry, TSI Entry, Keltner Entry","Force Exit, MACD Exit",-1.010989010989011,-76.0,125.0
+1604,"PVO Entry, MACD Entry, Keltner Entry","Force Exit, MACD Exit, Bollinger Exit",-1.032967032967033,-122.0,165.0
+1133,"MFI Entry, RSI Entry, Bollinger Entry","Force Exit, MACD Exit",-1.0769230769230769,-82.0,43.0
+706,"MACD Entry, Bollinger Entry",Bollinger Exit,-1.10989010989011,-212.0,82.0
+668,MACD Entry,"Force Exit, RSI Exit, Keltner Exit",-1.10989010989011,-542.0,914.0
+1887,"PVO Entry, TSI Entry, Keltner Entry","Force Exit, MACD Exit, Keltner Exit",-1.120879120879121,-52.0,14.0
+1104,"MFI Entry, RSI Entry","MFI Exit, MACD Exit, Keltner Exit",-1.1318681318681318,-114.0,187.0
+1101,"MFI Entry, RSI Entry","MFI Exit, Keltner Exit",-1.1318681318681318,-114.0,187.0
+1340,"MFI Entry, TSI Entry, Keltner Entry","MFI Exit, RSI Exit",-1.1428571428571428,-117.0,13.0
+1175,"MFI Entry, RSI Entry, Bollinger Entry","TSI Exit, Keltner Exit",-1.164835164835165,-108.0,134.0
+133,"Force Entry, Bollinger Entry","PVO Exit, TSI Exit",-1.1978021978021978,-109.0,0.0
+100,"Force Entry, Bollinger Entry","Force Exit, MACD Exit, Bollinger Exit",-1.1978021978021978,-109.0,0.0
+128,"Force Entry, Bollinger Entry","PVO Exit, MACD Exit, Bollinger Exit",-1.1978021978021978,-109.0,0.0
+129,"Force Entry, Bollinger Entry","PVO Exit, MACD Exit, Keltner Exit",-1.1978021978021978,-109.0,0.0
+131,"Force Entry, Bollinger Entry","PVO Exit, RSI Exit, Bollinger Exit",-1.1978021978021978,-109.0,0.0
+132,"Force Entry, Bollinger Entry","PVO Exit, RSI Exit, Keltner Exit",-1.1978021978021978,-109.0,0.0
+123,"Force Entry, Bollinger Entry","MFI Exit, TSI Exit, Keltner Exit",-1.1978021978021978,-109.0,0.0
+106,"Force Entry, Bollinger Entry","Force Exit, TSI Exit, Bollinger Exit",-1.1978021978021978,-109.0,0.0
+107,"Force Entry, Bollinger Entry","Force Exit, TSI Exit, Keltner Exit",-1.1978021978021978,-109.0,0.0
+134,"Force Entry, Bollinger Entry","PVO Exit, TSI Exit, Bollinger Exit",-1.1978021978021978,-109.0,0.0
+135,"Force Entry, Bollinger Entry","PVO Exit, TSI Exit, Keltner Exit",-1.1978021978021978,-109.0,0.0
+138,"Force Entry, Bollinger Entry","RSI Exit, Keltner Exit",-1.1978021978021978,-109.0,0.0
+104,"Force Entry, Bollinger Entry","Force Exit, RSI Exit, Keltner Exit",-1.1978021978021978,-109.0,0.0
+120,"Force Entry, Bollinger Entry","MFI Exit, RSI Exit, Keltner Exit",-1.1978021978021978,-109.0,0.0
+126,"Force Entry, Bollinger Entry","PVO Exit, Keltner Exit",-1.1978021978021978,-109.0,0.0
+116,"Force Entry, Bollinger Entry","MFI Exit, MACD Exit, Bollinger Exit",-1.1978021978021978,-109.0,0.0
+110,"Force Entry, Bollinger Entry","MACD Exit, Bollinger Exit",-1.1978021978021978,-109.0,0.0
+122,"Force Entry, Bollinger Entry","MFI Exit, TSI Exit, Bollinger Exit",-1.1978021978021978,-109.0,0.0
+125,"Force Entry, Bollinger Entry","PVO Exit, Bollinger Exit",-1.1978021978021978,-109.0,0.0
+140,"Force Entry, Bollinger Entry","TSI Exit, Bollinger Exit",-1.1978021978021978,-109.0,0.0
+1245,"MFI Entry, TSI Entry","MFI Exit, MACD Exit, Keltner Exit",-1.2197802197802199,-117.0,122.0
+1242,"MFI Entry, TSI Entry","MFI Exit, Keltner Exit",-1.2197802197802199,-117.0,122.0
+1900,"PVO Entry, TSI Entry, Keltner Entry","MFI Exit, Keltner Exit",-1.2417582417582418,-108.0,91.0
+1903,"PVO Entry, TSI Entry, Keltner Entry","MFI Exit, MACD Exit, Keltner Exit",-1.2417582417582418,-108.0,91.0
+1155,"MFI Entry, RSI Entry, Bollinger Entry","MFI Exit, TSI Exit",-1.2637362637362637,-108.0,192.0
+290,"Force Entry, MACD Entry, Keltner Entry","Force Exit, RSI Exit",-1.2857142857142858,-127.0,359.0
+854,"MFI Entry, Bollinger Entry","Force Exit, RSI Exit",-1.2967032967032968,-158.0,353.0
+121,"Force Entry, Bollinger Entry","MFI Exit, TSI Exit",-1.2967032967032968,-109.0,0.0
+1979,"RSI Entry, Bollinger Entry","Force Exit, MACD Exit",-1.3076923076923077,-305.0,409.0
+1950,RSI Entry,"MFI Exit, MACD Exit, Keltner Exit",-1.3516483516483517,-305.0,188.0
+1410,PVO Entry,"TSI Exit, Keltner Exit",-1.3626373626373627,-450.0,457.0
+329,"Force Entry, MACD Entry, Keltner Entry","TSI Exit, Keltner Exit",-1.3626373626373627,-139.0,389.0
+1247,"MFI Entry, TSI Entry","MFI Exit, RSI Exit, Bollinger Exit",-1.3736263736263736,-117.0,108.0
+1361,"MFI Entry, TSI Entry, Keltner Entry",TSI Exit,-1.4175824175824177,-84.0,23.0
+857,"MFI Entry, Bollinger Entry","Force Exit, TSI Exit",-1.4285714285714286,-158.0,311.0
+1333,"MFI Entry, TSI Entry, Keltner Entry","MACD Exit, Keltner Exit",-1.5274725274725274,-62.0,0.0
+1335,"MFI Entry, TSI Entry, Keltner Entry","MFI Exit, Bollinger Exit",-1.5274725274725274,-117.0,80.0
+848,"MFI Entry, Bollinger Entry",Force Exit,-1.5384615384615385,-146.0,89.0
+298,"Force Entry, MACD Entry, Keltner Entry","MACD Exit, Bollinger Exit",-1.5604395604395604,-127.0,165.0
+1817,"PVO Entry, TSI Entry","PVO Exit, Bollinger Exit",-1.5604395604395604,-116.0,357.0
+1739,"PVO Entry, RSI Entry, Bollinger Entry","TSI Exit, Keltner Exit",-1.6043956043956045,-120.0,225.0
+1139,"MFI Entry, RSI Entry, Bollinger Entry","Force Exit, TSI Exit",-1.6263736263736264,-108.0,48.0
+141,"Force Entry, Bollinger Entry","TSI Exit, Keltner Exit",-1.6483516483516483,-56.0,0.0
+1628,"PVO Entry, MACD Entry, Keltner Entry",PVO Exit,-1.6813186813186813,-122.0,155.0
+515,"Force Entry, TSI Entry",TSI Exit,-1.6923076923076923,-139.0,165.0
+1894,"PVO Entry, TSI Entry, Keltner Entry",Keltner Exit,-1.7032967032967032,-69.0,65.0
+1833,"PVO Entry, TSI Entry","TSI Exit, Keltner Exit",-1.7142857142857142,-113.0,135.0
+1883,"PVO Entry, TSI Entry, Keltner Entry","Force Exit, Bollinger Exit",-1.7362637362637363,-108.0,66.0
+1694,"PVO Entry, RSI Entry, Bollinger Entry",Force Exit,-1.7472527472527473,-120.0,38.0
+1239,"MFI Entry, TSI Entry","MACD Exit, Keltner Exit",-1.8131868131868132,-60.0,58.0
+302,"Force Entry, MACD Entry, Keltner Entry","MFI Exit, Keltner Exit",-1.8131868131868132,-127.0,240.0
+1393,PVO Entry,PVO Exit,-1.8461538461538463,-498.0,473.0
+2005,"RSI Entry, Bollinger Entry","PVO Exit, Bollinger Exit",-1.9230769230769231,-305.0,496.0
+1629,"PVO Entry, MACD Entry, Keltner Entry","PVO Exit, Bollinger Exit",-1.967032967032967,-122.0,155.0
+1324,"MFI Entry, TSI Entry, Keltner Entry","Force Exit, RSI Exit",-1.967032967032967,-117.0,0.0
+1321,"MFI Entry, TSI Entry, Keltner Entry","Force Exit, MACD Exit",-1.967032967032967,-117.0,0.0
+1323,"MFI Entry, TSI Entry, Keltner Entry","Force Exit, MACD Exit, Keltner Exit",-1.967032967032967,-117.0,0.0
+1326,"MFI Entry, TSI Entry, Keltner Entry","Force Exit, RSI Exit, Keltner Exit",-1.967032967032967,-117.0,0.0
+1360,"MFI Entry, TSI Entry, Keltner Entry","RSI Exit, Keltner Exit",-1.967032967032967,-117.0,0.0
+1132,"MFI Entry, RSI Entry, Bollinger Entry","Force Exit, Keltner Exit",-2.021978021978022,-108.0,42.0
+1135,"MFI Entry, RSI Entry, Bollinger Entry","Force Exit, MACD Exit, Keltner Exit",-2.021978021978022,-108.0,43.0
+796,"MACD Entry, Keltner Entry","RSI Exit, Keltner Exit",-2.043956043956044,-565.0,760.0
+1267,"MFI Entry, TSI Entry",TSI Exit,-2.0549450549450547,-62.0,42.0
+571,"Force Entry, TSI Entry, Keltner Entry","Force Exit, MACD Exit, Keltner Exit",-2.076923076923077,-76.0,14.0
+1412,"PVO Entry, Bollinger Entry",Force Exit,-2.1758241758241756,-229.0,246.0
+161,"Force Entry, Keltner Entry","MFI Exit, Keltner Exit",-2.1758241758241756,-287.0,240.0
+481,"Force Entry, TSI Entry","Force Exit, TSI Exit",-2.1868131868131866,-116.0,165.0
+1349,"MFI Entry, TSI Entry, Keltner Entry","PVO Exit, MACD Exit",-2.21978021978022,-117.0,0.0
+1346,"MFI Entry, TSI Entry, Keltner Entry",PVO Exit,-2.21978021978022,-117.0,0.0
+1355,"MFI Entry, TSI Entry, Keltner Entry","PVO Exit, TSI Exit",-2.21978021978022,-117.0,0.0
+719,"MACD Entry, Bollinger Entry",Keltner Exit,-2.2527472527472527,-70.0,8.0
+1665,"PVO Entry, RSI Entry","MFI Exit, Keltner Exit",-2.2637362637362637,-115.0,155.0
+1907,"PVO Entry, TSI Entry, Keltner Entry","MFI Exit, TSI Exit",-2.2747252747252746,-108.0,17.0
+1172,"MFI Entry, RSI Entry, Bollinger Entry","RSI Exit, Keltner Exit",-2.340659340659341,-108.0,0.0
+1150,"MFI Entry, RSI Entry, Bollinger Entry","MFI Exit, MACD Exit, Bollinger Exit",-2.340659340659341,-108.0,0.0
+1167,"MFI Entry, RSI Entry, Bollinger Entry","PVO Exit, TSI Exit",-2.340659340659341,-108.0,0.0
+1168,"MFI Entry, RSI Entry, Bollinger Entry","PVO Exit, TSI Exit, Bollinger Exit",-2.340659340659341,-108.0,0.0
+1154,"MFI Entry, RSI Entry, Bollinger Entry","MFI Exit, RSI Exit, Keltner Exit",-2.340659340659341,-108.0,0.0
+1144,"MFI Entry, RSI Entry, Bollinger Entry","MACD Exit, Bollinger Exit",-2.340659340659341,-108.0,0.0
+1169,"MFI Entry, RSI Entry, Bollinger Entry","PVO Exit, TSI Exit, Keltner Exit",-2.340659340659341,-108.0,0.0
+1174,"MFI Entry, RSI Entry, Bollinger Entry","TSI Exit, Bollinger Exit",-2.340659340659341,-108.0,0.0
+1166,"MFI Entry, RSI Entry, Bollinger Entry","PVO Exit, RSI Exit, Keltner Exit",-2.340659340659341,-108.0,0.0
+1140,"MFI Entry, RSI Entry, Bollinger Entry","Force Exit, TSI Exit, Bollinger Exit",-2.340659340659341,-108.0,0.0
+1156,"MFI Entry, RSI Entry, Bollinger Entry","MFI Exit, TSI Exit, Bollinger Exit",-2.340659340659341,-108.0,0.0
+1138,"MFI Entry, RSI Entry, Bollinger Entry","Force Exit, RSI Exit, Keltner Exit",-2.340659340659341,-108.0,0.0
+1164,"MFI Entry, RSI Entry, Bollinger Entry","PVO Exit, RSI Exit",-2.340659340659341,-108.0,0.0
+1163,"MFI Entry, RSI Entry, Bollinger Entry","PVO Exit, MACD Exit, Keltner Exit",-2.340659340659341,-108.0,0.0
+1162,"MFI Entry, RSI Entry, Bollinger Entry","PVO Exit, MACD Exit, Bollinger Exit",-2.340659340659341,-108.0,0.0
+1161,"MFI Entry, RSI Entry, Bollinger Entry","PVO Exit, MACD Exit",-2.340659340659341,-108.0,0.0
+1160,"MFI Entry, RSI Entry, Bollinger Entry","PVO Exit, Keltner Exit",-2.340659340659341,-108.0,0.0
+1159,"MFI Entry, RSI Entry, Bollinger Entry","PVO Exit, Bollinger Exit",-2.340659340659341,-108.0,0.0
+1137,"MFI Entry, RSI Entry, Bollinger Entry","Force Exit, RSI Exit, Bollinger Exit",-2.340659340659341,-108.0,0.0
+1134,"MFI Entry, RSI Entry, Bollinger Entry","Force Exit, MACD Exit, Bollinger Exit",-2.340659340659341,-108.0,0.0
+1165,"MFI Entry, RSI Entry, Bollinger Entry","PVO Exit, RSI Exit, Bollinger Exit",-2.340659340659341,-108.0,0.0
+1919,"PVO Entry, TSI Entry, Keltner Entry","PVO Exit, TSI Exit",-2.3736263736263736,-108.0,0.0
+1914,"PVO Entry, TSI Entry, Keltner Entry","PVO Exit, MACD Exit, Bollinger Exit",-2.3736263736263736,-108.0,0.0
+1902,"PVO Entry, TSI Entry, Keltner Entry","MFI Exit, MACD Exit, Bollinger Exit",-2.3736263736263736,-108.0,0.0
+1906,"PVO Entry, TSI Entry, Keltner Entry","MFI Exit, RSI Exit, Keltner Exit",-2.3736263736263736,-108.0,0.0
+1908,"PVO Entry, TSI Entry, Keltner Entry","MFI Exit, TSI Exit, Bollinger Exit",-2.3736263736263736,-108.0,0.0
+1909,"PVO Entry, TSI Entry, Keltner Entry","MFI Exit, TSI Exit, Keltner Exit",-2.3736263736263736,-108.0,0.0
+1890,"PVO Entry, TSI Entry, Keltner Entry","Force Exit, RSI Exit, Keltner Exit",-2.3736263736263736,-108.0,0.0
+1912,"PVO Entry, TSI Entry, Keltner Entry","PVO Exit, Keltner Exit",-2.3736263736263736,-108.0,0.0
+1913,"PVO Entry, TSI Entry, Keltner Entry","PVO Exit, MACD Exit",-2.3736263736263736,-108.0,0.0
+1915,"PVO Entry, TSI Entry, Keltner Entry","PVO Exit, MACD Exit, Keltner Exit",-2.3736263736263736,-108.0,0.0
+1918,"PVO Entry, TSI Entry, Keltner Entry","PVO Exit, RSI Exit, Keltner Exit",-2.3736263736263736,-108.0,0.0
+1920,"PVO Entry, TSI Entry, Keltner Entry","PVO Exit, TSI Exit, Bollinger Exit",-2.3736263736263736,-108.0,0.0
+1921,"PVO Entry, TSI Entry, Keltner Entry","PVO Exit, TSI Exit, Keltner Exit",-2.3736263736263736,-108.0,0.0
+1924,"PVO Entry, TSI Entry, Keltner Entry","RSI Exit, Keltner Exit",-2.3736263736263736,-108.0,0.0
+1319,"MFI Entry, TSI Entry, Keltner Entry","Force Exit, Bollinger Exit",-2.4065934065934065,-117.0,0.0
+1322,"MFI Entry, TSI Entry, Keltner Entry","Force Exit, MACD Exit, Bollinger Exit",-2.4065934065934065,-117.0,0.0
+1347,"MFI Entry, TSI Entry, Keltner Entry","PVO Exit, Bollinger Exit",-2.4065934065934065,-117.0,0.0
+1328,"MFI Entry, TSI Entry, Keltner Entry","Force Exit, TSI Exit, Bollinger Exit",-2.4065934065934065,-117.0,0.0
+1348,"MFI Entry, TSI Entry, Keltner Entry","PVO Exit, Keltner Exit",-2.4065934065934065,-117.0,0.0
+1325,"MFI Entry, TSI Entry, Keltner Entry","Force Exit, RSI Exit, Bollinger Exit",-2.4065934065934065,-117.0,0.0
+1332,"MFI Entry, TSI Entry, Keltner Entry","MACD Exit, Bollinger Exit",-2.4065934065934065,-117.0,0.0
+1336,"MFI Entry, TSI Entry, Keltner Entry","MFI Exit, Keltner Exit",-2.4065934065934065,-117.0,0.0
+1345,"MFI Entry, TSI Entry, Keltner Entry","MFI Exit, TSI Exit, Keltner Exit",-2.4065934065934065,-117.0,0.0
+1350,"MFI Entry, TSI Entry, Keltner Entry","PVO Exit, MACD Exit, Bollinger Exit",-2.4065934065934065,-117.0,0.0
+1351,"MFI Entry, TSI Entry, Keltner Entry","PVO Exit, MACD Exit, Keltner Exit",-2.4065934065934065,-117.0,0.0
+1352,"MFI Entry, TSI Entry, Keltner Entry","PVO Exit, RSI Exit",-2.4065934065934065,-117.0,0.0
+1353,"MFI Entry, TSI Entry, Keltner Entry","PVO Exit, RSI Exit, Bollinger Exit",-2.4065934065934065,-117.0,0.0
+1354,"MFI Entry, TSI Entry, Keltner Entry","PVO Exit, RSI Exit, Keltner Exit",-2.4065934065934065,-117.0,0.0
+1344,"MFI Entry, TSI Entry, Keltner Entry","MFI Exit, TSI Exit, Bollinger Exit",-2.4065934065934065,-117.0,0.0
+1356,"MFI Entry, TSI Entry, Keltner Entry","PVO Exit, TSI Exit, Bollinger Exit",-2.4065934065934065,-117.0,0.0
+1357,"MFI Entry, TSI Entry, Keltner Entry","PVO Exit, TSI Exit, Keltner Exit",-2.4065934065934065,-117.0,0.0
+1343,"MFI Entry, TSI Entry, Keltner Entry","MFI Exit, TSI Exit",-2.4065934065934065,-117.0,0.0
+1342,"MFI Entry, TSI Entry, Keltner Entry","MFI Exit, RSI Exit, Keltner Exit",-2.4065934065934065,-117.0,0.0
+1341,"MFI Entry, TSI Entry, Keltner Entry","MFI Exit, RSI Exit, Bollinger Exit",-2.4065934065934065,-117.0,0.0
+1339,"MFI Entry, TSI Entry, Keltner Entry","MFI Exit, MACD Exit, Keltner Exit",-2.4065934065934065,-117.0,0.0
+1362,"MFI Entry, TSI Entry, Keltner Entry","TSI Exit, Bollinger Exit",-2.4065934065934065,-117.0,0.0
+1338,"MFI Entry, TSI Entry, Keltner Entry","MFI Exit, MACD Exit, Bollinger Exit",-2.4065934065934065,-117.0,0.0
+1329,"MFI Entry, TSI Entry, Keltner Entry","Force Exit, TSI Exit, Keltner Exit",-2.4065934065934065,-117.0,0.0
+1926,"PVO Entry, TSI Entry, Keltner Entry","TSI Exit, Bollinger Exit",-2.4615384615384617,-108.0,19.0
+1892,"PVO Entry, TSI Entry, Keltner Entry","Force Exit, TSI Exit, Bollinger Exit",-2.4615384615384617,-108.0,19.0
+1893,"PVO Entry, TSI Entry, Keltner Entry","Force Exit, TSI Exit, Keltner Exit",-2.4835164835164836,-108.0,0.0
+587,"Force Entry, TSI Entry, Keltner Entry","MFI Exit, MACD Exit, Keltner Exit",-2.4835164835164836,-126.0,14.0
+1897,"PVO Entry, TSI Entry, Keltner Entry","MACD Exit, Keltner Exit",-2.4945054945054945,-69.0,24.0
+752,"MACD Entry, Bollinger Entry","TSI Exit, Keltner Exit",-2.5054945054945055,-212.0,20.0
+853,"MFI Entry, Bollinger Entry","Force Exit, MACD Exit, Keltner Exit",-2.5054945054945055,-158.0,349.0
+1141,"MFI Entry, RSI Entry, Bollinger Entry","Force Exit, TSI Exit, Keltner Exit",-2.5274725274725274,-108.0,27.0
+1268,"MFI Entry, TSI Entry","TSI Exit, Bollinger Exit",-2.5604395604395602,-117.0,0.0
+1244,"MFI Entry, TSI Entry","MFI Exit, MACD Exit, Bollinger Exit",-2.5604395604395602,-117.0,0.0
+1251,"MFI Entry, TSI Entry","MFI Exit, TSI Exit, Keltner Exit",-2.5604395604395602,-117.0,0.0
+1250,"MFI Entry, TSI Entry","MFI Exit, TSI Exit, Bollinger Exit",-2.5604395604395602,-117.0,0.0
+1257,"MFI Entry, TSI Entry","PVO Exit, MACD Exit, Keltner Exit",-2.5604395604395602,-117.0,0.0
+1249,"MFI Entry, TSI Entry","MFI Exit, TSI Exit",-2.5604395604395602,-117.0,0.0
+1248,"MFI Entry, TSI Entry","MFI Exit, RSI Exit, Keltner Exit",-2.5604395604395602,-117.0,0.0
+1256,"MFI Entry, TSI Entry","PVO Exit, MACD Exit, Bollinger Exit",-2.5604395604395602,-117.0,0.0
+1234,"MFI Entry, TSI Entry","Force Exit, TSI Exit, Bollinger Exit",-2.5604395604395602,-117.0,0.0
+1260,"MFI Entry, TSI Entry","PVO Exit, RSI Exit, Keltner Exit",-2.5604395604395602,-117.0,0.0
+1258,"MFI Entry, TSI Entry","PVO Exit, RSI Exit",-2.5604395604395602,-117.0,0.0
+1259,"MFI Entry, TSI Entry","PVO Exit, RSI Exit, Bollinger Exit",-2.5604395604395602,-117.0,0.0
+1263,"MFI Entry, TSI Entry","PVO Exit, TSI Exit, Keltner Exit",-2.5604395604395602,-117.0,0.0
+1238,"MFI Entry, TSI Entry","MACD Exit, Bollinger Exit",-2.5604395604395602,-117.0,0.0
+1262,"MFI Entry, TSI Entry","PVO Exit, TSI Exit, Bollinger Exit",-2.5604395604395602,-117.0,0.0
+1231,"MFI Entry, TSI Entry","Force Exit, RSI Exit, Bollinger Exit",-2.5604395604395602,-117.0,0.0
+1228,"MFI Entry, TSI Entry","Force Exit, MACD Exit, Bollinger Exit",-2.5604395604395602,-117.0,0.0
+1253,"MFI Entry, TSI Entry","PVO Exit, Bollinger Exit",-2.5604395604395602,-117.0,0.0
+1254,"MFI Entry, TSI Entry","PVO Exit, Keltner Exit",-2.5604395604395602,-117.0,0.0
+581,"Force Entry, TSI Entry, Keltner Entry","MACD Exit, Keltner Exit",-2.6483516483516483,-69.0,14.0
+1620,"PVO Entry, MACD Entry, Keltner Entry","MFI Exit, MACD Exit, Bollinger Exit",-2.659340659340659,-122.0,92.0
+1889,"PVO Entry, TSI Entry, Keltner Entry","Force Exit, RSI Exit, Bollinger Exit",-2.67032967032967,-108.0,0.0
+1896,"PVO Entry, TSI Entry, Keltner Entry","MACD Exit, Bollinger Exit",-2.67032967032967,-108.0,0.0
+1886,"PVO Entry, TSI Entry, Keltner Entry","Force Exit, MACD Exit, Bollinger Exit",-2.67032967032967,-108.0,0.0
+1703,"PVO Entry, RSI Entry, Bollinger Entry","Force Exit, TSI Exit",-2.67032967032967,-120.0,109.0
+609,"Force Entry, TSI Entry, Keltner Entry",TSI Exit,-2.681318681318681,-139.0,140.0
+1653,"PVO Entry, RSI Entry","Force Exit, RSI Exit",-2.7142857142857144,-115.0,282.0
+292,"Force Entry, MACD Entry, Keltner Entry","Force Exit, RSI Exit, Keltner Exit",-2.7472527472527473,-127.0,359.0
+326,"Force Entry, MACD Entry, Keltner Entry","RSI Exit, Keltner Exit",-2.7472527472527473,-127.0,359.0
+1085,"MFI Entry, RSI Entry","Force Exit, Keltner Exit",-2.78021978021978,-110.0,285.0
+1976,"RSI Entry, Bollinger Entry",Force Exit,-2.791208791208791,-262.0,110.0
+1157,"MFI Entry, RSI Entry, Bollinger Entry","MFI Exit, TSI Exit, Keltner Exit",-2.8241758241758244,-108.0,0.0
+1789,"PVO Entry, TSI Entry","Force Exit, Bollinger Exit",-2.857142857142857,-113.0,208.0
+1925,"PVO Entry, TSI Entry, Keltner Entry",TSI Exit,-2.879120879120879,-62.0,23.0
+709,"MACD Entry, Bollinger Entry","Force Exit, Keltner Exit",-2.912087912087912,-212.0,202.0
+850,"MFI Entry, Bollinger Entry","Force Exit, Keltner Exit",-2.923076923076923,-158.0,316.0
+1266,"MFI Entry, TSI Entry","RSI Exit, Keltner Exit",-2.978021978021978,-117.0,0.0
+1232,"MFI Entry, TSI Entry","Force Exit, RSI Exit, Keltner Exit",-2.978021978021978,-117.0,0.0
+1230,"MFI Entry, TSI Entry","Force Exit, RSI Exit",-2.978021978021978,-117.0,0.0
+22,Bollinger Entry,"MFI Exit, MACD Exit, Keltner Exit",-3.0,-396.0,688.0
+1363,"MFI Entry, TSI Entry, Keltner Entry","TSI Exit, Keltner Exit",-3.065934065934066,-117.0,0.0
+1131,"MFI Entry, RSI Entry, Bollinger Entry","Force Exit, Bollinger Exit",-3.10989010989011,-108.0,0.0
+2021,"RSI Entry, Bollinger Entry","TSI Exit, Keltner Exit",-3.1538461538461537,-305.0,225.0
+1668,"PVO Entry, RSI Entry","MFI Exit, MACD Exit, Keltner Exit",-3.1758241758241756,-115.0,155.0
+1042,"MFI Entry, MACD Entry, Keltner Entry","Force Exit, RSI Exit",-3.197802197802198,-124.0,255.0
+937,"MFI Entry, Keltner Entry","RSI Exit, Keltner Exit",-3.230769230769231,-125.0,262.0
+1255,"MFI Entry, TSI Entry","PVO Exit, MACD Exit",-3.241758241758242,-117.0,0.0
+1261,"MFI Entry, TSI Entry","PVO Exit, TSI Exit",-3.241758241758242,-117.0,0.0
+1252,"MFI Entry, TSI Entry",PVO Exit,-3.241758241758242,-117.0,0.0
+567,"Force Entry, TSI Entry, Keltner Entry","Force Exit, Bollinger Exit",-3.2747252747252746,-126.0,66.0
+1269,"MFI Entry, TSI Entry","TSI Exit, Keltner Exit",-3.2857142857142856,-117.0,0.0
+1229,"MFI Entry, TSI Entry","Force Exit, MACD Exit, Keltner Exit",-3.3516483516483517,-117.0,20.0
+722,"MACD Entry, Bollinger Entry","MACD Exit, Keltner Exit",-3.3956043956043955,-206.0,8.0
+2192,"TSI Entry, Keltner Entry",PVO Exit,-3.3956043956043955,-128.0,357.0
+1963,RSI Entry,"PVO Exit, RSI Exit",-3.4615384615384617,-305.0,419.0
+762,"MACD Entry, Keltner Entry","Force Exit, RSI Exit, Keltner Exit",-3.4615384615384617,-565.0,760.0
+295,"Force Entry, MACD Entry, Keltner Entry","Force Exit, TSI Exit, Keltner Exit",-3.4725274725274726,-127.0,339.0
+91,Force Entry,"RSI Exit, Keltner Exit",-3.4835164835164836,-555.0,700.0
+1934,RSI Entry,"Force Exit, MACD Exit, Keltner Exit",-3.4945054945054945,-305.0,277.0
+1652,"PVO Entry, RSI Entry","Force Exit, MACD Exit, Keltner Exit",-3.5054945054945055,-115.0,155.0
+1722,"PVO Entry, RSI Entry, Bollinger Entry",PVO Exit,-3.5494505494505493,-117.0,262.0
+749,"MACD Entry, Bollinger Entry","RSI Exit, Keltner Exit",-3.5714285714285716,-212.0,93.0
+715,"MACD Entry, Bollinger Entry","Force Exit, RSI Exit, Keltner Exit",-3.5714285714285716,-212.0,93.0
+713,"MACD Entry, Bollinger Entry","Force Exit, RSI Exit",-3.5714285714285716,-212.0,93.0
+1520,"PVO Entry, MACD Entry","MACD Exit, Bollinger Exit",-3.6263736263736264,-450.0,267.0
+1235,"MFI Entry, TSI Entry","Force Exit, TSI Exit, Keltner Exit",-3.659340659340659,-117.0,0.0
+1624,"PVO Entry, MACD Entry, Keltner Entry","MFI Exit, RSI Exit, Keltner Exit",-3.67032967032967,-122.0,0.0
+1639,"PVO Entry, MACD Entry, Keltner Entry","PVO Exit, TSI Exit, Keltner Exit",-3.67032967032967,-122.0,0.0
+1638,"PVO Entry, MACD Entry, Keltner Entry","PVO Exit, TSI Exit, Bollinger Exit",-3.67032967032967,-122.0,0.0
+1636,"PVO Entry, MACD Entry, Keltner Entry","PVO Exit, RSI Exit, Keltner Exit",-3.67032967032967,-122.0,0.0
+1635,"PVO Entry, MACD Entry, Keltner Entry","PVO Exit, RSI Exit, Bollinger Exit",-3.67032967032967,-122.0,0.0
+1634,"PVO Entry, MACD Entry, Keltner Entry","PVO Exit, RSI Exit",-3.67032967032967,-122.0,0.0
+1633,"PVO Entry, MACD Entry, Keltner Entry","PVO Exit, MACD Exit, Keltner Exit",-3.67032967032967,-122.0,0.0
+1632,"PVO Entry, MACD Entry, Keltner Entry","PVO Exit, MACD Exit, Bollinger Exit",-3.67032967032967,-122.0,0.0
+1630,"PVO Entry, MACD Entry, Keltner Entry","PVO Exit, Keltner Exit",-3.67032967032967,-122.0,0.0
+1626,"PVO Entry, MACD Entry, Keltner Entry","MFI Exit, TSI Exit, Bollinger Exit",-3.67032967032967,-122.0,0.0
+948,"MFI Entry, MACD Entry","Force Exit, RSI Exit",-3.681318681318681,-435.0,328.0
+604,"Force Entry, TSI Entry, Keltner Entry","PVO Exit, TSI Exit, Bollinger Exit",-3.7032967032967035,-126.0,0.0
+586,"Force Entry, TSI Entry, Keltner Entry","MFI Exit, MACD Exit, Bollinger Exit",-3.7032967032967035,-126.0,0.0
+605,"Force Entry, TSI Entry, Keltner Entry","PVO Exit, TSI Exit, Keltner Exit",-3.7032967032967035,-126.0,0.0
+716,"MACD Entry, Bollinger Entry","Force Exit, TSI Exit",-3.7032967032967035,-212.0,124.0
+599,"Force Entry, TSI Entry, Keltner Entry","PVO Exit, MACD Exit, Keltner Exit",-3.7032967032967035,-126.0,0.0
+593,"Force Entry, TSI Entry, Keltner Entry","MFI Exit, TSI Exit, Keltner Exit",-3.7032967032967035,-126.0,0.0
+598,"Force Entry, TSI Entry, Keltner Entry","PVO Exit, MACD Exit, Bollinger Exit",-3.7032967032967035,-126.0,0.0
+603,"Force Entry, TSI Entry, Keltner Entry","PVO Exit, TSI Exit",-3.7032967032967035,-126.0,0.0
+597,"Force Entry, TSI Entry, Keltner Entry","PVO Exit, MACD Exit",-3.7032967032967035,-126.0,0.0
+602,"Force Entry, TSI Entry, Keltner Entry","PVO Exit, RSI Exit, Keltner Exit",-3.7032967032967035,-126.0,0.0
+596,"Force Entry, TSI Entry, Keltner Entry","PVO Exit, Keltner Exit",-3.7032967032967035,-126.0,0.0
+592,"Force Entry, TSI Entry, Keltner Entry","MFI Exit, TSI Exit, Bollinger Exit",-3.7032967032967035,-126.0,0.0
+1696,"PVO Entry, RSI Entry, Bollinger Entry","Force Exit, Keltner Exit",-3.7142857142857144,-120.0,196.0
+1625,"PVO Entry, MACD Entry, Keltner Entry","MFI Exit, TSI Exit",-3.7362637362637363,-122.0,68.0
+1418,"PVO Entry, Bollinger Entry","Force Exit, RSI Exit",-3.7362637362637363,-229.0,353.0
+1644,"PVO Entry, MACD Entry, Keltner Entry","TSI Exit, Bollinger Exit",-3.758241758241758,-122.0,19.0
+1610,"PVO Entry, MACD Entry, Keltner Entry","Force Exit, TSI Exit, Bollinger Exit",-3.758241758241758,-122.0,19.0
+490,"Force Entry, TSI Entry","MFI Exit, Keltner Exit",-3.8131868131868134,-237.0,160.0
+1607,"PVO Entry, MACD Entry, Keltner Entry","Force Exit, RSI Exit, Bollinger Exit",-3.857142857142857,-122.0,10.0
+574,"Force Entry, TSI Entry, Keltner Entry","Force Exit, RSI Exit, Keltner Exit",-3.857142857142857,-126.0,0.0
+608,"Force Entry, TSI Entry, Keltner Entry","RSI Exit, Keltner Exit",-3.857142857142857,-126.0,0.0
+590,"Force Entry, TSI Entry, Keltner Entry","MFI Exit, RSI Exit, Keltner Exit",-3.857142857142857,-126.0,0.0
+572,"Force Entry, TSI Entry, Keltner Entry","Force Exit, RSI Exit",-3.868131868131868,-126.0,11.0
+591,"Force Entry, TSI Entry, Keltner Entry","MFI Exit, TSI Exit",-3.9450549450549453,-126.0,0.0
+570,"Force Entry, TSI Entry, Keltner Entry","Force Exit, MACD Exit, Bollinger Exit",-4.0,-126.0,0.0
+610,"Force Entry, TSI Entry, Keltner Entry","TSI Exit, Bollinger Exit",-4.0,-126.0,0.0
+573,"Force Entry, TSI Entry, Keltner Entry","Force Exit, RSI Exit, Bollinger Exit",-4.0,-126.0,0.0
+576,"Force Entry, TSI Entry, Keltner Entry","Force Exit, TSI Exit, Bollinger Exit",-4.0,-126.0,0.0
+580,"Force Entry, TSI Entry, Keltner Entry","MACD Exit, Bollinger Exit",-4.0,-126.0,0.0
+1108,"MFI Entry, RSI Entry","MFI Exit, TSI Exit",-4.021978021978022,-114.0,192.0
+1712,"PVO Entry, RSI Entry, Bollinger Entry","MFI Exit, Keltner Exit",-4.065934065934066,-117.0,196.0
+963,"MFI Entry, MACD Entry","MFI Exit, MACD Exit, Keltner Exit",-4.076923076923077,-435.0,635.0
+1940,RSI Entry,"Force Exit, TSI Exit, Keltner Exit",-4.076923076923077,-305.0,177.0
+960,"MFI Entry, MACD Entry","MFI Exit, Keltner Exit",-4.076923076923077,-435.0,635.0
+2178,"TSI Entry, Keltner Entry","MACD Exit, Bollinger Exit",-4.076923076923077,-128.0,269.0
+1927,"PVO Entry, TSI Entry, Keltner Entry","TSI Exit, Keltner Exit",-4.0989010989010985,-108.0,0.0
+1637,"PVO Entry, MACD Entry, Keltner Entry","PVO Exit, TSI Exit",-4.1098901098901095,-122.0,0.0
+1078,"MFI Entry, MACD Entry, Keltner Entry","RSI Exit, Keltner Exit",-4.142857142857143,-124.0,230.0
+151,"Force Entry, Keltner Entry","Force Exit, RSI Exit, Keltner Exit",-4.186813186813187,-287.0,507.0
+620,Keltner Entry,"Force Exit, RSI Exit, Bollinger Exit",-4.21978021978022,-341.0,443.0
+1990,"RSI Entry, Bollinger Entry","MACD Exit, Bollinger Exit",-4.21978021978022,-305.0,365.0
+1981,"RSI Entry, Bollinger Entry","Force Exit, MACD Exit, Keltner Exit",-4.230769230769231,-305.0,259.0
+208,"Force Entry, MACD Entry","MFI Exit, Keltner Exit",-4.230769230769231,-231.0,473.0
+1675,"PVO Entry, RSI Entry",PVO Exit,-4.263736263736264,-115.0,259.0
+1417,"PVO Entry, Bollinger Entry","Force Exit, MACD Exit, Keltner Exit",-4.285714285714286,-229.0,349.0
+204,"Force Entry, MACD Entry","MACD Exit, Bollinger Exit",-4.3076923076923075,-231.0,267.0
+198,"Force Entry, MACD Entry","Force Exit, RSI Exit, Keltner Exit",-4.318681318681318,-231.0,700.0
+1631,"PVO Entry, MACD Entry, Keltner Entry","PVO Exit, MACD Exit",-4.318681318681318,-122.0,0.0
+1699,"PVO Entry, RSI Entry, Bollinger Entry","Force Exit, MACD Exit, Keltner Exit",-4.384615384615385,-120.0,196.0
+577,"Force Entry, TSI Entry, Keltner Entry","Force Exit, TSI Exit, Keltner Exit",-4.384615384615385,-126.0,0.0
+1799,"PVO Entry, TSI Entry","Force Exit, TSI Exit, Keltner Exit",-4.428571428571429,-116.0,105.0
+1795,"PVO Entry, TSI Entry","Force Exit, RSI Exit, Bollinger Exit",-4.527472527472527,-116.0,208.0
+1097,"MFI Entry, RSI Entry","MACD Exit, Bollinger Exit",-4.549450549450549,-114.0,73.0
+305,"Force Entry, MACD Entry, Keltner Entry","MFI Exit, MACD Exit, Keltner Exit",-4.571428571428571,-127.0,116.0
+1806,"PVO Entry, TSI Entry","MFI Exit, Keltner Exit",-4.582417582417582,-116.0,160.0
+1809,"PVO Entry, TSI Entry","MFI Exit, MACD Exit, Keltner Exit",-4.582417582417582,-116.0,160.0
+743,"MACD Entry, Bollinger Entry","PVO Exit, RSI Exit, Keltner Exit",-4.593406593406593,-212.0,0.0
+708,"MACD Entry, Bollinger Entry","Force Exit, Bollinger Exit",-4.593406593406593,-212.0,0.0
+711,"MACD Entry, Bollinger Entry","Force Exit, MACD Exit, Bollinger Exit",-4.593406593406593,-212.0,0.0
+737,"MACD Entry, Bollinger Entry","PVO Exit, Keltner Exit",-4.593406593406593,-212.0,0.0
+733,"MACD Entry, Bollinger Entry","MFI Exit, TSI Exit, Bollinger Exit",-4.593406593406593,-212.0,0.0
+731,"MACD Entry, Bollinger Entry","MFI Exit, RSI Exit, Keltner Exit",-4.593406593406593,-212.0,0.0
+738,"MACD Entry, Bollinger Entry","PVO Exit, MACD Exit",-4.593406593406593,-212.0,0.0
+727,"MACD Entry, Bollinger Entry","MFI Exit, MACD Exit, Bollinger Exit",-4.593406593406593,-212.0,0.0
+739,"MACD Entry, Bollinger Entry","PVO Exit, MACD Exit, Bollinger Exit",-4.593406593406593,-212.0,0.0
+742,"MACD Entry, Bollinger Entry","PVO Exit, RSI Exit, Bollinger Exit",-4.593406593406593,-212.0,0.0
+751,"MACD Entry, Bollinger Entry","TSI Exit, Bollinger Exit",-4.593406593406593,-212.0,0.0
+746,"MACD Entry, Bollinger Entry","PVO Exit, TSI Exit, Keltner Exit",-4.593406593406593,-212.0,0.0
+714,"MACD Entry, Bollinger Entry","Force Exit, RSI Exit, Bollinger Exit",-4.593406593406593,-212.0,0.0
+745,"MACD Entry, Bollinger Entry","PVO Exit, TSI Exit, Bollinger Exit",-4.593406593406593,-212.0,0.0
+740,"MACD Entry, Bollinger Entry","PVO Exit, MACD Exit, Keltner Exit",-4.593406593406593,-212.0,0.0
+735,"MACD Entry, Bollinger Entry",PVO Exit,-4.593406593406593,-212.0,0.0
+744,"MACD Entry, Bollinger Entry","PVO Exit, TSI Exit",-4.593406593406593,-212.0,0.0
+741,"MACD Entry, Bollinger Entry","PVO Exit, RSI Exit",-4.593406593406593,-212.0,0.0
+717,"MACD Entry, Bollinger Entry","Force Exit, TSI Exit, Bollinger Exit",-4.593406593406593,-212.0,0.0
+736,"MACD Entry, Bollinger Entry","PVO Exit, Bollinger Exit",-4.593406593406593,-212.0,0.0
+1627,"PVO Entry, MACD Entry, Keltner Entry","MFI Exit, TSI Exit, Keltner Exit",-4.604395604395604,-122.0,0.0
+1037,"MFI Entry, MACD Entry, Keltner Entry","Force Exit, Bollinger Exit",-4.615384615384615,-124.0,166.0
+1127,"MFI Entry, RSI Entry","TSI Exit, Bollinger Exit",-4.626373626373627,-114.0,0.0
+1115,"MFI Entry, RSI Entry","PVO Exit, MACD Exit, Bollinger Exit",-4.626373626373627,-114.0,0.0
+1090,"MFI Entry, RSI Entry","Force Exit, RSI Exit, Bollinger Exit",-4.626373626373627,-114.0,0.0
+1113,"MFI Entry, RSI Entry","PVO Exit, Keltner Exit",-4.626373626373627,-114.0,0.0
+1093,"MFI Entry, RSI Entry","Force Exit, TSI Exit, Bollinger Exit",-4.626373626373627,-114.0,0.0
+1116,"MFI Entry, RSI Entry","PVO Exit, MACD Exit, Keltner Exit",-4.626373626373627,-114.0,0.0
+1119,"MFI Entry, RSI Entry","PVO Exit, RSI Exit, Keltner Exit",-4.626373626373627,-114.0,0.0
+1091,"MFI Entry, RSI Entry","Force Exit, RSI Exit, Keltner Exit",-4.626373626373627,-114.0,0.0
+1120,"MFI Entry, RSI Entry","PVO Exit, TSI Exit",-4.626373626373627,-114.0,0.0
+1107,"MFI Entry, RSI Entry","MFI Exit, RSI Exit, Keltner Exit",-4.626373626373627,-114.0,0.0
+1121,"MFI Entry, RSI Entry","PVO Exit, TSI Exit, Bollinger Exit",-4.626373626373627,-114.0,0.0
+1122,"MFI Entry, RSI Entry","PVO Exit, TSI Exit, Keltner Exit",-4.626373626373627,-114.0,0.0
+1125,"MFI Entry, RSI Entry","RSI Exit, Keltner Exit",-4.626373626373627,-114.0,0.0
+1103,"MFI Entry, RSI Entry","MFI Exit, MACD Exit, Bollinger Exit",-4.626373626373627,-114.0,0.0
+1109,"MFI Entry, RSI Entry","MFI Exit, TSI Exit, Bollinger Exit",-4.626373626373627,-114.0,0.0
+164,"Force Entry, Keltner Entry","MFI Exit, MACD Exit, Keltner Exit",-4.670329670329671,-287.0,209.0
+232,"Force Entry, MACD Entry","RSI Exit, Keltner Exit",-4.681318681318682,-231.0,700.0
+718,"MACD Entry, Bollinger Entry","Force Exit, TSI Exit, Keltner Exit",-4.725274725274725,-212.0,0.0
+728,"MACD Entry, Bollinger Entry","MFI Exit, MACD Exit, Keltner Exit",-4.758241758241758,-212.0,0.0
+725,"MACD Entry, Bollinger Entry","MFI Exit, Keltner Exit",-4.758241758241758,-212.0,0.0
+734,"MACD Entry, Bollinger Entry","MFI Exit, TSI Exit, Keltner Exit",-4.758241758241758,-212.0,0.0
+1114,"MFI Entry, RSI Entry","PVO Exit, MACD Exit",-4.769230769230769,-114.0,0.0
+732,"MACD Entry, Bollinger Entry","MFI Exit, TSI Exit",-4.835164835164835,-212.0,0.0
+712,"MACD Entry, Bollinger Entry","Force Exit, MACD Exit, Keltner Exit",-4.857142857142857,-212.0,8.0
+851,"MFI Entry, Bollinger Entry","Force Exit, MACD Exit",-4.8791208791208796,-158.0,51.0
+1514,"PVO Entry, MACD Entry","Force Exit, RSI Exit, Keltner Exit",-4.9010989010989015,-450.0,700.0
+1548,"PVO Entry, MACD Entry","RSI Exit, Keltner Exit",-4.9010989010989015,-450.0,700.0
+1041,"MFI Entry, MACD Entry, Keltner Entry","Force Exit, MACD Exit, Keltner Exit",-4.967032967032967,-117.0,67.0
+1715,"PVO Entry, RSI Entry, Bollinger Entry","MFI Exit, MACD Exit, Keltner Exit",-4.967032967032967,-120.0,196.0
+1681,"PVO Entry, RSI Entry","PVO Exit, RSI Exit",-4.978021978021978,-115.0,195.0
+1064,"MFI Entry, MACD Entry, Keltner Entry",PVO Exit,-4.989010989010989,-124.0,210.0
+1094,"MFI Entry, RSI Entry","Force Exit, TSI Exit, Keltner Exit",-4.989010989010989,-114.0,64.0
+1994,"RSI Entry, Bollinger Entry","MFI Exit, Keltner Exit",-5.0,-305.0,196.0
+2010,"RSI Entry, Bollinger Entry","PVO Exit, RSI Exit",-5.010989010989011,-305.0,413.0
+1110,"MFI Entry, RSI Entry","MFI Exit, TSI Exit, Keltner Exit",-5.032967032967033,-114.0,0.0
+1728,"PVO Entry, RSI Entry, Bollinger Entry","PVO Exit, RSI Exit",-5.0989010989010985,-120.0,215.0
+154,"Force Entry, Keltner Entry","Force Exit, TSI Exit, Keltner Exit",-5.0989010989010985,-287.0,339.0
+876,"MFI Entry, Bollinger Entry",PVO Exit,-5.153846153846154,-158.0,339.0
+235,"Force Entry, MACD Entry","TSI Exit, Keltner Exit",-5.175824175824176,-231.0,389.0
+710,"MACD Entry, Bollinger Entry","Force Exit, MACD Exit",-5.230769230769231,-212.0,8.0
+1936,RSI Entry,"Force Exit, RSI Exit, Bollinger Exit",-5.263736263736264,-305.0,307.0
+1658,"PVO Entry, RSI Entry","Force Exit, TSI Exit, Keltner Exit",-5.329670329670329,-115.0,144.0
+1087,"MFI Entry, RSI Entry","Force Exit, MACD Exit, Bollinger Exit",-5.351648351648351,-114.0,0.0
+1822,"PVO Entry, TSI Entry","PVO Exit, RSI Exit",-5.483516483516484,-116.0,273.0
+1823,"PVO Entry, TSI Entry","PVO Exit, RSI Exit, Bollinger Exit",-5.483516483516484,-116.0,273.0
+57,Force Entry,"Force Exit, RSI Exit, Keltner Exit",-5.527472527472527,-555.0,700.0
+1654,"PVO Entry, RSI Entry","Force Exit, RSI Exit, Bollinger Exit",-5.549450549450549,-115.0,143.0
+1651,"PVO Entry, RSI Entry","Force Exit, MACD Exit, Bollinger Exit",-5.549450549450549,-115.0,143.0
+1964,RSI Entry,"PVO Exit, RSI Exit, Bollinger Exit",-5.604395604395604,-305.0,419.0
+1440,"PVO Entry, Bollinger Entry",PVO Exit,-5.648351648351649,-135.0,305.0
+185,"Force Entry, Keltner Entry","RSI Exit, Keltner Exit",-5.78021978021978,-287.0,507.0
+1648,"PVO Entry, RSI Entry","Force Exit, Bollinger Exit",-5.835164835164835,-115.0,143.0
+1047,"MFI Entry, MACD Entry, Keltner Entry","Force Exit, TSI Exit, Keltner Exit",-5.8901098901098905,-124.0,62.0
+1997,"RSI Entry, Bollinger Entry","MFI Exit, MACD Exit, Keltner Exit",-5.9010989010989015,-305.0,196.0
+1426,"PVO Entry, Bollinger Entry","MACD Exit, Bollinger Exit",-5.912087912087912,-229.0,282.0
+846,MFI Entry,"TSI Exit, Keltner Exit",-5.912087912087912,-539.0,377.0
+1933,RSI Entry,"Force Exit, MACD Exit, Bollinger Exit",-5.945054945054945,-305.0,307.0
+1084,"MFI Entry, RSI Entry","Force Exit, Bollinger Exit",-6.043956043956044,-114.0,0.0
+1050,"MFI Entry, MACD Entry, Keltner Entry","MACD Exit, Bollinger Exit",-6.087912087912088,-124.0,61.0
+288,"Force Entry, MACD Entry, Keltner Entry","Force Exit, MACD Exit, Bollinger Exit",-6.131868131868132,-151.0,165.0
+285,"Force Entry, MACD Entry, Keltner Entry","Force Exit, Bollinger Exit",-6.131868131868132,-151.0,165.0
+617,Keltner Entry,"Force Exit, MACD Exit, Bollinger Exit",-6.153846153846154,-341.0,420.0
+707,"MACD Entry, Bollinger Entry",Force Exit,-6.197802197802198,-212.0,8.0
+1808,"PVO Entry, TSI Entry","MFI Exit, MACD Exit, Bollinger Exit",-6.197802197802198,-116.0,208.0
+807,MFI Entry,"Force Exit, RSI Exit",-6.241758241758242,-539.0,404.0
+171,"Force Entry, Keltner Entry",PVO Exit,-6.252747252747253,-287.0,314.0
+1430,"PVO Entry, Bollinger Entry","MFI Exit, Keltner Exit",-6.274725274725275,-147.0,278.0
+829,MFI Entry,PVO Exit,-6.428571428571429,-498.0,424.0
+920,"MFI Entry, Keltner Entry","MFI Exit, TSI Exit",-6.43956043956044,-125.0,314.0
+1043,"MFI Entry, MACD Entry, Keltner Entry","Force Exit, RSI Exit, Bollinger Exit",-6.43956043956044,-124.0,61.0
+1930,RSI Entry,"Force Exit, Bollinger Exit",-6.43956043956044,-305.0,307.0
+1040,"MFI Entry, MACD Entry, Keltner Entry","Force Exit, MACD Exit, Bollinger Exit",-6.43956043956044,-124.0,61.0
+922,"MFI Entry, Keltner Entry","MFI Exit, TSI Exit, Keltner Exit",-6.43956043956044,-125.0,314.0
+1708,"PVO Entry, RSI Entry, Bollinger Entry","MACD Exit, Bollinger Exit",-6.450549450549451,-120.0,64.0
+1792,"PVO Entry, TSI Entry","Force Exit, MACD Exit, Bollinger Exit",-6.4945054945054945,-116.0,208.0
+893,"MFI Entry, Bollinger Entry","TSI Exit, Keltner Exit",-6.516483516483516,-158.0,244.0
+903,"MFI Entry, Keltner Entry","Force Exit, RSI Exit, Keltner Exit",-6.571428571428571,-125.0,262.0
+1813,"PVO Entry, TSI Entry","MFI Exit, TSI Exit",-6.582417582417582,-116.0,164.0
+1697,"PVO Entry, RSI Entry, Bollinger Entry","Force Exit, MACD Exit",-6.626373626373627,-120.0,13.0
+211,"Force Entry, MACD Entry","MFI Exit, MACD Exit, Keltner Exit",-6.626373626373627,-231.0,473.0
+1672,"PVO Entry, RSI Entry","MFI Exit, TSI Exit",-6.648351648351649,-115.0,45.0
+46,Bollinger Entry,"TSI Exit, Keltner Exit",-6.648351648351649,-364.0,381.0
+896,"MFI Entry, Keltner Entry","Force Exit, Bollinger Exit",-6.670329670329671,-124.0,166.0
+1044,"MFI Entry, MACD Entry, Keltner Entry","Force Exit, RSI Exit, Keltner Exit",-6.670329670329671,-124.0,0.0
+291,"Force Entry, MACD Entry, Keltner Entry","Force Exit, RSI Exit, Bollinger Exit",-6.681318681318682,-127.0,61.0
+493,"Force Entry, TSI Entry","MFI Exit, MACD Exit, Keltner Exit",-6.725274725274725,-237.0,160.0
+308,"Force Entry, MACD Entry, Keltner Entry","MFI Exit, RSI Exit, Keltner Exit",-6.78021978021978,-127.0,21.0
+144,"Force Entry, Keltner Entry","Force Exit, Bollinger Exit",-6.813186813186813,-287.0,211.0
+1949,RSI Entry,"MFI Exit, MACD Exit, Bollinger Exit",-6.835164835164835,-305.0,307.0
+1504,"PVO Entry, Keltner Entry","TSI Exit, Keltner Exit",-6.857142857142857,-375.0,389.0
+611,"Force Entry, TSI Entry, Keltner Entry","TSI Exit, Keltner Exit",-6.8901098901098905,-139.0,0.0
+1073,"MFI Entry, MACD Entry, Keltner Entry","PVO Exit, TSI Exit",-6.923076923076923,-124.0,0.0
+1507,"PVO Entry, MACD Entry","Force Exit, Bollinger Exit",-6.989010989010989,-450.0,270.0
+312,"Force Entry, MACD Entry, Keltner Entry",PVO Exit,-7.043956043956044,-127.0,35.0
+1069,"MFI Entry, MACD Entry, Keltner Entry","PVO Exit, MACD Exit, Keltner Exit",-7.1098901098901095,-124.0,0.0
+1068,"MFI Entry, MACD Entry, Keltner Entry","PVO Exit, MACD Exit, Bollinger Exit",-7.1098901098901095,-124.0,0.0
+1046,"MFI Entry, MACD Entry, Keltner Entry","Force Exit, TSI Exit, Bollinger Exit",-7.1098901098901095,-124.0,0.0
+1071,"MFI Entry, MACD Entry, Keltner Entry","PVO Exit, RSI Exit, Bollinger Exit",-7.1098901098901095,-124.0,0.0
+1066,"MFI Entry, MACD Entry, Keltner Entry","PVO Exit, Keltner Exit",-7.1098901098901095,-124.0,0.0
+1065,"MFI Entry, MACD Entry, Keltner Entry","PVO Exit, Bollinger Exit",-7.1098901098901095,-124.0,0.0
+1072,"MFI Entry, MACD Entry, Keltner Entry","PVO Exit, RSI Exit, Keltner Exit",-7.1098901098901095,-124.0,0.0
+1063,"MFI Entry, MACD Entry, Keltner Entry","MFI Exit, TSI Exit, Keltner Exit",-7.1098901098901095,-124.0,0.0
+1080,"MFI Entry, MACD Entry, Keltner Entry","TSI Exit, Bollinger Exit",-7.1098901098901095,-124.0,0.0
+1062,"MFI Entry, MACD Entry, Keltner Entry","MFI Exit, TSI Exit, Bollinger Exit",-7.1098901098901095,-124.0,0.0
+1074,"MFI Entry, MACD Entry, Keltner Entry","PVO Exit, TSI Exit, Bollinger Exit",-7.1098901098901095,-124.0,0.0
+1061,"MFI Entry, MACD Entry, Keltner Entry","MFI Exit, TSI Exit",-7.1098901098901095,-124.0,0.0
+1060,"MFI Entry, MACD Entry, Keltner Entry","MFI Exit, RSI Exit, Keltner Exit",-7.1098901098901095,-124.0,0.0
+1056,"MFI Entry, MACD Entry, Keltner Entry","MFI Exit, MACD Exit, Bollinger Exit",-7.1098901098901095,-124.0,0.0
+1075,"MFI Entry, MACD Entry, Keltner Entry","PVO Exit, TSI Exit, Keltner Exit",-7.1098901098901095,-124.0,0.0
+1070,"MFI Entry, MACD Entry, Keltner Entry","PVO Exit, RSI Exit",-7.1098901098901095,-124.0,0.0
+1676,"PVO Entry, RSI Entry","PVO Exit, Bollinger Exit",-7.1208791208791204,-115.0,0.0
+1673,"PVO Entry, RSI Entry","MFI Exit, TSI Exit, Bollinger Exit",-7.1208791208791204,-115.0,0.0
+1674,"PVO Entry, RSI Entry","MFI Exit, TSI Exit, Keltner Exit",-7.1208791208791204,-115.0,0.0
+1680,"PVO Entry, RSI Entry","PVO Exit, MACD Exit, Keltner Exit",-7.1208791208791204,-115.0,0.0
+1677,"PVO Entry, RSI Entry","PVO Exit, Keltner Exit",-7.1208791208791204,-115.0,0.0
+1679,"PVO Entry, RSI Entry","PVO Exit, MACD Exit, Bollinger Exit",-7.1208791208791204,-115.0,0.0
+1691,"PVO Entry, RSI Entry","TSI Exit, Bollinger Exit",-7.1208791208791204,-115.0,0.0
+1682,"PVO Entry, RSI Entry","PVO Exit, RSI Exit, Bollinger Exit",-7.1208791208791204,-115.0,0.0
+1683,"PVO Entry, RSI Entry","PVO Exit, RSI Exit, Keltner Exit",-7.1208791208791204,-115.0,0.0
+1689,"PVO Entry, RSI Entry","RSI Exit, Keltner Exit",-7.1208791208791204,-115.0,0.0
+1671,"PVO Entry, RSI Entry","MFI Exit, RSI Exit, Keltner Exit",-7.1208791208791204,-115.0,0.0
+1685,"PVO Entry, RSI Entry","PVO Exit, TSI Exit, Bollinger Exit",-7.1208791208791204,-115.0,0.0
+1667,"PVO Entry, RSI Entry","MFI Exit, MACD Exit, Bollinger Exit",-7.1208791208791204,-115.0,0.0
+1686,"PVO Entry, RSI Entry","PVO Exit, TSI Exit, Keltner Exit",-7.1208791208791204,-115.0,0.0
+1655,"PVO Entry, RSI Entry","Force Exit, RSI Exit, Keltner Exit",-7.1208791208791204,-115.0,0.0
+1657,"PVO Entry, RSI Entry","Force Exit, TSI Exit, Bollinger Exit",-7.1208791208791204,-115.0,0.0
+1067,"MFI Entry, MACD Entry, Keltner Entry","PVO Exit, MACD Exit",-7.131868131868132,-124.0,0.0
+313,"Force Entry, MACD Entry, Keltner Entry","PVO Exit, Bollinger Exit",-7.164835164835165,-127.0,0.0
+310,"Force Entry, MACD Entry, Keltner Entry","MFI Exit, TSI Exit, Bollinger Exit",-7.164835164835165,-127.0,0.0
+323,"Force Entry, MACD Entry, Keltner Entry","PVO Exit, TSI Exit, Keltner Exit",-7.164835164835165,-127.0,0.0
+322,"Force Entry, MACD Entry, Keltner Entry","PVO Exit, TSI Exit, Bollinger Exit",-7.164835164835165,-127.0,0.0
+321,"Force Entry, MACD Entry, Keltner Entry","PVO Exit, TSI Exit",-7.164835164835165,-127.0,0.0
+314,"Force Entry, MACD Entry, Keltner Entry","PVO Exit, Keltner Exit",-7.164835164835165,-127.0,0.0
+320,"Force Entry, MACD Entry, Keltner Entry","PVO Exit, RSI Exit, Keltner Exit",-7.164835164835165,-127.0,0.0
+319,"Force Entry, MACD Entry, Keltner Entry","PVO Exit, RSI Exit, Bollinger Exit",-7.164835164835165,-127.0,0.0
+318,"Force Entry, MACD Entry, Keltner Entry","PVO Exit, RSI Exit",-7.164835164835165,-127.0,0.0
+316,"Force Entry, MACD Entry, Keltner Entry","PVO Exit, MACD Exit, Bollinger Exit",-7.164835164835165,-127.0,0.0
+315,"Force Entry, MACD Entry, Keltner Entry","PVO Exit, MACD Exit",-7.164835164835165,-127.0,0.0
+317,"Force Entry, MACD Entry, Keltner Entry","PVO Exit, MACD Exit, Keltner Exit",-7.164835164835165,-127.0,0.0
+1705,"PVO Entry, RSI Entry, Bollinger Entry","Force Exit, TSI Exit, Keltner Exit",-7.175824175824176,-120.0,33.0
+1433,"PVO Entry, Bollinger Entry","MFI Exit, MACD Exit, Keltner Exit",-7.21978021978022,-229.0,278.0
+1802,"PVO Entry, TSI Entry","MACD Exit, Bollinger Exit",-7.252747252747253,-123.0,98.0
+866,"MFI Entry, Bollinger Entry","MFI Exit, Keltner Exit",-7.3076923076923075,-158.0,187.0
+869,"MFI Entry, Bollinger Entry","MFI Exit, MACD Exit, Keltner Exit",-7.3076923076923075,-158.0,187.0
+2011,"RSI Entry, Bollinger Entry","PVO Exit, RSI Exit, Bollinger Exit",-7.373626373626373,-305.0,413.0
+1731,"PVO Entry, RSI Entry, Bollinger Entry","PVO Exit, TSI Exit",-7.384615384615385,-120.0,4.0
+1725,"PVO Entry, RSI Entry, Bollinger Entry","PVO Exit, MACD Exit",-7.428571428571429,-120.0,3.0
+1718,"PVO Entry, RSI Entry, Bollinger Entry","MFI Exit, RSI Exit, Keltner Exit",-7.461538461538462,-120.0,0.0
+328,"Force Entry, MACD Entry, Keltner Entry","TSI Exit, Bollinger Exit",-7.461538461538462,-127.0,0.0
+1714,"PVO Entry, RSI Entry, Bollinger Entry","MFI Exit, MACD Exit, Bollinger Exit",-7.461538461538462,-120.0,0.0
+1736,"PVO Entry, RSI Entry, Bollinger Entry","RSI Exit, Keltner Exit",-7.461538461538462,-120.0,0.0
+1720,"PVO Entry, RSI Entry, Bollinger Entry","MFI Exit, TSI Exit, Bollinger Exit",-7.461538461538462,-120.0,0.0
+1733,"PVO Entry, RSI Entry, Bollinger Entry","PVO Exit, TSI Exit, Keltner Exit",-7.461538461538462,-120.0,0.0
+1732,"PVO Entry, RSI Entry, Bollinger Entry","PVO Exit, TSI Exit, Bollinger Exit",-7.461538461538462,-120.0,0.0
+1723,"PVO Entry, RSI Entry, Bollinger Entry","PVO Exit, Bollinger Exit",-7.461538461538462,-120.0,0.0
+1724,"PVO Entry, RSI Entry, Bollinger Entry","PVO Exit, Keltner Exit",-7.461538461538462,-120.0,0.0
+1726,"PVO Entry, RSI Entry, Bollinger Entry","PVO Exit, MACD Exit, Bollinger Exit",-7.461538461538462,-120.0,0.0
+1727,"PVO Entry, RSI Entry, Bollinger Entry","PVO Exit, MACD Exit, Keltner Exit",-7.461538461538462,-120.0,0.0
+1729,"PVO Entry, RSI Entry, Bollinger Entry","PVO Exit, RSI Exit, Bollinger Exit",-7.461538461538462,-120.0,0.0
+1721,"PVO Entry, RSI Entry, Bollinger Entry","MFI Exit, TSI Exit, Keltner Exit",-7.461538461538462,-120.0,0.0
+1730,"PVO Entry, RSI Entry, Bollinger Entry","PVO Exit, RSI Exit, Keltner Exit",-7.461538461538462,-120.0,0.0
+294,"Force Entry, MACD Entry, Keltner Entry","Force Exit, TSI Exit, Bollinger Exit",-7.461538461538462,-127.0,0.0
+1704,"PVO Entry, RSI Entry, Bollinger Entry","Force Exit, TSI Exit, Bollinger Exit",-7.461538461538462,-120.0,0.0
+1702,"PVO Entry, RSI Entry, Bollinger Entry","Force Exit, RSI Exit, Keltner Exit",-7.461538461538462,-120.0,0.0
+1701,"PVO Entry, RSI Entry, Bollinger Entry","Force Exit, RSI Exit, Bollinger Exit",-7.461538461538462,-120.0,0.0
+1700,"PVO Entry, RSI Entry, Bollinger Entry","Force Exit, RSI Exit",-7.461538461538462,-120.0,0.0
+1698,"PVO Entry, RSI Entry, Bollinger Entry","Force Exit, MACD Exit, Bollinger Exit",-7.461538461538462,-120.0,0.0
+1738,"PVO Entry, RSI Entry, Bollinger Entry","TSI Exit, Bollinger Exit",-7.461538461538462,-120.0,0.0
+1719,"PVO Entry, RSI Entry, Bollinger Entry","MFI Exit, TSI Exit",-7.472527472527473,-120.0,22.0
+642,Keltner Entry,"PVO Exit, Bollinger Exit",-7.4945054945054945,-341.0,600.0
+906,"MFI Entry, Keltner Entry","Force Exit, TSI Exit, Keltner Exit",-7.516483516483516,-125.0,231.0
+1678,"PVO Entry, RSI Entry","PVO Exit, MACD Exit",-7.538461538461538,-115.0,0.0
+1684,"PVO Entry, RSI Entry","PVO Exit, TSI Exit",-7.549450549450549,-115.0,0.0
+2193,"TSI Entry, Keltner Entry","PVO Exit, Bollinger Exit",-7.571428571428571,-128.0,357.0
+1457,"PVO Entry, Bollinger Entry","TSI Exit, Keltner Exit",-7.604395604395604,-229.0,225.0
+147,"Force Entry, Keltner Entry","Force Exit, MACD Exit, Bollinger Exit",-7.791208791208791,-287.0,211.0
+304,"Force Entry, MACD Entry, Keltner Entry","MFI Exit, MACD Exit, Bollinger Exit",-7.813186813186813,-151.0,92.0
+517,"Force Entry, TSI Entry","TSI Exit, Keltner Exit",-7.824175824175824,-237.0,135.0
+1695,"PVO Entry, RSI Entry, Bollinger Entry","Force Exit, Bollinger Exit",-7.846153846153846,-120.0,0.0
+873,"MFI Entry, Bollinger Entry","MFI Exit, TSI Exit",-7.934065934065934,-158.0,192.0
+1473,"PVO Entry, Keltner Entry","MACD Exit, Bollinger Exit",-7.978021978021978,-375.0,255.0
+309,"Force Entry, MACD Entry, Keltner Entry","MFI Exit, TSI Exit",-8.043956043956044,-127.0,68.0
+311,"Force Entry, MACD Entry, Keltner Entry","MFI Exit, TSI Exit, Keltner Exit",-8.098901098901099,-127.0,0.0
+956,"MFI Entry, MACD Entry","MACD Exit, Bollinger Exit",-8.12087912087912,-435.0,514.0
+1534,"PVO Entry, MACD Entry",PVO Exit,-8.186813186813186,-450.0,169.0
+1446,"PVO Entry, Bollinger Entry","PVO Exit, RSI Exit",-8.208791208791208,-229.0,305.0
+1383,PVO Entry,"MFI Exit, Keltner Exit",-8.23076923076923,-450.0,473.0
+50,Force Entry,"Force Exit, Bollinger Exit",-8.263736263736265,-555.0,380.0
+909,"MFI Entry, Keltner Entry","MACD Exit, Bollinger Exit",-8.32967032967033,-125.0,61.0
+688,MACD Entry,PVO Exit,-8.417582417582418,-542.0,502.0
+1937,RSI Entry,"Force Exit, RSI Exit, Keltner Exit",-8.45054945054945,-305.0,114.0
+1971,RSI Entry,"RSI Exit, Keltner Exit",-8.45054945054945,-305.0,114.0
+1814,"PVO Entry, TSI Entry","MFI Exit, TSI Exit, Bollinger Exit",-8.483516483516484,-116.0,0.0
+1796,"PVO Entry, TSI Entry","Force Exit, RSI Exit, Keltner Exit",-8.483516483516484,-116.0,0.0
+1825,"PVO Entry, TSI Entry","PVO Exit, TSI Exit",-8.483516483516484,-116.0,0.0
+1826,"PVO Entry, TSI Entry","PVO Exit, TSI Exit, Bollinger Exit",-8.483516483516484,-116.0,0.0
+1827,"PVO Entry, TSI Entry","PVO Exit, TSI Exit, Keltner Exit",-8.483516483516484,-116.0,0.0
+1830,"PVO Entry, TSI Entry","RSI Exit, Keltner Exit",-8.483516483516484,-116.0,0.0
+1819,"PVO Entry, TSI Entry","PVO Exit, MACD Exit",-8.483516483516484,-116.0,0.0
+1821,"PVO Entry, TSI Entry","PVO Exit, MACD Exit, Keltner Exit",-8.483516483516484,-116.0,0.0
+1820,"PVO Entry, TSI Entry","PVO Exit, MACD Exit, Bollinger Exit",-8.483516483516484,-116.0,0.0
+1818,"PVO Entry, TSI Entry","PVO Exit, Keltner Exit",-8.483516483516484,-116.0,0.0
+1812,"PVO Entry, TSI Entry","MFI Exit, RSI Exit, Keltner Exit",-8.483516483516484,-116.0,0.0
+1815,"PVO Entry, TSI Entry","MFI Exit, TSI Exit, Keltner Exit",-8.483516483516484,-116.0,0.0
+1824,"PVO Entry, TSI Entry","PVO Exit, RSI Exit, Keltner Exit",-8.483516483516484,-116.0,0.0
+1996,"RSI Entry, Bollinger Entry","MFI Exit, MACD Exit, Bollinger Exit",-8.56043956043956,-305.0,305.0
+1980,"RSI Entry, Bollinger Entry","Force Exit, MACD Exit, Bollinger Exit",-8.56043956043956,-305.0,305.0
+1983,"RSI Entry, Bollinger Entry","Force Exit, RSI Exit, Bollinger Exit",-8.56043956043956,-305.0,305.0
+1798,"PVO Entry, TSI Entry","Force Exit, TSI Exit, Bollinger Exit",-8.571428571428571,-116.0,19.0
+1832,"PVO Entry, TSI Entry","TSI Exit, Bollinger Exit",-8.571428571428571,-116.0,19.0
+880,"MFI Entry, Bollinger Entry","PVO Exit, MACD Exit, Bollinger Exit",-8.802197802197803,-158.0,0.0
+883,"MFI Entry, Bollinger Entry","PVO Exit, RSI Exit, Bollinger Exit",-8.802197802197803,-158.0,0.0
+855,"MFI Entry, Bollinger Entry","Force Exit, RSI Exit, Bollinger Exit",-8.802197802197803,-158.0,0.0
+868,"MFI Entry, Bollinger Entry","MFI Exit, MACD Exit, Bollinger Exit",-8.802197802197803,-158.0,0.0
+872,"MFI Entry, Bollinger Entry","MFI Exit, RSI Exit, Keltner Exit",-8.802197802197803,-158.0,0.0
+892,"MFI Entry, Bollinger Entry","TSI Exit, Bollinger Exit",-8.802197802197803,-158.0,0.0
+890,"MFI Entry, Bollinger Entry","RSI Exit, Keltner Exit",-8.802197802197803,-158.0,0.0
+887,"MFI Entry, Bollinger Entry","PVO Exit, TSI Exit, Keltner Exit",-8.802197802197803,-158.0,0.0
+879,"MFI Entry, Bollinger Entry","PVO Exit, MACD Exit",-8.802197802197803,-158.0,0.0
+874,"MFI Entry, Bollinger Entry","MFI Exit, TSI Exit, Bollinger Exit",-8.802197802197803,-158.0,0.0
+886,"MFI Entry, Bollinger Entry","PVO Exit, TSI Exit, Bollinger Exit",-8.802197802197803,-158.0,0.0
+885,"MFI Entry, Bollinger Entry","PVO Exit, TSI Exit",-8.802197802197803,-158.0,0.0
+884,"MFI Entry, Bollinger Entry","PVO Exit, RSI Exit, Keltner Exit",-8.802197802197803,-158.0,0.0
+856,"MFI Entry, Bollinger Entry","Force Exit, RSI Exit, Keltner Exit",-8.802197802197803,-158.0,0.0
+882,"MFI Entry, Bollinger Entry","PVO Exit, RSI Exit",-8.802197802197803,-158.0,0.0
+877,"MFI Entry, Bollinger Entry","PVO Exit, Bollinger Exit",-8.802197802197803,-158.0,0.0
+858,"MFI Entry, Bollinger Entry","Force Exit, TSI Exit, Bollinger Exit",-8.802197802197803,-158.0,0.0
+881,"MFI Entry, Bollinger Entry","PVO Exit, MACD Exit, Keltner Exit",-8.802197802197803,-158.0,0.0
+878,"MFI Entry, Bollinger Entry","PVO Exit, Keltner Exit",-8.802197802197803,-158.0,0.0
+478,"Force Entry, TSI Entry","Force Exit, RSI Exit",-9.0,-237.0,208.0
+1954,RSI Entry,"MFI Exit, TSI Exit",-9.043956043956044,-305.0,193.0
+638,Keltner Entry,"MFI Exit, TSI Exit",-9.076923076923077,-341.0,361.0
+852,"MFI Entry, Bollinger Entry","Force Exit, MACD Exit, Bollinger Exit",-9.142857142857142,-158.0,0.0
+862,"MFI Entry, Bollinger Entry","MACD Exit, Bollinger Exit",-9.142857142857142,-158.0,0.0
+902,"MFI Entry, Keltner Entry","Force Exit, RSI Exit, Bollinger Exit",-9.219780219780219,-125.0,61.0
+899,"MFI Entry, Keltner Entry","Force Exit, MACD Exit, Bollinger Exit",-9.219780219780219,-125.0,61.0
+1977,"RSI Entry, Bollinger Entry","Force Exit, Bollinger Exit",-9.32967032967033,-305.0,305.0
+875,"MFI Entry, Bollinger Entry","MFI Exit, TSI Exit, Keltner Exit",-9.362637362637363,-158.0,0.0
+2198,"TSI Entry, Keltner Entry","PVO Exit, RSI Exit",-9.373626373626374,-128.0,164.0
+943,"MFI Entry, MACD Entry","Force Exit, Bollinger Exit",-9.384615384615385,-435.0,456.0
+486,"Force Entry, TSI Entry","MACD Exit, Bollinger Exit",-9.406593406593407,-237.0,98.0
+29,Bollinger Entry,PVO Exit,-9.417582417582418,-370.0,541.0
+1386,PVO Entry,"MFI Exit, MACD Exit, Keltner Exit",-9.516483516483516,-450.0,473.0
+1460,"PVO Entry, Keltner Entry","Force Exit, Bollinger Exit",-9.571428571428571,-375.0,257.0
+1477,"PVO Entry, Keltner Entry","MFI Exit, Keltner Exit",-9.648351648351648,-375.0,292.0
+483,"Force Entry, TSI Entry","Force Exit, TSI Exit, Keltner Exit",-9.67032967032967,-237.0,126.0
+1953,RSI Entry,"MFI Exit, RSI Exit, Keltner Exit",-9.703296703296703,-305.0,46.0
+932,"MFI Entry, Keltner Entry","PVO Exit, TSI Exit",-9.703296703296703,-125.0,0.0
+849,"MFI Entry, Bollinger Entry","Force Exit, Bollinger Exit",-9.791208791208792,-158.0,0.0
+905,"MFI Entry, Keltner Entry","Force Exit, TSI Exit, Bollinger Exit",-9.89010989010989,-125.0,0.0
+915,"MFI Entry, Keltner Entry","MFI Exit, MACD Exit, Bollinger Exit",-9.89010989010989,-125.0,0.0
+919,"MFI Entry, Keltner Entry","MFI Exit, RSI Exit, Keltner Exit",-9.89010989010989,-125.0,0.0
+921,"MFI Entry, Keltner Entry","MFI Exit, TSI Exit, Bollinger Exit",-9.89010989010989,-125.0,0.0
+924,"MFI Entry, Keltner Entry","PVO Exit, Bollinger Exit",-9.89010989010989,-125.0,0.0
+931,"MFI Entry, Keltner Entry","PVO Exit, RSI Exit, Keltner Exit",-9.89010989010989,-125.0,0.0
+939,"MFI Entry, Keltner Entry","TSI Exit, Bollinger Exit",-9.89010989010989,-125.0,0.0
+930,"MFI Entry, Keltner Entry","PVO Exit, RSI Exit, Bollinger Exit",-9.89010989010989,-125.0,0.0
+927,"MFI Entry, Keltner Entry","PVO Exit, MACD Exit, Bollinger Exit",-9.89010989010989,-125.0,0.0
+929,"MFI Entry, Keltner Entry","PVO Exit, RSI Exit",-9.89010989010989,-125.0,0.0
+928,"MFI Entry, Keltner Entry","PVO Exit, MACD Exit, Keltner Exit",-9.89010989010989,-125.0,0.0
+933,"MFI Entry, Keltner Entry","PVO Exit, TSI Exit, Bollinger Exit",-9.89010989010989,-125.0,0.0
+934,"MFI Entry, Keltner Entry","PVO Exit, TSI Exit, Keltner Exit",-9.89010989010989,-125.0,0.0
+925,"MFI Entry, Keltner Entry","PVO Exit, Keltner Exit",-9.89010989010989,-125.0,0.0
+926,"MFI Entry, Keltner Entry","PVO Exit, MACD Exit",-9.912087912087912,-125.0,0.0
+500,"Force Entry, TSI Entry",PVO Exit,-9.912087912087912,-237.0,273.0
+1467,"PVO Entry, Keltner Entry","Force Exit, RSI Exit, Keltner Exit",-10.054945054945055,-375.0,546.0
+473,"Force Entry, TSI Entry","Force Exit, Bollinger Exit",-10.054945054945055,-237.0,208.0
+1501,"PVO Entry, Keltner Entry","RSI Exit, Keltner Exit",-10.054945054945055,-375.0,546.0
+1480,"PVO Entry, Keltner Entry","MFI Exit, MACD Exit, Keltner Exit",-10.054945054945055,-375.0,292.0
+923,"MFI Entry, Keltner Entry",PVO Exit,-10.076923076923077,-125.0,0.0
+1487,"PVO Entry, Keltner Entry",PVO Exit,-10.142857142857142,-375.0,357.0
+1962,RSI Entry,"PVO Exit, MACD Exit, Keltner Exit",-10.208791208791208,-305.0,0.0
+1939,RSI Entry,"Force Exit, TSI Exit, Bollinger Exit",-10.208791208791208,-305.0,0.0
+1968,RSI Entry,"PVO Exit, TSI Exit, Keltner Exit",-10.208791208791208,-305.0,0.0
+1973,RSI Entry,"TSI Exit, Bollinger Exit",-10.208791208791208,-305.0,0.0
+1965,RSI Entry,"PVO Exit, RSI Exit, Keltner Exit",-10.208791208791208,-305.0,0.0
+1955,RSI Entry,"MFI Exit, TSI Exit, Bollinger Exit",-10.208791208791208,-305.0,0.0
+1967,RSI Entry,"PVO Exit, TSI Exit, Bollinger Exit",-10.208791208791208,-305.0,0.0
+1961,RSI Entry,"PVO Exit, MACD Exit, Bollinger Exit",-10.208791208791208,-305.0,0.0
+970,"MFI Entry, MACD Entry",PVO Exit,-10.208791208791208,-435.0,359.0
+1959,RSI Entry,"PVO Exit, Keltner Exit",-10.208791208791208,-305.0,0.0
+2018,"RSI Entry, Bollinger Entry","RSI Exit, Keltner Exit",-10.263736263736265,-305.0,110.0
+1984,"RSI Entry, Bollinger Entry","Force Exit, RSI Exit, Keltner Exit",-10.263736263736265,-305.0,110.0
+163,"Force Entry, Keltner Entry","MFI Exit, MACD Exit, Bollinger Exit",-10.32967032967033,-287.0,211.0
+1987,"RSI Entry, Bollinger Entry","Force Exit, TSI Exit, Keltner Exit",-10.340659340659341,-305.0,111.0
+501,"Force Entry, TSI Entry","PVO Exit, Bollinger Exit",-10.428571428571429,-237.0,273.0
+506,"Force Entry, TSI Entry","PVO Exit, RSI Exit",-10.428571428571429,-237.0,273.0
+507,"Force Entry, TSI Entry","PVO Exit, RSI Exit, Bollinger Exit",-10.428571428571429,-237.0,273.0
+987,"MFI Entry, MACD Entry","TSI Exit, Keltner Exit",-10.461538461538462,-435.0,290.0
+946,"MFI Entry, MACD Entry","Force Exit, MACD Exit, Bollinger Exit",-10.56043956043956,-435.0,514.0
+1956,RSI Entry,"MFI Exit, TSI Exit, Keltner Exit",-10.615384615384615,-305.0,0.0
+1960,RSI Entry,"PVO Exit, MACD Exit",-10.626373626373626,-305.0,0.0
+479,"Force Entry, TSI Entry","Force Exit, RSI Exit, Bollinger Exit",-10.626373626373626,-237.0,208.0
+1966,RSI Entry,"PVO Exit, TSI Exit",-10.637362637362637,-305.0,0.0
+2171,"TSI Entry, Keltner Entry","Force Exit, RSI Exit, Bollinger Exit",-10.68131868131868,-128.0,142.0
+2001,"RSI Entry, Bollinger Entry","MFI Exit, TSI Exit",-10.692307692307692,-305.0,192.0
+177,"Force Entry, Keltner Entry","PVO Exit, RSI Exit",-10.780219780219781,-287.0,273.0
+2165,"TSI Entry, Keltner Entry","Force Exit, Bollinger Exit",-10.824175824175825,-128.0,142.0
+859,"MFI Entry, Bollinger Entry","Force Exit, TSI Exit, Keltner Exit",-10.868131868131869,-158.0,27.0
+782,"MACD Entry, Keltner Entry",PVO Exit,-10.956043956043956,-565.0,580.0
+755,"MACD Entry, Keltner Entry","Force Exit, Bollinger Exit",-10.967032967032967,-565.0,305.0
+150,"Force Entry, Keltner Entry","Force Exit, RSI Exit, Bollinger Exit",-11.065934065934066,-287.0,211.0
+799,"MACD Entry, Keltner Entry","TSI Exit, Keltner Exit",-11.12087912087912,-565.0,389.0
+492,"Force Entry, TSI Entry","MFI Exit, MACD Exit, Bollinger Exit",-11.142857142857142,-237.0,208.0
+2209,"TSI Entry, Keltner Entry","TSI Exit, Keltner Exit",-11.153846153846153,-138.0,240.0
+476,"Force Entry, TSI Entry","Force Exit, MACD Exit, Bollinger Exit",-11.263736263736265,-237.0,208.0
+2206,"TSI Entry, Keltner Entry","RSI Exit, Keltner Exit",-11.285714285714286,-128.0,265.0
+2172,"TSI Entry, Keltner Entry","Force Exit, RSI Exit, Keltner Exit",-11.285714285714286,-128.0,265.0
+2076,TSI Entry,"Force Exit, RSI Exit",-11.417582417582418,-503.0,417.0
+962,"MFI Entry, MACD Entry","MFI Exit, MACD Exit, Bollinger Exit",-11.472527472527473,-435.0,514.0
+2000,"RSI Entry, Bollinger Entry","MFI Exit, RSI Exit, Keltner Exit",-11.472527472527473,-305.0,40.0
+2199,"TSI Entry, Keltner Entry","PVO Exit, RSI Exit, Bollinger Exit",-11.494505494505495,-128.0,164.0
+815,MFI Entry,"MACD Exit, Bollinger Exit",-11.516483516483516,-539.0,579.0
+1517,"PVO Entry, MACD Entry","Force Exit, TSI Exit, Keltner Exit",-11.802197802197803,-450.0,339.0
+2013,"RSI Entry, Bollinger Entry","PVO Exit, TSI Exit",-11.835164835164836,-305.0,4.0
+172,"Force Entry, Keltner Entry","PVO Exit, Bollinger Exit",-11.868131868131869,-287.0,273.0
+178,"Force Entry, Keltner Entry","PVO Exit, RSI Exit, Bollinger Exit",-11.868131868131869,-287.0,273.0
+2007,"RSI Entry, Bollinger Entry","PVO Exit, MACD Exit",-11.87912087912088,-305.0,3.0
+2008,"RSI Entry, Bollinger Entry","PVO Exit, MACD Exit, Bollinger Exit",-11.912087912087912,-305.0,0.0
+2009,"RSI Entry, Bollinger Entry","PVO Exit, MACD Exit, Keltner Exit",-11.912087912087912,-305.0,0.0
+2012,"RSI Entry, Bollinger Entry","PVO Exit, RSI Exit, Keltner Exit",-11.912087912087912,-305.0,0.0
+2015,"RSI Entry, Bollinger Entry","PVO Exit, TSI Exit, Keltner Exit",-11.912087912087912,-305.0,0.0
+2014,"RSI Entry, Bollinger Entry","PVO Exit, TSI Exit, Bollinger Exit",-11.912087912087912,-305.0,0.0
+2020,"RSI Entry, Bollinger Entry","TSI Exit, Bollinger Exit",-11.912087912087912,-305.0,0.0
+2006,"RSI Entry, Bollinger Entry","PVO Exit, Keltner Exit",-11.912087912087912,-305.0,0.0
+1986,"RSI Entry, Bollinger Entry","Force Exit, TSI Exit, Bollinger Exit",-11.912087912087912,-305.0,0.0
+2002,"RSI Entry, Bollinger Entry","MFI Exit, TSI Exit, Bollinger Exit",-11.912087912087912,-305.0,0.0
+497,"Force Entry, TSI Entry","MFI Exit, TSI Exit",-12.087912087912088,-237.0,164.0
+201,"Force Entry, MACD Entry","Force Exit, TSI Exit, Keltner Exit",-12.252747252747254,-231.0,339.0
+2168,"TSI Entry, Keltner Entry","Force Exit, MACD Exit, Bollinger Exit",-12.285714285714286,-128.0,142.0
+191,"Force Entry, MACD Entry","Force Exit, Bollinger Exit",-12.285714285714286,-231.0,174.0
+2003,"RSI Entry, Bollinger Entry","MFI Exit, TSI Exit, Keltner Exit",-12.395604395604396,-305.0,0.0
+194,"Force Entry, MACD Entry","Force Exit, MACD Exit, Bollinger Exit",-12.406593406593407,-231.0,174.0
+1366,PVO Entry,"Force Exit, Bollinger Exit",-12.483516483516484,-450.0,313.0
+60,Force Entry,"Force Exit, TSI Exit, Keltner Exit",-12.516483516483516,-555.0,339.0
+2175,"TSI Entry, Keltner Entry","Force Exit, TSI Exit, Keltner Exit",-12.527472527472527,-128.0,97.0
+480,"Force Entry, TSI Entry","Force Exit, RSI Exit, Keltner Exit",-12.56043956043956,-237.0,58.0
+514,"Force Entry, TSI Entry","RSI Exit, Keltner Exit",-12.56043956043956,-237.0,58.0
+1437,"PVO Entry, Bollinger Entry","MFI Exit, TSI Exit",-12.956043956043956,-229.0,146.0
+1454,"PVO Entry, Bollinger Entry","RSI Exit, Keltner Exit",-13.043956043956044,-229.0,235.0
+1420,"PVO Entry, Bollinger Entry","Force Exit, RSI Exit, Keltner Exit",-13.043956043956044,-229.0,235.0
+9,Bollinger Entry,"Force Exit, RSI Exit, Keltner Exit",-13.142857142857142,-364.0,912.0
+43,Bollinger Entry,"RSI Exit, Keltner Exit",-13.142857142857142,-364.0,912.0
+2189,"TSI Entry, Keltner Entry","MFI Exit, TSI Exit",-13.164835164835164,-128.0,94.0
+1413,"PVO Entry, Bollinger Entry","Force Exit, Bollinger Exit",-13.164835164835164,-229.0,196.0
+496,"Force Entry, TSI Entry","MFI Exit, RSI Exit, Keltner Exit",-13.197802197802197,-237.0,21.0
+167,"Force Entry, Keltner Entry","MFI Exit, RSI Exit, Keltner Exit",-13.252747252747254,-287.0,126.0
+218,"Force Entry, MACD Entry",PVO Exit,-13.340659340659341,-231.0,117.0
+509,"Force Entry, TSI Entry","PVO Exit, TSI Exit",-13.428571428571429,-237.0,0.0
+510,"Force Entry, TSI Entry","PVO Exit, TSI Exit, Bollinger Exit",-13.428571428571429,-237.0,0.0
+502,"Force Entry, TSI Entry","PVO Exit, Keltner Exit",-13.428571428571429,-237.0,0.0
+498,"Force Entry, TSI Entry","MFI Exit, TSI Exit, Bollinger Exit",-13.428571428571429,-237.0,0.0
+503,"Force Entry, TSI Entry","PVO Exit, MACD Exit",-13.428571428571429,-237.0,0.0
+511,"Force Entry, TSI Entry","PVO Exit, TSI Exit, Keltner Exit",-13.428571428571429,-237.0,0.0
+504,"Force Entry, TSI Entry","PVO Exit, MACD Exit, Bollinger Exit",-13.428571428571429,-237.0,0.0
+505,"Force Entry, TSI Entry","PVO Exit, MACD Exit, Keltner Exit",-13.428571428571429,-237.0,0.0
+508,"Force Entry, TSI Entry","PVO Exit, RSI Exit, Keltner Exit",-13.428571428571429,-237.0,0.0
+1423,"PVO Entry, Bollinger Entry","Force Exit, TSI Exit, Keltner Exit",-13.472527472527473,-229.0,193.0
+2088,TSI Entry,"MFI Exit, Keltner Exit",-13.483516483516484,-503.0,716.0
+1510,"PVO Entry, MACD Entry","Force Exit, MACD Exit, Bollinger Exit",-13.54945054945055,-450.0,174.0
+1416,"PVO Entry, Bollinger Entry","Force Exit, MACD Exit, Bollinger Exit",-13.626373626373626,-229.0,196.0
+210,"Force Entry, MACD Entry","MFI Exit, MACD Exit, Bollinger Exit",-13.637362637362637,-231.0,174.0
+1540,"PVO Entry, MACD Entry","PVO Exit, RSI Exit",-13.67032967032967,-450.0,178.0
+482,"Force Entry, TSI Entry","Force Exit, TSI Exit, Bollinger Exit",-13.725274725274724,-237.0,0.0
+516,"Force Entry, TSI Entry","TSI Exit, Bollinger Exit",-13.725274725274724,-237.0,0.0
+1419,"PVO Entry, Bollinger Entry","Force Exit, RSI Exit, Bollinger Exit",-13.802197802197803,-229.0,196.0
+2201,"TSI Entry, Keltner Entry","PVO Exit, TSI Exit",-13.846153846153847,-128.0,0.0
+976,"MFI Entry, MACD Entry","PVO Exit, RSI Exit",-13.857142857142858,-435.0,233.0
+499,"Force Entry, TSI Entry","MFI Exit, TSI Exit, Keltner Exit",-13.945054945054945,-237.0,0.0
+174,"Force Entry, Keltner Entry","PVO Exit, MACD Exit",-14.065934065934066,-287.0,0.0
+1488,"PVO Entry, Keltner Entry","PVO Exit, Bollinger Exit",-14.142857142857142,-375.0,357.0
+1513,"PVO Entry, MACD Entry","Force Exit, RSI Exit, Bollinger Exit",-14.32967032967033,-450.0,268.0
+173,"Force Entry, Keltner Entry","PVO Exit, Keltner Exit",-14.32967032967033,-287.0,49.0
+1449,"PVO Entry, Bollinger Entry","PVO Exit, TSI Exit",-14.428571428571429,-229.0,4.0
+2191,"TSI Entry, Keltner Entry","MFI Exit, TSI Exit, Keltner Exit",-14.483516483516484,-128.0,0.0
+2200,"TSI Entry, Keltner Entry","PVO Exit, RSI Exit, Keltner Exit",-14.483516483516484,-128.0,0.0
+2194,"TSI Entry, Keltner Entry","PVO Exit, Keltner Exit",-14.483516483516484,-128.0,0.0
+2202,"TSI Entry, Keltner Entry","PVO Exit, TSI Exit, Bollinger Exit",-14.483516483516484,-128.0,0.0
+2203,"TSI Entry, Keltner Entry","PVO Exit, TSI Exit, Keltner Exit",-14.483516483516484,-128.0,0.0
+2197,"TSI Entry, Keltner Entry","PVO Exit, MACD Exit, Keltner Exit",-14.483516483516484,-128.0,0.0
+2190,"TSI Entry, Keltner Entry","MFI Exit, TSI Exit, Bollinger Exit",-14.483516483516484,-128.0,0.0
+2196,"TSI Entry, Keltner Entry","PVO Exit, MACD Exit, Bollinger Exit",-14.483516483516484,-128.0,0.0
+2184,"TSI Entry, Keltner Entry","MFI Exit, MACD Exit, Bollinger Exit",-14.483516483516484,-128.0,0.0
+2208,"TSI Entry, Keltner Entry","TSI Exit, Bollinger Exit",-14.571428571428571,-128.0,19.0
+2174,"TSI Entry, Keltner Entry","Force Exit, TSI Exit, Bollinger Exit",-14.571428571428571,-128.0,19.0
+77,Force Entry,PVO Exit,-14.615384615384615,-555.0,326.0
+949,"MFI Entry, MACD Entry","Force Exit, RSI Exit, Bollinger Exit",-14.659340659340659,-435.0,286.0
+1526,"PVO Entry, MACD Entry","MFI Exit, MACD Exit, Bollinger Exit",-14.725274725274724,-450.0,174.0
+2188,"TSI Entry, Keltner Entry","MFI Exit, RSI Exit, Keltner Exit",-14.76923076923077,-128.0,0.0
+2195,"TSI Entry, Keltner Entry","PVO Exit, MACD Exit",-14.813186813186814,-128.0,0.0
+984,"MFI Entry, MACD Entry","RSI Exit, Keltner Exit",-14.846153846153847,-435.0,247.0
+176,"Force Entry, Keltner Entry","PVO Exit, MACD Exit, Keltner Exit",-14.868131868131869,-287.0,0.0
+179,"Force Entry, Keltner Entry","PVO Exit, RSI Exit, Keltner Exit",-14.868131868131869,-287.0,0.0
+175,"Force Entry, Keltner Entry","PVO Exit, MACD Exit, Bollinger Exit",-14.868131868131869,-287.0,0.0
+182,"Force Entry, Keltner Entry","PVO Exit, TSI Exit, Keltner Exit",-14.868131868131869,-287.0,0.0
+181,"Force Entry, Keltner Entry","PVO Exit, TSI Exit, Bollinger Exit",-14.868131868131869,-287.0,0.0
+180,"Force Entry, Keltner Entry","PVO Exit, TSI Exit",-14.868131868131869,-287.0,0.0
+169,"Force Entry, Keltner Entry","MFI Exit, TSI Exit, Bollinger Exit",-14.868131868131869,-287.0,0.0
+1456,"PVO Entry, Bollinger Entry","TSI Exit, Bollinger Exit",-15.0,-229.0,71.0
+1422,"PVO Entry, Bollinger Entry","Force Exit, TSI Exit, Bollinger Exit",-15.0,-229.0,71.0
+1463,"PVO Entry, Keltner Entry","Force Exit, MACD Exit, Bollinger Exit",-15.054945054945055,-375.0,211.0
+1535,"PVO Entry, MACD Entry","PVO Exit, Bollinger Exit",-15.142857142857142,-450.0,155.0
+187,"Force Entry, Keltner Entry","TSI Exit, Bollinger Exit",-15.164835164835164,-287.0,0.0
+153,"Force Entry, Keltner Entry","Force Exit, TSI Exit, Bollinger Exit",-15.164835164835164,-287.0,0.0
+633,Keltner Entry,"MFI Exit, MACD Exit, Bollinger Exit",-15.175824175824175,-341.0,396.0
+1466,"PVO Entry, Keltner Entry","Force Exit, RSI Exit, Bollinger Exit",-15.285714285714286,-375.0,257.0
+2091,TSI Entry,"MFI Exit, MACD Exit, Keltner Exit",-15.285714285714286,-503.0,716.0
+168,"Force Entry, Keltner Entry","MFI Exit, TSI Exit",-15.373626373626374,-287.0,68.0
+53,Force Entry,"Force Exit, MACD Exit, Bollinger Exit",-15.395604395604396,-555.0,380.0
+219,"Force Entry, MACD Entry","PVO Exit, Bollinger Exit",-15.43956043956044,-231.0,117.0
+1439,"PVO Entry, Bollinger Entry","MFI Exit, TSI Exit, Keltner Exit",-15.582417582417582,-229.0,4.0
+1448,"PVO Entry, Bollinger Entry","PVO Exit, RSI Exit, Keltner Exit",-15.626373626373626,-229.0,0.0
+1441,"PVO Entry, Bollinger Entry","PVO Exit, Bollinger Exit",-15.626373626373626,-229.0,0.0
+1442,"PVO Entry, Bollinger Entry","PVO Exit, Keltner Exit",-15.626373626373626,-229.0,0.0
+1444,"PVO Entry, Bollinger Entry","PVO Exit, MACD Exit, Bollinger Exit",-15.626373626373626,-229.0,0.0
+1445,"PVO Entry, Bollinger Entry","PVO Exit, MACD Exit, Keltner Exit",-15.626373626373626,-229.0,0.0
+1447,"PVO Entry, Bollinger Entry","PVO Exit, RSI Exit, Bollinger Exit",-15.626373626373626,-229.0,0.0
+1438,"PVO Entry, Bollinger Entry","MFI Exit, TSI Exit, Bollinger Exit",-15.626373626373626,-229.0,0.0
+1450,"PVO Entry, Bollinger Entry","PVO Exit, TSI Exit, Bollinger Exit",-15.626373626373626,-229.0,0.0
+1451,"PVO Entry, Bollinger Entry","PVO Exit, TSI Exit, Keltner Exit",-15.626373626373626,-229.0,0.0
+1432,"PVO Entry, Bollinger Entry","MFI Exit, MACD Exit, Bollinger Exit",-15.626373626373626,-229.0,0.0
+1436,"PVO Entry, Bollinger Entry","MFI Exit, RSI Exit, Keltner Exit",-15.626373626373626,-229.0,0.0
+220,"Force Entry, MACD Entry","PVO Exit, Keltner Exit",-15.637362637362637,-231.0,99.0
+170,"Force Entry, Keltner Entry","MFI Exit, TSI Exit, Keltner Exit",-15.648351648351648,-287.0,0.0
+197,"Force Entry, MACD Entry","Force Exit, RSI Exit, Bollinger Exit",-15.802197802197803,-231.0,95.0
+1443,"PVO Entry, Bollinger Entry","PVO Exit, MACD Exit",-15.945054945054945,-229.0,3.0
+758,"MACD Entry, Keltner Entry","Force Exit, MACD Exit, Bollinger Exit",-16.021978021978022,-565.0,392.0
+214,"Force Entry, MACD Entry","MFI Exit, RSI Exit, Keltner Exit",-16.175824175824175,-231.0,37.0
+1493,"PVO Entry, Keltner Entry","PVO Exit, RSI Exit",-16.34065934065934,-375.0,167.0
+647,Keltner Entry,"PVO Exit, RSI Exit",-16.47252747252747,-332.0,457.0
+1479,"PVO Entry, Keltner Entry","MFI Exit, MACD Exit, Bollinger Exit",-16.681318681318682,-375.0,211.0
+229,"Force Entry, MACD Entry","PVO Exit, TSI Exit, Keltner Exit",-16.725274725274726,-231.0,0.0
+228,"Force Entry, MACD Entry","PVO Exit, TSI Exit, Bollinger Exit",-16.725274725274726,-231.0,0.0
+226,"Force Entry, MACD Entry","PVO Exit, RSI Exit, Keltner Exit",-16.725274725274726,-231.0,0.0
+227,"Force Entry, MACD Entry","PVO Exit, TSI Exit",-16.725274725274726,-231.0,0.0
+225,"Force Entry, MACD Entry","PVO Exit, RSI Exit, Bollinger Exit",-16.725274725274726,-231.0,0.0
+224,"Force Entry, MACD Entry","PVO Exit, RSI Exit",-16.725274725274726,-231.0,0.0
+223,"Force Entry, MACD Entry","PVO Exit, MACD Exit, Keltner Exit",-16.725274725274726,-231.0,0.0
+216,"Force Entry, MACD Entry","MFI Exit, TSI Exit, Bollinger Exit",-16.725274725274726,-231.0,0.0
+221,"Force Entry, MACD Entry","PVO Exit, MACD Exit",-16.725274725274726,-231.0,0.0
+222,"Force Entry, MACD Entry","PVO Exit, MACD Exit, Bollinger Exit",-16.725274725274726,-231.0,0.0
+950,"MFI Entry, MACD Entry","Force Exit, RSI Exit, Keltner Exit",-16.813186813186814,-435.0,247.0
+215,"Force Entry, MACD Entry","MFI Exit, TSI Exit",-16.846153846153847,-231.0,74.0
+217,"Force Entry, MACD Entry","MFI Exit, TSI Exit, Keltner Exit",-16.923076923076923,-231.0,0.0
+200,"Force Entry, MACD Entry","Force Exit, TSI Exit, Bollinger Exit",-17.021978021978022,-231.0,0.0
+234,"Force Entry, MACD Entry","TSI Exit, Bollinger Exit",-17.021978021978022,-231.0,0.0
+1536,"PVO Entry, MACD Entry","PVO Exit, Keltner Exit",-17.043956043956044,-450.0,99.0
+802,MFI Entry,"Force Exit, Bollinger Exit",-17.13186813186813,-539.0,518.0
+1530,"PVO Entry, MACD Entry","MFI Exit, RSI Exit, Keltner Exit",-17.582417582417584,-450.0,50.0
+2098,TSI Entry,PVO Exit,-17.76923076923077,-503.0,481.0
+1369,PVO Entry,"Force Exit, MACD Exit, Bollinger Exit",-18.10989010989011,-450.0,308.0
+1545,"PVO Entry, MACD Entry","PVO Exit, TSI Exit, Keltner Exit",-18.13186813186813,-450.0,0.0
+1541,"PVO Entry, MACD Entry","PVO Exit, RSI Exit, Bollinger Exit",-18.13186813186813,-450.0,0.0
+1542,"PVO Entry, MACD Entry","PVO Exit, RSI Exit, Keltner Exit",-18.13186813186813,-450.0,0.0
+1532,"PVO Entry, MACD Entry","MFI Exit, TSI Exit, Bollinger Exit",-18.13186813186813,-450.0,0.0
+1544,"PVO Entry, MACD Entry","PVO Exit, TSI Exit, Bollinger Exit",-18.13186813186813,-450.0,0.0
+1539,"PVO Entry, MACD Entry","PVO Exit, MACD Exit, Keltner Exit",-18.13186813186813,-450.0,0.0
+1538,"PVO Entry, MACD Entry","PVO Exit, MACD Exit, Bollinger Exit",-18.13186813186813,-450.0,0.0
+1531,"PVO Entry, MACD Entry","MFI Exit, TSI Exit",-18.153846153846153,-450.0,74.0
+843,MFI Entry,"RSI Exit, Keltner Exit",-18.186813186813186,-539.0,394.0
+661,MACD Entry,"Force Exit, Bollinger Exit",-18.186813186813186,-542.0,415.0
+1550,"PVO Entry, MACD Entry","TSI Exit, Bollinger Exit",-18.21978021978022,-450.0,19.0
+1516,"PVO Entry, MACD Entry","Force Exit, TSI Exit, Bollinger Exit",-18.21978021978022,-450.0,19.0
+1494,"PVO Entry, Keltner Entry","PVO Exit, RSI Exit, Bollinger Exit",-18.23076923076923,-375.0,167.0
+1470,"PVO Entry, Keltner Entry","Force Exit, TSI Exit, Keltner Exit",-18.285714285714285,-375.0,339.0
+953,"MFI Entry, MACD Entry","Force Exit, TSI Exit, Keltner Exit",-18.296703296703296,-435.0,148.0
+1543,"PVO Entry, MACD Entry","PVO Exit, TSI Exit",-18.571428571428573,-450.0,0.0
+1537,"PVO Entry, MACD Entry","PVO Exit, MACD Exit",-18.78021978021978,-450.0,0.0
+1484,"PVO Entry, Keltner Entry","MFI Exit, TSI Exit",-18.98901098901099,-375.0,68.0
+774,"MACD Entry, Keltner Entry","MFI Exit, MACD Exit, Bollinger Exit",-19.01098901098901,-565.0,392.0
+1533,"PVO Entry, MACD Entry","MFI Exit, TSI Exit, Keltner Exit",-19.21978021978022,-450.0,0.0
+2,Bollinger Entry,"Force Exit, Bollinger Exit",-19.296703296703296,-364.0,523.0
+835,MFI Entry,"PVO Exit, RSI Exit",-19.373626373626372,-539.0,318.0
+74,Force Entry,"MFI Exit, TSI Exit",-19.395604395604394,-555.0,206.0
+805,MFI Entry,"Force Exit, MACD Exit, Bollinger Exit",-19.64835164835165,-539.0,579.0
+783,"MACD Entry, Keltner Entry","PVO Exit, Bollinger Exit",-19.65934065934066,-565.0,580.0
+966,"MFI Entry, MACD Entry","MFI Exit, RSI Exit, Keltner Exit",-19.967032967032967,-435.0,27.0
+2084,TSI Entry,"MACD Exit, Bollinger Exit",-20.054945054945055,-503.0,346.0
+979,"MFI Entry, MACD Entry","PVO Exit, TSI Exit",-20.076923076923077,-435.0,0.0
+986,"MFI Entry, MACD Entry","TSI Exit, Bollinger Exit",-20.263736263736263,-435.0,0.0
+972,"MFI Entry, MACD Entry","PVO Exit, Keltner Exit",-20.263736263736263,-435.0,0.0
+975,"MFI Entry, MACD Entry","PVO Exit, MACD Exit, Keltner Exit",-20.263736263736263,-435.0,0.0
+974,"MFI Entry, MACD Entry","PVO Exit, MACD Exit, Bollinger Exit",-20.263736263736263,-435.0,0.0
+981,"MFI Entry, MACD Entry","PVO Exit, TSI Exit, Keltner Exit",-20.263736263736263,-435.0,0.0
+968,"MFI Entry, MACD Entry","MFI Exit, TSI Exit, Bollinger Exit",-20.263736263736263,-435.0,0.0
+971,"MFI Entry, MACD Entry","PVO Exit, Bollinger Exit",-20.263736263736263,-435.0,0.0
+980,"MFI Entry, MACD Entry","PVO Exit, TSI Exit, Bollinger Exit",-20.263736263736263,-435.0,0.0
+952,"MFI Entry, MACD Entry","Force Exit, TSI Exit, Bollinger Exit",-20.263736263736263,-435.0,0.0
+978,"MFI Entry, MACD Entry","PVO Exit, RSI Exit, Keltner Exit",-20.263736263736263,-435.0,0.0
+977,"MFI Entry, MACD Entry","PVO Exit, RSI Exit, Bollinger Exit",-20.263736263736263,-435.0,0.0
+1376,PVO Entry,"Force Exit, TSI Exit, Keltner Exit",-20.428571428571427,-450.0,339.0
+973,"MFI Entry, MACD Entry","PVO Exit, MACD Exit",-20.52747252747253,-435.0,0.0
+1496,"PVO Entry, Keltner Entry","PVO Exit, TSI Exit",-20.53846153846154,-375.0,0.0
+1489,"PVO Entry, Keltner Entry","PVO Exit, Keltner Exit",-20.681318681318682,-375.0,49.0
+967,"MFI Entry, MACD Entry","MFI Exit, TSI Exit",-20.736263736263737,-435.0,0.0
+637,Keltner Entry,"MFI Exit, RSI Exit, Keltner Exit",-20.75824175824176,-341.0,307.0
+1503,"PVO Entry, Keltner Entry","TSI Exit, Bollinger Exit",-20.78021978021978,-375.0,67.0
+1469,"PVO Entry, Keltner Entry","Force Exit, TSI Exit, Bollinger Exit",-20.78021978021978,-375.0,67.0
+821,MFI Entry,"MFI Exit, MACD Exit, Bollinger Exit",-20.791208791208792,-539.0,579.0
+826,MFI Entry,"MFI Exit, TSI Exit",-20.86813186813187,-539.0,349.0
+969,"MFI Entry, MACD Entry","MFI Exit, TSI Exit, Keltner Exit",-20.978021978021978,-435.0,0.0
+1490,"PVO Entry, Keltner Entry","PVO Exit, MACD Exit",-21.065934065934066,-375.0,0.0
+1497,"PVO Entry, Keltner Entry","PVO Exit, TSI Exit, Bollinger Exit",-21.21978021978022,-375.0,0.0
+1498,"PVO Entry, Keltner Entry","PVO Exit, TSI Exit, Keltner Exit",-21.21978021978022,-375.0,0.0
+1495,"PVO Entry, Keltner Entry","PVO Exit, RSI Exit, Keltner Exit",-21.21978021978022,-375.0,0.0
+1492,"PVO Entry, Keltner Entry","PVO Exit, MACD Exit, Keltner Exit",-21.21978021978022,-375.0,0.0
+1491,"PVO Entry, Keltner Entry","PVO Exit, MACD Exit, Bollinger Exit",-21.21978021978022,-375.0,0.0
+1485,"PVO Entry, Keltner Entry","MFI Exit, TSI Exit, Bollinger Exit",-21.21978021978022,-375.0,0.0
+56,Force Entry,"Force Exit, RSI Exit, Bollinger Exit",-21.417582417582416,-555.0,259.0
+1486,"PVO Entry, Keltner Entry","MFI Exit, TSI Exit, Keltner Exit",-21.52747252747253,-375.0,0.0
+650,Keltner Entry,"PVO Exit, TSI Exit",-21.560439560439562,-341.0,322.0
+1483,"PVO Entry, Keltner Entry","MFI Exit, RSI Exit, Keltner Exit",-21.65934065934066,-375.0,0.0
+1372,PVO Entry,"Force Exit, RSI Exit, Bollinger Exit",-21.725274725274726,-450.0,268.0
+809,MFI Entry,"Force Exit, RSI Exit, Keltner Exit",-21.846153846153847,-539.0,394.0
+830,MFI Entry,"PVO Exit, Bollinger Exit",-21.87912087912088,-539.0,413.0
+69,Force Entry,"MFI Exit, MACD Exit, Bollinger Exit",-22.186813186813186,-555.0,308.0
+1399,PVO Entry,"PVO Exit, RSI Exit",-22.307692307692307,-450.0,208.0
+5,Bollinger Entry,"Force Exit, MACD Exit, Bollinger Exit",-22.46153846153846,-364.0,493.0
+761,"MACD Entry, Keltner Entry","Force Exit, RSI Exit, Bollinger Exit",-22.65934065934066,-565.0,142.0
+648,Keltner Entry,"PVO Exit, RSI Exit, Bollinger Exit",-22.791208791208792,-341.0,457.0
+664,MACD Entry,"Force Exit, MACD Exit, Bollinger Exit",-23.021978021978022,-542.0,502.0
+1394,PVO Entry,"PVO Exit, Bollinger Exit",-23.021978021978022,-450.0,468.0
+808,MFI Entry,"Force Exit, RSI Exit, Bollinger Exit",-23.615384615384617,-539.0,251.0
+1385,PVO Entry,"MFI Exit, MACD Exit, Bollinger Exit",-23.813186813186814,-450.0,308.0
+21,Bollinger Entry,"MFI Exit, MACD Exit, Bollinger Exit",-24.12087912087912,-364.0,493.0
+812,MFI Entry,"Force Exit, TSI Exit, Keltner Exit",-24.296703296703296,-539.0,264.0
+643,Keltner Entry,"PVO Exit, Keltner Exit",-24.52747252747253,-341.0,283.0
+765,"MACD Entry, Keltner Entry","Force Exit, TSI Exit, Keltner Exit",-24.703296703296704,-565.0,339.0
+35,Bollinger Entry,"PVO Exit, RSI Exit",-24.923076923076923,-364.0,343.0
+779,"MACD Entry, Keltner Entry","MFI Exit, TSI Exit",-25.13186813186813,-565.0,228.0
+671,MACD Entry,"Force Exit, TSI Exit, Keltner Exit",-25.285714285714285,-542.0,559.0
+791,"MACD Entry, Keltner Entry","PVO Exit, TSI Exit",-25.307692307692307,-565.0,209.0
+689,MACD Entry,"PVO Exit, Bollinger Exit",-25.516483516483518,-542.0,502.0
+2071,TSI Entry,"Force Exit, Bollinger Exit",-25.582417582417584,-503.0,289.0
+644,Keltner Entry,"PVO Exit, MACD Exit",-25.604395604395606,-341.0,322.0
+680,MACD Entry,"MFI Exit, MACD Exit, Bollinger Exit",-25.736263736263737,-542.0,502.0
+78,Force Entry,"PVO Exit, Bollinger Exit",-25.967032967032967,-555.0,273.0
+828,MFI Entry,"MFI Exit, TSI Exit, Keltner Exit",-26.0,-539.0,349.0
+789,"MACD Entry, Keltner Entry","PVO Exit, RSI Exit, Bollinger Exit",-26.032967032967033,-565.0,123.0
+788,"MACD Entry, Keltner Entry","PVO Exit, RSI Exit",-26.032967032967033,-565.0,123.0
+30,Bollinger Entry,"PVO Exit, Bollinger Exit",-26.21978021978022,-364.0,541.0
+652,Keltner Entry,"PVO Exit, TSI Exit, Keltner Exit",-26.296703296703296,-341.0,280.0
+778,"MACD Entry, Keltner Entry","MFI Exit, RSI Exit, Keltner Exit",-26.34065934065934,-565.0,136.0
+836,MFI Entry,"PVO Exit, RSI Exit, Bollinger Exit",-26.417582417582416,-539.0,318.0
+785,"MACD Entry, Keltner Entry","PVO Exit, MACD Exit",-26.483516483516482,-565.0,209.0
+2115,TSI Entry,"TSI Exit, Keltner Exit",-26.945054945054945,-503.0,239.0
+83,Force Entry,"PVO Exit, RSI Exit",-27.35164835164835,-555.0,273.0
+73,Force Entry,"MFI Exit, RSI Exit, Keltner Exit",-27.35164835164835,-555.0,164.0
+784,"MACD Entry, Keltner Entry","PVO Exit, Keltner Exit",-27.53846153846154,-565.0,94.0
+640,Keltner Entry,"MFI Exit, TSI Exit, Keltner Exit",-27.582417582417584,-341.0,204.0
+1390,PVO Entry,"MFI Exit, TSI Exit",-27.86813186813187,-450.0,118.0
+8,Bollinger Entry,"Force Exit, RSI Exit, Bollinger Exit",-27.934065934065934,-364.0,311.0
+657,Keltner Entry,"TSI Exit, Bollinger Exit",-27.98901098901099,-341.0,75.0
+623,Keltner Entry,"Force Exit, TSI Exit, Bollinger Exit",-27.98901098901099,-341.0,75.0
+79,Force Entry,"PVO Exit, Keltner Exit",-28.13186813186813,-555.0,143.0
+84,Force Entry,"PVO Exit, RSI Exit, Bollinger Exit",-28.208791208791208,-555.0,273.0
+1402,PVO Entry,"PVO Exit, TSI Exit",-28.263736263736263,-450.0,289.0
+780,"MACD Entry, Keltner Entry","MFI Exit, TSI Exit, Bollinger Exit",-28.571428571428573,-565.0,0.0
+786,"MACD Entry, Keltner Entry","PVO Exit, MACD Exit, Bollinger Exit",-28.571428571428573,-565.0,0.0
+793,"MACD Entry, Keltner Entry","PVO Exit, TSI Exit, Keltner Exit",-28.571428571428573,-565.0,0.0
+787,"MACD Entry, Keltner Entry","PVO Exit, MACD Exit, Keltner Exit",-28.571428571428573,-565.0,0.0
+790,"MACD Entry, Keltner Entry","PVO Exit, RSI Exit, Keltner Exit",-28.571428571428573,-565.0,0.0
+792,"MACD Entry, Keltner Entry","PVO Exit, TSI Exit, Bollinger Exit",-28.571428571428573,-565.0,0.0
+1396,PVO Entry,"PVO Exit, MACD Exit",-28.63736263736264,-450.0,289.0
+798,"MACD Entry, Keltner Entry","TSI Exit, Bollinger Exit",-28.65934065934066,-565.0,19.0
+764,"MACD Entry, Keltner Entry","Force Exit, TSI Exit, Bollinger Exit",-28.65934065934066,-565.0,19.0
+694,MACD Entry,"PVO Exit, RSI Exit",-28.736263736263737,-542.0,317.0
+12,Bollinger Entry,"Force Exit, TSI Exit, Keltner Exit",-29.21978021978022,-364.0,183.0
+645,Keltner Entry,"PVO Exit, MACD Exit, Bollinger Exit",-29.373626373626372,-341.0,0.0
+651,Keltner Entry,"PVO Exit, TSI Exit, Bollinger Exit",-29.373626373626372,-341.0,0.0
+649,Keltner Entry,"PVO Exit, RSI Exit, Keltner Exit",-29.373626373626372,-341.0,0.0
+639,Keltner Entry,"MFI Exit, TSI Exit, Bollinger Exit",-29.373626373626372,-341.0,0.0
+646,Keltner Entry,"PVO Exit, MACD Exit, Keltner Exit",-29.373626373626372,-341.0,0.0
+76,Force Entry,"MFI Exit, TSI Exit, Keltner Exit",-29.417582417582416,-555.0,136.0
+2074,TSI Entry,"Force Exit, MACD Exit, Bollinger Exit",-29.417582417582416,-503.0,346.0
+825,MFI Entry,"MFI Exit, RSI Exit, Keltner Exit",-29.615384615384617,-539.0,27.0
+1400,PVO Entry,"PVO Exit, RSI Exit, Bollinger Exit",-29.626373626373628,-450.0,168.0
+88,Force Entry,"PVO Exit, TSI Exit, Keltner Exit",-29.681318681318682,-555.0,139.0
+86,Force Entry,"PVO Exit, TSI Exit",-29.681318681318682,-555.0,139.0
+838,MFI Entry,"PVO Exit, TSI Exit",-29.857142857142858,-539.0,4.0
+831,MFI Entry,"PVO Exit, Keltner Exit",-29.912087912087912,-539.0,0.0
+833,MFI Entry,"PVO Exit, MACD Exit, Bollinger Exit",-29.912087912087912,-539.0,0.0
+834,MFI Entry,"PVO Exit, MACD Exit, Keltner Exit",-29.912087912087912,-539.0,0.0
+827,MFI Entry,"MFI Exit, TSI Exit, Bollinger Exit",-29.912087912087912,-539.0,0.0
+811,MFI Entry,"Force Exit, TSI Exit, Bollinger Exit",-29.912087912087912,-539.0,0.0
+837,MFI Entry,"PVO Exit, RSI Exit, Keltner Exit",-29.912087912087912,-539.0,0.0
+845,MFI Entry,"TSI Exit, Bollinger Exit",-29.912087912087912,-539.0,0.0
+839,MFI Entry,"PVO Exit, TSI Exit, Bollinger Exit",-29.912087912087912,-539.0,0.0
+840,MFI Entry,"PVO Exit, TSI Exit, Keltner Exit",-29.912087912087912,-539.0,0.0
+832,MFI Entry,"PVO Exit, MACD Exit",-30.043956043956044,-539.0,1.0
+781,"MACD Entry, Keltner Entry","MFI Exit, TSI Exit, Keltner Exit",-30.274725274725274,-565.0,0.0
+2104,TSI Entry,"PVO Exit, RSI Exit",-30.35164835164835,-503.0,231.0
+80,Force Entry,"PVO Exit, MACD Exit",-30.406593406593405,-555.0,0.0
+26,Bollinger Entry,"MFI Exit, TSI Exit",-30.582417582417584,-450.0,192.0
+1409,PVO Entry,"TSI Exit, Bollinger Exit",-30.65934065934066,-450.0,111.0
+1375,PVO Entry,"Force Exit, TSI Exit, Bollinger Exit",-30.65934065934066,-450.0,111.0
+2099,TSI Entry,"PVO Exit, Bollinger Exit",-30.692307692307693,-503.0,481.0
+2090,TSI Entry,"MFI Exit, MACD Exit, Bollinger Exit",-30.978021978021978,-503.0,346.0
+667,MACD Entry,"Force Exit, RSI Exit, Bollinger Exit",-31.01098901098901,-542.0,286.0
+85,Force Entry,"PVO Exit, RSI Exit, Keltner Exit",-31.208791208791208,-555.0,0.0
+87,Force Entry,"PVO Exit, TSI Exit, Bollinger Exit",-31.208791208791208,-555.0,0.0
+75,Force Entry,"MFI Exit, TSI Exit, Bollinger Exit",-31.208791208791208,-555.0,0.0
+82,Force Entry,"PVO Exit, MACD Exit, Keltner Exit",-31.208791208791208,-555.0,0.0
+81,Force Entry,"PVO Exit, MACD Exit, Bollinger Exit",-31.208791208791208,-555.0,0.0
+1395,PVO Entry,"PVO Exit, Keltner Exit",-31.36263736263736,-450.0,108.0
+93,Force Entry,"TSI Exit, Bollinger Exit",-31.505494505494507,-555.0,0.0
+59,Force Entry,"Force Exit, TSI Exit, Bollinger Exit",-31.505494505494507,-555.0,0.0
+25,Bollinger Entry,"MFI Exit, RSI Exit, Keltner Exit",-31.857142857142858,-364.0,177.0
+36,Bollinger Entry,"PVO Exit, RSI Exit, Bollinger Exit",-32.16483516483517,-364.0,343.0
+1389,PVO Entry,"MFI Exit, RSI Exit, Keltner Exit",-32.252747252747255,-450.0,50.0
+2081,TSI Entry,"Force Exit, TSI Exit, Keltner Exit",-32.51648351648352,-503.0,137.0
+1404,PVO Entry,"PVO Exit, TSI Exit, Keltner Exit",-32.582417582417584,-450.0,3.0
+1403,PVO Entry,"PVO Exit, TSI Exit, Bollinger Exit",-32.61538461538461,-450.0,0.0
+1401,PVO Entry,"PVO Exit, RSI Exit, Keltner Exit",-32.61538461538461,-450.0,0.0
+1398,PVO Entry,"PVO Exit, MACD Exit, Keltner Exit",-32.61538461538461,-450.0,0.0
+1391,PVO Entry,"MFI Exit, TSI Exit, Bollinger Exit",-32.61538461538461,-450.0,0.0
+1397,PVO Entry,"PVO Exit, MACD Exit, Bollinger Exit",-32.61538461538461,-450.0,0.0
+1392,PVO Entry,"MFI Exit, TSI Exit, Keltner Exit",-33.08791208791209,-450.0,65.0
+684,MACD Entry,"MFI Exit, RSI Exit, Keltner Exit",-33.37362637362637,-542.0,151.0
+2077,TSI Entry,"Force Exit, RSI Exit, Bollinger Exit",-33.37362637362637,-503.0,208.0
+38,Bollinger Entry,"PVO Exit, TSI Exit",-33.45054945054945,-364.0,152.0
+697,MACD Entry,"PVO Exit, TSI Exit",-33.56043956043956,-542.0,215.0
+2078,TSI Entry,"Force Exit, RSI Exit, Keltner Exit",-33.69230769230769,-503.0,264.0
+2112,TSI Entry,"RSI Exit, Keltner Exit",-33.69230769230769,-503.0,264.0
+695,MACD Entry,"PVO Exit, RSI Exit, Bollinger Exit",-33.857142857142854,-542.0,317.0
+685,MACD Entry,"MFI Exit, TSI Exit",-34.16483516483517,-542.0,130.0
+31,Bollinger Entry,"PVO Exit, Keltner Exit",-34.23076923076923,-364.0,155.0
+40,Bollinger Entry,"PVO Exit, TSI Exit, Keltner Exit",-34.26373626373626,-364.0,152.0
+690,MACD Entry,"PVO Exit, Keltner Exit",-34.83516483516483,-542.0,129.0
+11,Bollinger Entry,"Force Exit, TSI Exit, Bollinger Exit",-35.18681318681319,-364.0,82.0
+45,Bollinger Entry,"TSI Exit, Bollinger Exit",-35.18681318681319,-364.0,82.0
+691,MACD Entry,"PVO Exit, MACD Exit",-35.42857142857143,-542.0,215.0
+32,Bollinger Entry,"PVO Exit, MACD Exit",-35.81318681318681,-364.0,47.0
+39,Bollinger Entry,"PVO Exit, TSI Exit, Bollinger Exit",-35.934065934065934,-364.0,0.0
+37,Bollinger Entry,"PVO Exit, RSI Exit, Keltner Exit",-35.934065934065934,-364.0,0.0
+33,Bollinger Entry,"PVO Exit, MACD Exit, Bollinger Exit",-35.934065934065934,-364.0,0.0
+27,Bollinger Entry,"MFI Exit, TSI Exit, Bollinger Exit",-35.934065934065934,-364.0,0.0
+34,Bollinger Entry,"PVO Exit, MACD Exit, Keltner Exit",-35.934065934065934,-364.0,0.0
+699,MACD Entry,"PVO Exit, TSI Exit, Keltner Exit",-35.956043956043956,-542.0,126.0
+2105,TSI Entry,"PVO Exit, RSI Exit, Bollinger Exit",-35.97802197802198,-503.0,231.0
+2095,TSI Entry,"MFI Exit, TSI Exit",-36.51648351648352,-503.0,164.0
+670,MACD Entry,"Force Exit, TSI Exit, Bollinger Exit",-37.043956043956044,-542.0,54.0
+704,MACD Entry,"TSI Exit, Bollinger Exit",-37.043956043956044,-542.0,54.0
+28,Bollinger Entry,"MFI Exit, TSI Exit, Keltner Exit",-37.08791208791209,-450.0,4.0
+698,MACD Entry,"PVO Exit, TSI Exit, Bollinger Exit",-37.34065934065934,-542.0,0.0
+696,MACD Entry,"PVO Exit, RSI Exit, Keltner Exit",-37.34065934065934,-542.0,0.0
+693,MACD Entry,"PVO Exit, MACD Exit, Keltner Exit",-37.34065934065934,-542.0,0.0
+692,MACD Entry,"PVO Exit, MACD Exit, Bollinger Exit",-37.34065934065934,-542.0,0.0
+686,MACD Entry,"MFI Exit, TSI Exit, Bollinger Exit",-37.34065934065934,-542.0,0.0
+2107,TSI Entry,"PVO Exit, TSI Exit",-38.505494505494504,-503.0,1.0
+2094,TSI Entry,"MFI Exit, RSI Exit, Keltner Exit",-39.46153846153846,-503.0,21.0
+2096,TSI Entry,"MFI Exit, TSI Exit, Bollinger Exit",-39.62637362637363,-503.0,0.0
+2108,TSI Entry,"PVO Exit, TSI Exit, Bollinger Exit",-39.62637362637363,-503.0,0.0
+2109,TSI Entry,"PVO Exit, TSI Exit, Keltner Exit",-39.62637362637363,-503.0,0.0
+2103,TSI Entry,"PVO Exit, MACD Exit, Keltner Exit",-39.62637362637363,-503.0,0.0
+2102,TSI Entry,"PVO Exit, MACD Exit, Bollinger Exit",-39.62637362637363,-503.0,0.0
+2101,TSI Entry,"PVO Exit, MACD Exit",-39.62637362637363,-503.0,0.0
+2100,TSI Entry,"PVO Exit, Keltner Exit",-39.62637362637363,-503.0,0.0
+2106,TSI Entry,"PVO Exit, RSI Exit, Keltner Exit",-39.62637362637363,-503.0,0.0
+2114,TSI Entry,"TSI Exit, Bollinger Exit",-39.714285714285715,-503.0,19.0
+2080,TSI Entry,"Force Exit, TSI Exit, Bollinger Exit",-39.714285714285715,-503.0,19.0
+687,MACD Entry,"MFI Exit, TSI Exit, Keltner Exit",-40.38461538461539,-542.0,0.0
+2097,TSI Entry,"MFI Exit, TSI Exit, Keltner Exit",-41.1978021978022,-503.0,0.0
